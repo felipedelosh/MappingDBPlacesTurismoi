@@ -1012,5 +1012,5 @@ Test_register:1010 >> ['Lago-Peten-Itza', ' Lake Petén Itzá (no usar)', '22/04
 Test_register:1011 >> ['BosnaIHercegovina', 'Sarajevo   no usar ', '02/12/2019 12:40', '43.850020203917126', '18.392087478775238', '100.0', 'SJJ', 'Bosnia and Herzegovina (BA)']
 Test_register:1012 >> ['Jerezdelafrontera', 'Jerez de la frontera NO USAR', '30/03/2022 06:41', '36.71', '-6.12', '100.0', 'XRY', 'Spain (ES)']
 Test_register:1013 >> ['SantaCruzdaGraciosa', 'Santa Cruz da Graciosa (No usar)', '27/06/2019 10:03', '39.085580551905366', '-28.0008326302507', '100.0', 'GRW', 'Portugal (PT)']
-Total_Reg_Inserted >> 10838
+Total_Reg_Inserted >> 10900
 Counter_err >> 1014

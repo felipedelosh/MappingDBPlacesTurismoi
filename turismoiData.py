@@ -8,6 +8,7 @@ This file is create to save all information from turismoi
 class TurismoiDATA:
     def __init__(self) -> None:
         self.data = {} # {iso_country.lower().LRstrip() + ":" + city_name.lower().LRstrip()}
+        self.country_iso_name = {} # [iso] = name_country
         self.isTheDataLoad = False
         self.metadata = {}
 
@@ -19,9 +20,12 @@ class TurismoiDATA:
             name_city = str(data[11]).lower().lstrip().rstrip()
             key = iso_country + ":" + name_city
             
-            
+            name_country = data[2].lower().lstrip().rstrip()
+            if iso_country not in self.country_iso_name.keys():
+                self.country_iso_name[iso_country] = name_country
 
             if key in self.data.keys():
+                # Note slug city is unique 
                 self.metadata["info"+":"+str(count)] = "Duplicate ID turismoi: " + str(key) + " :( "
                 count = count + 1
             else:
@@ -89,4 +93,10 @@ class TurismoiDATA:
             return self.data[key]
         return ""
 
+    def getCountryNameViaIso(self, iso):
+        name = ""
+        iso = str(iso).strip().lower()
+        if iso in self.country_iso_name.keys():
+            name = self.country_iso_name[iso]
+        return name
 

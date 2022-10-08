@@ -33,8 +33,8 @@ class TravelCompositorData:
                 if key in self.data.keys():
                     key = key + "-" + str(duplicate_control)
                     duplicate_control = duplicate_control + 1
-                else:
-                    self.data[key] = i
+
+                self.data[key] = i
 
 
         self.isTheDataLoad = True 

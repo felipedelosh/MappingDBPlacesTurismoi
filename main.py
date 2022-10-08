@@ -24,6 +24,8 @@ class Sofware:
         self.btnLoadData = Button(self.canvas, text="Load DATA", command=self.loadDATA)
         self.btnSaveData = Button(self.canvas, text="Save DATA", command=self.saveDATA)
 
+        self.btnMactGeoLATLONViaTravelC = Button(self.canvas, text="Macth via TravelC", command=self.macthViaTravelCompositor)
+
         self.vizualizedAndRun()
 
     def vizualizedAndRun(self):
@@ -40,12 +42,18 @@ class Sofware:
         self.btnLoadData.place(x=100, y=70)
         self.btnSaveData.place(x=100, y=120)
 
+        self.btnMactGeoLATLONViaTravelC.place(x=300, y=80)
+
 
         self.screem.mainloop()
 
     def loadDATA(self):
         self.controller.loadData()
         self.refreshConsole()
+
+    def macthViaTravelCompositor(self):
+        if self.controller.isTheDataLoad():
+            print("Epaaaaaaaa")
 
     def saveDATA(self):
         pass

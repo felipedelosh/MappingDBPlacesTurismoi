@@ -3,14 +3,15 @@ FelipedelosH
 """
 from turismoiData import *
 from travelCompositorData import *
+from netacticaData import *
 
 class Controller:
     def __init__(self) -> None:
         self.turismoiData = TurismoiDATA()
         self.travelCData = TravelCompositorData()
+        self.netacticaData = NetacticaData()
         self.consoleText = ""
         self.metadata = ""
-        self.isTheDataLoad = False
         self.viewFullConsoleLogs = True
         
     
@@ -25,6 +26,13 @@ class Controller:
             self.travelCData.chargeData(dataTravelCompositor)
             self.saveMetadata("LOAD/loadingTravelCompositor.txt", self.travelCData.metadata)
             self.appendTextInConsoleText("Lading information.... TravelCompositor")
+
+            #This file contain a several places with lat and lon
+            dataNetactica = self.rtnArcheveInfo("RESORCES/all_cities_with_lat_and_lon.csv")
+            self.netacticaData.chargeData(dataNetactica)
+            self.saveMetadata("LOAD/loadingNetactica.txt", self.netacticaData.metadata)
+            self.appendTextInConsoleText("Lading LAT N LON info via.... Netactica")
+
 
                 
             
@@ -56,6 +64,9 @@ class Controller:
             f.close()
         except:
             self.appendTextInConsoleText("Error write metadata >> " + filename)
+
+    def isTheDataLoad(self):
+        return self.turismoiData.isTheDataLoad and self.travelCData.isTheDataLoad and self.netacticaData.isTheDataLoad
 
 
 
