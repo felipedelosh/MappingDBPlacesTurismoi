@@ -7,6 +7,7 @@ class TravelCompositorData:
     def __init__(self) -> None:
         self.data = {}
         self.isTheDataLoad = False
+        self.macthControl = {} # [key equal to self.data] = 0 or 1 >> 0: not macth 1: macth
         self.metadata = {}
 
     def chargeData(self, txt):
@@ -35,6 +36,7 @@ class TravelCompositorData:
                     duplicate_control = duplicate_control + 1
 
                 self.data[key] = i
+                self.macthControl[key] = 0
 
 
         self.isTheDataLoad = True 

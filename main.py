@@ -24,7 +24,9 @@ class Sofware:
         self.btnLoadData = Button(self.canvas, text="Load DATA", command=self.loadDATA)
         self.btnSaveData = Button(self.canvas, text="Save DATA", command=self.saveDATA)
 
-        self.btnMactGeoLATLONViaTravelC = Button(self.canvas, text="Macth via TravelC", command=self.macthViaTravelCompositor)
+        self.btnAddGeoLATLONViaNetacticaDB = Button(self.canvas, text="ADD LAT LON via Netactica", command=self.addGeoLatLonViaNectactica)
+
+        self.btnMacthViaTravelCName = Button(self.canvas, text="Macth via TravelC Name", command=self.macthViaTravelCompositor)
 
         self.vizualizedAndRun()
 
@@ -42,7 +44,9 @@ class Sofware:
         self.btnLoadData.place(x=100, y=70)
         self.btnSaveData.place(x=100, y=120)
 
-        self.btnMactGeoLATLONViaTravelC.place(x=300, y=80)
+        self.btnAddGeoLATLONViaNetacticaDB.place(x=300, y=40)
+
+        self.btnMacthViaTravelCName.place(x=300, y=70)
 
 
         self.screem.mainloop()
@@ -51,9 +55,14 @@ class Sofware:
         self.controller.loadData()
         self.refreshConsole()
 
+    def addGeoLatLonViaNectactica(self):
+        if self.controller.isTheDataLoad():
+            self.controller.addGeolatLonViaNetactica()
+        self.refreshConsole()
+
     def macthViaTravelCompositor(self):
         if self.controller.isTheDataLoad():
-            self.controller.machingData()
+            self.controller.machingDataViaTravelCName()
         self.refreshConsole()
 
     def saveDATA(self):

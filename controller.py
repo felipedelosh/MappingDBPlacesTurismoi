@@ -35,19 +35,42 @@ class Controller:
             self.appendTextInConsoleText("Lading LAT N LON info via.... Netactica")
 
 
+            self.saveLogs()
         except:
             self.appendTextInConsoleText("Error Lading information....")
+            self.saveLogs()
 
-    def machingData(self):
+    def addGeolatLonViaNetactica(self):
+        try:
+            self.appendTextInConsoleText("Adding GEO LAT LON via netactica....")
+            self.saveLogs()
+        except:
+            self.appendTextInConsoleText("Error to ADD LAT LON via netactica....")
+            self.saveLogs()
+
+    def machingDataViaTravelCName(self):
         try:
             # Search a travel compositor places in turismoi Via Names
-            for i in self.travelCData.data:
-                self.turismoiData.seachPlaceViaISOName(i, self.travelCData.getAllInfo(i), ";", [1])
+            for i in self.travelCData.macthControl:
+                status = self.turismoiData.seachPlaceViaISOName(i, self.travelCData.getAllInfo(i), ";", [1])
+                if status:
+                    self.travelCData.macthControl[i] = 1
+
+            count_macth = 0
+            count_not_macth = 0
+            for i in self.travelCData.macthControl:
+                if self.travelCData.macthControl[i] == 1:
+                    count_macth = count_macth + 1
+                else:
+                    count_not_macth = count_not_macth + 1
+
             
             self.saveMetadata("MATCH/macthingTurismoi.txt", self.turismoiData.metadataMaching)
-            self.appendTextInConsoleText("Macht DATA....")
+            self.appendTextInConsoleText("Macht DATA via TravelCompositor Name....\nTotal Macth:"+str(count_macth)+"\nNo Macth:"+str(count_not_macth)+"\n")
+            self.saveLogs()
         except:
-            self.appendTextInConsoleText("Error Maching data....")
+            self.appendTextInConsoleText("Error Maching data via TravelCompositor Name....")
+            self.saveLogs()
 
 
     def rtnArcheveInfo(self, path):
@@ -89,6 +112,14 @@ class Controller:
             f.close()
         except:
             self.appendTextInConsoleText("Error write metadata >> " + filename)
+
+    def saveLogs(self):
+        try:
+            f = open("METADATA/logs.txt", "w", encoding="UTF-8")
+            f.write(self.consoleText)
+            f.close()
+        except:
+            self.appendTextInConsoleText("Error write LOGs")
 
     def isTheDataLoad(self):
         return self.turismoiData.isTheDataLoad and self.travelCData.isTheDataLoad and self.netacticaData.isTheDataLoad
