@@ -34,10 +34,19 @@ class Controller:
             self.appendTextInConsoleText("Lading LAT N LON info via.... Netactica")
 
 
-                
-            
         except:
             self.appendTextInConsoleText("Error Lading information....")
+
+    def machingData(self):
+        try:
+            # Search a travel compositor places in turismoi Via Names
+            for i in self.travelCData.data:
+                self.turismoiData.seachPlaceViaISOName(i, self.travelCData.getAllInfo(i), ";", [1])
+            
+            self.saveMetadata("MATCH/macthingTurismoi.txt", self.turismoiData.metadataMaching)
+            self.appendTextInConsoleText("Macht DATA....")
+        except:
+            self.appendTextInConsoleText("Error Maching data....")
 
 
     def rtnArcheveInfo(self, path):

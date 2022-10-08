@@ -96,3 +96,9 @@ class TravelCompositorData:
 
         return data
 
+    def getAllInfo(self, key):
+        data = ""
+        if key in self.data.keys():
+            data = self.data[key]
+        return data 
+

@@ -8,9 +8,12 @@ This file is create to save all information from turismoi
 class TurismoiDATA:
     def __init__(self) -> None:
         self.data = {} # {iso_country.lower().LRstrip() + ":" + city_name.lower().LRstrip()}
+        self.machingDataKeys = {} # TusimoiKEY = OtherKey >> Example [co:bogota] = "COLOMBIA:Bog"
         self.country_iso_name = {} # [iso] = name_country
         self.isTheDataLoad = False
-        self.metadata = {}
+        self.metadata = {} # Charge LOGS
+        self.metadataMaching = {}
+        self.count = 0
 
     def chargeData(self, txt):
         count = 0
@@ -34,7 +37,6 @@ class TurismoiDATA:
         self.isTheDataLoad = True 
         self.metadata["Total_Reg_Inserted"] = str(len(self.data))
         self.metadata["Counter_err"] = str(count)
-
 
     def _validatesLatitude(self, latitude):
         """
@@ -99,4 +101,24 @@ class TurismoiDATA:
         if iso in self.country_iso_name.keys():
             name = self.country_iso_name[iso]
         return name
+
+
+    def seachPlaceViaISOName(self,key, allDATAofKey, delimiter, vecPosOfNames=[]):
+        """
+        key = is a key od dict >> Exampe iso:city_name
+        allDataOfKey = is all info exmaple code|name|name2|shortName|info|lat|lon
+        delimiter = separator >> Example | or ;
+        vecPosNames = where i find names of allDATAofKey >> example [1,2,3]
+        """
+        # First i seach via key
+        if key in self.data.keys():
+            self.machingDataKeys[key] = key
+            self.metadataMaching[str(self.count)] = "Found via Key " + str(key)
+            self.count = self.count + 1
+
+        # Seach sequencial
+        data = allDATAofKey.split(delimiter)
+        for i in vecPosOfNames:
+            pass
+            #print(data[i])
 

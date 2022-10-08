@@ -53,7 +53,8 @@ class Sofware:
 
     def macthViaTravelCompositor(self):
         if self.controller.isTheDataLoad():
-            print("Epaaaaaaaa")
+            self.controller.machingData()
+        self.refreshConsole()
 
     def saveDATA(self):
         pass
