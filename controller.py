@@ -2,10 +2,12 @@
 FelipedelosH
 """
 from turismoiData import *
+from travelCompositorData import *
 
 class Controller:
     def __init__(self) -> None:
         self.turismoiData = TurismoiDATA()
+        self.travelCData = TravelCompositorData()
         self.consoleText = ""
         self.metadata = ""
         self.isTheDataLoad = False
@@ -17,9 +19,14 @@ class Controller:
             dataTurismoi = self.rtnArcheveInfo("DATA/destinos_turismoi.csv")
             self.turismoiData.chargeData(dataTurismoi)
             self.saveMetadata("LOAD/loadingTurismoi.txt", self.turismoiData.metadata)
+            self.appendTextInConsoleText("Lading information.... Turismoi")
 
+            dataTravelCompositor = self.rtnArcheveInfo("DATA/destinos_travel_compositor.csv")
+            self.travelCData.chargeData(dataTravelCompositor)
+            self.saveMetadata("LOAD/loadingTravelCompositor.txt", self.travelCData.metadata)
+            self.appendTextInConsoleText("Lading information.... TravelCompositor")
 
-
+                
             
         except:
             self.appendTextInConsoleText("Error Lading information....")
