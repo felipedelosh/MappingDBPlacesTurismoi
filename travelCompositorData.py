@@ -1,7 +1,7 @@
 """
 FelipedelosH
 this file is create travel compositor Data
-0 Code;1 Name;2 Creation date;3 Latitude;4 Longitude;5 Zoom;5 Airport IATA;6 Country
+0 Code;1 Name;2 Creation date;3 Latitude;4 Longitude;5 Zoom;6 Airport IATA;7 Country
 """
 class TravelCompositorData:
     def __init__(self) -> None:
@@ -80,7 +80,7 @@ class TravelCompositorData:
             info = self.data[key].split(";")
             code = info[0]
             city_name = info[1]
-            county = info[6]
+            country = info[7]
             
 
             latitude = info[3]
@@ -93,7 +93,7 @@ class TravelCompositorData:
                 if not self._validatesLongitude(longitude):
                     longitude = "NULL"
 
-            data = code + "|" + city_name + "|" + county + "|" + latitude + "|" + longitude
+            data = code + "|" + city_name + "|" + country + "|" + latitude + "|" + longitude
 
 
         return data
