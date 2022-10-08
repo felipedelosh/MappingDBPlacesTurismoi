@@ -42,6 +42,11 @@ class Controller:
 
     def addGeolatLonViaNetactica(self):
         try:
+            for i in self.turismoiData.data:
+                geoDATA = self.turismoiData.getGeoLatLon(i)
+                if geoDATA != "NULL|NULL":
+                    print(i, geoDATA)
+
             self.appendTextInConsoleText("Adding GEO LAT LON via netactica....")
             self.saveLogs()
         except:
@@ -66,7 +71,7 @@ class Controller:
 
             
             self.saveMetadata("MATCH/macthingTurismoi.txt", self.turismoiData.metadataMaching)
-            self.appendTextInConsoleText("Macht DATA via TravelCompositor Name....\nTotal Macth:"+str(count_macth)+"\nNo Macth:"+str(count_not_macth)+"\n")
+            self.appendTextInConsoleText("Macht DATA via TravelCompositor via Name....\nTotal Macth:"+str(count_macth)+"\nNo Macth:"+str(count_not_macth)+"\n")
             self.saveLogs()
         except:
             self.appendTextInConsoleText("Error Maching data via TravelCompositor Name....")

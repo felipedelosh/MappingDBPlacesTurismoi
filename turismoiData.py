@@ -113,6 +113,26 @@ class TurismoiDATA:
             name = self.country_iso_name[iso]
         return name
 
+    def getGeoLatLon(self, key):
+        data = ""
+        if key in self.data.keys():
+            data = self.data[key].split("|")
+            latitude = data[15]
+            if latitude != "NULL":
+                if not self._validatesLatitude(latitude):
+                    print(latitude)
+                    latitude = "NULL"
+
+            longitude = data[16]
+            if not longitude != "NULL":
+                if not self._validatesLongitude(longitude):
+                    longitude = "NULL"
+
+            data = latitude+"|"+longitude
+
+
+        return data
+
 
     def seachPlaceViaISOName(self,key, allDATAofKey, delimiter, vecPosOfNames=[]):
         """
@@ -152,7 +172,7 @@ class TurismoiDATA:
                             found = True  
 
                         # 11 slug_place|
-                        if turismoi_data[10].strip().lower() == external_data[int(i)].strip().lower() and not found:
+                        if turismoi_data[10].strip().lower().replace('-', '') == external_data[int(i)].strip().lower().replace('-', '') and not found:
                             self.machingDataKeys[j] = key
                             self.metadataMaching[str(self.count)] = "Found via slug_place " + str(j) + " >> " + str(key)
                             self.count = self.count + 1
