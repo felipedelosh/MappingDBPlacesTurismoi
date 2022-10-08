@@ -1,0 +1,2 @@
+Total_Reg_Inserted >> 5087
+Counter_err >> 0
