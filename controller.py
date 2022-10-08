@@ -12,6 +12,7 @@ class Controller:
         self.netacticaData = NetacticaData()
         self.consoleText = ""
         self.metadata = ""
+        self.headers_excel_full_data = "turismoi_slug_place|turismoi_city_name|turismoi_country|turismoi_latitude|turismoi_longitude|travelC_provider_code|travelC_city_name|travelC_country|travelC_latitude|travelC_longitude"
         self.viewFullConsoleLogs = True
         
     
@@ -61,6 +62,21 @@ class Controller:
         if self.viewFullConsoleLogs:
             self.consoleText = self.consoleText + txt + "\n"
         self.metadata = self.metadata + txt + "\n"
+
+
+    def saveData(self):
+        try:
+            data = self.headers_excel_full_data + "\n"
+            for i in self.turismoiData.machingDataKeys:
+                data = data + self.turismoiData.getReportInfo(i) + "|" + self.travelCData.getReportInfo(self.turismoiData.machingDataKeys[i]) + "\n"
+            
+            f = open("OUTPUT/informe_full_headers.csv", "w", encoding="UTF-8")
+            f.write(data)
+            f.close()
+
+            self.appendTextInConsoleText("Generado Excel de la info....")
+        except:
+            self.appendTextInConsoleText("Error generando Excel....")
 
     def saveMetadata(self, filename, information):
         try:

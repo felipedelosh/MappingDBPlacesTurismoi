@@ -91,7 +91,7 @@ class TravelCompositorData:
                 if not self._validatesLongitude(longitude):
                     longitude = "NULL"
 
-            data = code + "|" + city_name + "|" + county + "|" + latitude + "|" + longitude + "|"
+            data = code + "|" + city_name + "|" + county + "|" + latitude + "|" + longitude
 
 
         return data

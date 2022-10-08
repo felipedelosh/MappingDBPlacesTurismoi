@@ -84,8 +84,8 @@ class TurismoiDATA:
             data = self.data[key].split("|")
             slug_city = data[11]
             city_name = data[9]
-            country = data[2]
-
+            country = data[2] + " (" + data[1] + ")"
+ 
             latitude = data[15]
             if latitude != "NULL":
                 if not self._validatesLatitude(latitude):
@@ -97,7 +97,7 @@ class TurismoiDATA:
                 if not self._validatesLongitude(longitude):
                     longitude = "NULL"
 
-            data = slug_city + "|" + city_name + "|" + country + "|" + latitude + "|" + longitude + "|"
+            data = slug_city + "|" + city_name + "|" + country + "|" + latitude + "|" + longitude
 
         return data
 

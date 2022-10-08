@@ -57,7 +57,10 @@ class Sofware:
         self.refreshConsole()
 
     def saveDATA(self):
-        pass
+        if self.controller.isTheDataLoad():
+            self.controller.saveData()
+        self.refreshConsole()
+
 
     def refreshConsole(self):
         self.console.delete('1.0', END)
