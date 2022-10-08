@@ -5,11 +5,15 @@ This file is create to save all information from turismoi
 
 """
 
+from time import pthread_getcpuclockid
+
+
 class TurismoiDATA:
     def __init__(self) -> None:
         self.data = {} # {iso_country.lower().LRstrip() + ":" + city_name.lower().LRstrip()}
         self.machingDataKeys = {} # TusimoiKEY = OtherKey >> Example [co:bogota] = "COLOMBIA:Bog"
         self.country_iso_name = {} # [iso] = name_country
+        self.city_macth_controller = {} # [iso:city_name] = [MacthID, status] >> Example1   [Colombia][Bogota] = ["co:bogota", "co:bogota", "Status0"] 
         self.isTheDataLoad = False
         self.metadata = {} # Charge LOGS
         self.metadataMaching = {}
@@ -23,7 +27,10 @@ class TurismoiDATA:
             name_city = str(data[11]).lower().lstrip().rstrip()
             key = iso_country + ":" + name_city
             
-            name_country = data[2].lower().lstrip().rstrip()
+            name_country = data[2]
+
+
+            name_country = name_country.lower().lstrip().rstrip()
             if iso_country not in self.country_iso_name.keys():
                 self.country_iso_name[iso_country] = name_country
 
@@ -33,6 +40,10 @@ class TurismoiDATA:
                 count = count + 1
             else:
                 self.data[key] = i
+
+
+            self.city_macth_controller[key] = []
+
         
         self.isTheDataLoad = True 
         self.metadata["Total_Reg_Inserted"] = str(len(self.data))
@@ -110,15 +121,48 @@ class TurismoiDATA:
         delimiter = separator >> Example | or ;
         vecPosNames = where i find names of allDATAofKey >> example [1,2,3]
         """
-        # First i seach via key
+        found = False
+        # First i search via key
         if key in self.data.keys():
             self.machingDataKeys[key] = key
             self.metadataMaching[str(self.count)] = "Found via Key " + str(key)
             self.count = self.count + 1
+            found = True
 
-        # Seach sequencial
-        data = allDATAofKey.split(delimiter)
-        for i in vecPosOfNames:
-            pass
-            #print(data[i])
+        # Seach sequencial via names
+        if not found:
+            external_data = allDATAofKey.split(delimiter)
+            get_iso_key = key.split(":")[0]
+            for i in vecPosOfNames:
+                for j in self.data:
+                    if get_iso_key in j:
+                        turismoi_data = self.data[j].split("|")
+                        # Found in 9 name_place|
+                        if turismoi_data[9].strip().lower() == external_data[int(i)].strip().lower():
+                            self.machingDataKeys[j] = key
+                            self.metadataMaching[str(self.count)] = "Found via name_place " + str(j) + " >> " + str(key)
+                            self.count = self.count + 1
+                            found = True        
 
+                        # 10 short_name_place|
+                        if turismoi_data[10].strip().lower() == external_data[int(i)].strip().lower() and not found:
+                            self.machingDataKeys[j] = key
+                            self.metadataMaching[str(self.count)] = "Found via short_name_place " + str(j) + " >> " + str(key)
+                            self.count = self.count + 1
+                            found = True  
+
+                        # 11 slug_place|
+                        if turismoi_data[10].strip().lower() == external_data[int(i)].strip().lower() and not found:
+                            self.machingDataKeys[j] = key
+                            self.metadataMaching[str(self.count)] = "Found via slug_place " + str(j) + " >> " + str(key)
+                            self.count = self.count + 1
+                            found = True 
+
+                        if found:
+                            break
+                
+                if found:
+                    break
+                        
+ 
+ 
