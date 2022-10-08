@@ -136,6 +136,8 @@ class TurismoiDATA:
 
     def seachPlaceViaISOName(self,key, allDATAofKey, delimiter, vecPosOfNames=[]):
         """
+        return True or False if the key or AllDataOfKey inside self.turismoi data
+        In the process the key is register in self.machingDataKeys[key] = key
         key = is a key od dict >> Exampe iso:city_name
         allDataOfKey = is all info exmaple code|name|name2|shortName|info|lat|lon
         delimiter = separator >> Example | or ;
@@ -165,14 +167,16 @@ class TurismoiDATA:
                             found = True        
 
                         # 10 short_name_place|
-                        if turismoi_data[10].strip().lower() == external_data[int(i)].strip().lower() and not found:
+                        if external_data[int(i)].strip().lower() in turismoi_data[10].strip().lower() and not found:
+                            #print("Encontreee...: ", external_data[int(i)], "*  En   ", key, " >> ", j)
                             self.machingDataKeys[j] = key
                             self.metadataMaching[str(self.count)] = "Found via short_name_place " + str(j) + " >> " + str(key)
                             self.count = self.count + 1
                             found = True  
 
                         # 11 slug_place|
-                        if turismoi_data[10].strip().lower().replace('-', '') == external_data[int(i)].strip().lower().replace('-', '') and not found:
+                        if external_data[int(i)].strip().lower().replace('-', '') in turismoi_data[10].strip().lower().replace('-', '') and not found:
+                            #print("Encontre Slug similar en: ...", external_data[int(i)], " >> ", key, "  >> ", j)
                             self.machingDataKeys[j] = key
                             self.metadataMaching[str(self.count)] = "Found via slug_place " + str(j) + " >> " + str(key)
                             self.count = self.count + 1

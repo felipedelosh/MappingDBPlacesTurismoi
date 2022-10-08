@@ -45,7 +45,11 @@ class Controller:
             for i in self.turismoiData.data:
                 geoDATA = self.turismoiData.getGeoLatLon(i)
                 if geoDATA != "NULL|NULL":
-                    print(i, geoDATA)
+                    data = i.split(":")
+                    iso_code = data[0]
+                    name_city = data[1]
+                    print(name_city)
+                    #self.netacticaData.searchPlace()
 
             self.appendTextInConsoleText("Adding GEO LAT LON via netactica....")
             self.saveLogs()

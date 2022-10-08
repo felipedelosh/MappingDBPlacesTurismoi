@@ -80,6 +80,16 @@ class NetacticaData:
 
         return data
 
+    def searchPlace(self, iso_code, city_name, allRegInfo, delimiter, vecPosToSearch=[]):
+        """
+        Return latitude|longitude if find the place.
+        
+        """
+        data = "NULL|NULL"
+        print("Buscando....", iso_code,":",city_name)
+
+        return data
+
 
 
 
