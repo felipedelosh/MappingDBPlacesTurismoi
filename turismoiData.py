@@ -5,7 +5,7 @@ This file is create to save all information from turismoi
 
 """
 
-from time import pthread_getcpuclockid
+from itertools import count
 
 
 class TurismoiDATA:
@@ -17,6 +17,7 @@ class TurismoiDATA:
         self.isTheDataLoad = False
         self.metadata = {} # Charge LOGS
         self.metadataMaching = {}
+        self.metadataGeo = {}
         self.count = 0
 
     def chargeData(self, txt):
@@ -132,6 +133,31 @@ class TurismoiDATA:
 
 
         return data
+
+    def setGeoLatLon(self, key, newGeo):
+        if key in self.data.keys():
+            dataToEdit = self.data[key]
+            dataToEdit = dataToEdit.split("|")
+            #print("Antes...", dataToEdit)
+            #print("Latitude: ", dataToEdit[15])
+            #print("Longitude", dataToEdit[16])
+            new_latude = newGeo.split("|")[0]
+            new_longitude =  newGeo.split("|")[1]
+            #print("Nueva GEO:", new_latude, new_longitude)ç
+            dataToEdit[15] = new_latude
+            dataToEdit[16] = new_longitude
+            # ReStruct the data
+            final_data = ""
+            for i in dataToEdit:
+                final_data = final_data + i + "|"
+
+            final_data = final_data.replace('|||', '||')
+
+            #print("Antes...", self.data[key])
+            #print("Despues.", final_data)
+            self.data[key] = final_data
+            self.metadataGeo[str(self.count)] = "Modify lat lon to " + str(key) + " >> " + newGeo
+            self.count = self.count + 1
 
 
     def seachPlaceViaISOName(self,key, allDATAofKey, delimiter, vecPosOfNames=[]):

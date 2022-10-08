@@ -44,15 +44,21 @@ class Controller:
         try:
             for i in self.turismoiData.data:
                 geoDATA = self.turismoiData.getGeoLatLon(i)
-                if geoDATA != "NULL|NULL":
+                if geoDATA == "NULL|NULL":
                     data = i.split(":")
                     iso_code = data[0]
                     name_city = data[1]
-                    print(name_city)
-                    #self.netacticaData.searchPlace()
+                    
+                    result = self.netacticaData.searchPlace(iso_code, name_city, self.turismoiData.data[i], ";", [9,10,11])
+                    
+                    if result != "NULL|NULL":
+                        self.turismoiData.setGeoLatLon(i, result)
+
+                    
 
             self.appendTextInConsoleText("Adding GEO LAT LON via netactica....")
             self.saveLogs()
+            self.saveMetadata("GEO/addTurismoiViaNectactica.txt", self.turismoiData.metadataGeo)
         except:
             self.appendTextInConsoleText("Error to ADD LAT LON via netactica....")
             self.saveLogs()

@@ -84,9 +84,15 @@ class NetacticaData:
         """
         Return latitude|longitude if find the place.
         
+
+
         """
         data = "NULL|NULL"
-        print("Buscando....", iso_code,":",city_name)
+        found = False
+        # First search via key
+        key = iso_code+":"+city_name
+        if key in self.data.keys():
+            data = self.getLatLonViaID(key)
 
         return data
 
