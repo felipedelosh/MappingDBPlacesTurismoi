@@ -1,7 +1,6 @@
 """
 FelipedelosH
 """
-from operator import countOf
 from turismoiData import *
 from travelCompositorData import *
 from netacticaData import *
@@ -162,6 +161,16 @@ class Controller:
             
         #data = [data[0:5], data[6:10]]
         return info
+
+    def getCountrisWithCitiesInTurismoi(self):
+        return self.turismoiData.getCountriesWithCities()
+
+    def getAllCitiesInCountryName(self, country_name):
+        return self.turismoiData.getAllCitiesIdOfCountryViaName(country_name)
+
+    def getMacthStatus(self, key):
+        return self.turismoiData.getmachingDataKeys(key)
+
 
     def saveRejectTest(self, regA, regB):
         try:

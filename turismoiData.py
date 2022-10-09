@@ -4,15 +4,17 @@ This file is create to save all information from turismoi
 0 ID_country|1 ISO_country|2 NAME_country|3 NAME_PRINT_country|4 ISO3_country|5 CODE_country|6 NAME_ESP_country|7 id_city|8 region_id|9 name_place|10 short_name_place|11 slug_place|12 group_id_place|13 province_id_place|14 group_slug_place|15 latitude|16 longitude|17 country_host_id_place|
 
 """
-
-from itertools import count
+from cgi import print_arguments
+from time import pthread_getcpuclockid
 
 
 class TurismoiDATA:
     def __init__(self) -> None:
         self.data = {} # {iso_country.lower().LRstrip() + ":" + city_name.lower().LRstrip()}
+        self.control_countries_cities_create = {} # [country] = [[city:name="data.key"]]
         self.machingDataKeys = {} # TusimoiKEY = OtherKey >> Example [co:bogota] = "COLOMBIA:Bog"
         self.country_iso_name = {} # [iso] = name_country
+        self.country_name_iso = {} # [name_country] = iso
         self.city_macth_controller = {} # [iso:city_name] = [MacthID, status] >> Example1   [Colombia][Bogota] = ["co:bogota", "co:bogota", "Status0"] 
         self.isTheDataLoad = False
         self.metadata = {} # Charge LOGS
@@ -25,15 +27,21 @@ class TurismoiDATA:
         for i in txt.split("\n")[1:-1]:
             data = i.split("|")
             iso_country = str(data[1]).lower().strip()
-            name_city = str(data[11]).lower().lstrip().rstrip()
-            key = iso_country + ":" + name_city
+            name_city = str(data[11])
+            key = iso_country + ":" + name_city.lower().lstrip().rstrip()
             
             name_country = data[2]
+            
 
 
-            name_country = name_country.lower().lstrip().rstrip()
+            # Save all iso_country = "name country"
             if iso_country not in self.country_iso_name.keys():
-                self.country_iso_name[iso_country] = name_country
+                self.country_iso_name[iso_country] = name_country.lower().lstrip().rstrip()
+        
+
+            # Save all name_country = iso
+            if name_country not in self.country_name_iso.keys():
+                self.country_name_iso[name_country] = iso_country
 
             if key in self.data.keys():
                 # Note slug city is unique 
@@ -41,6 +49,12 @@ class TurismoiDATA:
                 count = count + 1
             else:
                 self.data[key] = i
+
+            # Save all info [country] = [[city:name="data.key"]]
+            if not name_country in self.control_countries_cities_create.keys():
+                self.control_countries_cities_create[name_country] = {}
+            if name_city not in self.control_countries_cities_create[name_country].keys():
+                self.control_countries_cities_create[name_country][name_city] = key
 
 
             self.city_macth_controller[key] = []
@@ -159,6 +173,45 @@ class TurismoiDATA:
             self.metadataGeo[str(self.count)] = "Modify lat lon to " + str(key) + " >> " + newGeo
             self.count = self.count + 1
 
+    def getCountriesWithCities(self):
+        """
+        return a [str(name_country), str(name_country)...]
+        if country contains cities
+        
+        """
+        data = []
+        for i in self.control_countries_cities_create:
+            if len(self.control_countries_cities_create[i]) > 1:
+                data.append(i)
+
+        return data
+
+    def getAllCitiesIdOfCountryViaName(self, name_country):       
+        data = []
+        try:
+            iso_country = self.country_name_iso[name_country]
+            for i in self.data:
+                if str(iso_country+":") in i:
+                    data.append(i)
+        except:
+            pass
+
+
+        return data
+
+
+    def getAllCitymachInfo(self, country, city_name):
+        pass
+
+    def getmachingDataKeys(self, key):
+        """
+        Return a [co:bogota] = "COLOMBIA:Bog"
+        """
+        data = ""
+        if key in self.machingDataKeys.keys():
+            data = self.machingDataKeys[key]
+        return data
+ 
 
     def seachPlaceViaISOName(self,key, allDATAofKey, delimiter, vecPosOfNames=[]):
         """
