@@ -25,8 +25,9 @@ class Sofware:
         self.btnSaveData = Button(self.canvas, text="Save DATA", command=self.saveDATA)
 
         self.btnAddGeoLATLONViaNetacticaDB = Button(self.canvas, text="ADD LAT LON via Netactica", command=self.addGeoLatLonViaNectactica)
-
         self.btnMacthViaTravelCName = Button(self.canvas, text="Macth via TravelC Name", command=self.macthViaTravelCompositor)
+
+        self.btnTestRndOutput = Button(self.canvas, text="Test OUTPUT", command=self.textOutputData)
 
         self.vizualizedAndRun()
 
@@ -45,8 +46,9 @@ class Sofware:
         self.btnSaveData.place(x=100, y=120)
 
         self.btnAddGeoLATLONViaNetacticaDB.place(x=300, y=40)
-
         self.btnMacthViaTravelCName.place(x=300, y=70)
+
+        self.btnTestRndOutput.place(x=600, y=10)
 
 
         self.screem.mainloop()
@@ -70,6 +72,35 @@ class Sofware:
             self.controller.saveData()
         self.refreshConsole()
 
+    def textOutputData(self):
+        if self.controller.theOutPutIsCretate():
+            t = Toplevel()
+            t.geometry("720x200")
+            t.title("testingDataRnd")
+            canvas = Canvas(t,bg="snow", width=720, height=480)
+            canvas.place(x=0, y=0)
+            lblInfoTurismoi = Label(canvas, text="TurismoiDaTA: ")
+            lblInfoTurismoi.place(x=20, y=20)
+            lblDataTurismoi = Label(canvas, text="XXXXXXXXXXXXXXX")
+            lblDataTurismoi.place(x=150, y=20)
+            lblInfoTravelC  = Label(canvas, text="TravelCoData: ")
+            lblInfoTravelC.place(x=20, y=60)
+            lblDataTravelC = Label(canvas, text="XXXXXXXXXXXXXXX")
+            lblDataTravelC.place(x=150, y=60)
+            btnNextData = Button(canvas, text="Next RND DATA", command=lambda:self._nextOutPutDataRND(lblDataTurismoi, lblDataTravelC))
+            btnNextData.place(x=280, y=140)
+            btnRejectTest = Button(canvas, text="Reject Test", bg="red",command=lambda:self._rejectTest(lblDataTurismoi, lblDataTravelC))
+            btnRejectTest.place(x=100, y=140)
+
+    def _nextOutPutDataRND(self, lblTurismoi, lblTravelC):
+        data = self.controller.getInformeFullHeadersRndData()
+        data = data.split("*-*")
+        lblTurismoi['text'] = str(data[0])
+        lblTravelC['text'] = str(data[1])
+
+    def _rejectTest(self, lblTurismoi, lblTravelC):
+        self.controller.saveRejectTest(lblTurismoi['text'], lblTravelC['text'])
+            
 
     def refreshConsole(self):
         self.console.delete('1.0', END)

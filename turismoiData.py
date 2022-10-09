@@ -183,7 +183,8 @@ class TurismoiDATA:
             get_iso_key = key.split(":")[0]
             for i in vecPosOfNames:
                 for j in self.data:
-                    if get_iso_key in j:
+                    iso_key = j.split(":")[0]
+                    if get_iso_key == iso_key:
                         turismoi_data = self.data[j].split("|")
                         # Found in 9 name_place|
                         if turismoi_data[9].strip().lower() == external_data[int(i)].strip().lower():

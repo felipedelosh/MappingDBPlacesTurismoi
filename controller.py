@@ -1,9 +1,11 @@
 """
 FelipedelosH
 """
+from operator import countOf
 from turismoiData import *
 from travelCompositorData import *
 from netacticaData import *
+import random
 
 class Controller:
     def __init__(self) -> None:
@@ -12,6 +14,7 @@ class Controller:
         self.netacticaData = NetacticaData()
         self.consoleText = ""
         self.metadata = ""
+        self.tempOutPutData = []
         self.headers_excel_full_data = "turismoi_slug_place|turismoi_city_name|turismoi_country|turismoi_latitude|turismoi_longitude|travelC_provider_code|travelC_city_name|travelC_country|travelC_latitude|travelC_longitude"
         self.viewFullConsoleLogs = True
         
@@ -139,5 +142,54 @@ class Controller:
     def isTheDataLoad(self):
         return self.turismoiData.isTheDataLoad and self.travelCData.isTheDataLoad and self.netacticaData.isTheDataLoad
 
+    def getInformeFullHeadersRndData(self):
+        k = len(self.tempOutPutData)
+        k = random.randint(0, (k-1))
+        data = self.tempOutPutData[k].split("|")
+        count = 0
+        info = ""
+        for i in data:
+            if count <=4:
+                info = info + i + "|"
+            
+            if count == 4:
+                info = info + "*-*"
+
+            if count > 4 and count <=10:
+                info = info + i + "|"
+
+            count = count + 1
+            
+        #data = [data[0:5], data[6:10]]
+        return info
+
+    def saveRejectTest(self, regA, regB):
+        try:
+            data = ""
+            try:
+                f = open('TEST/reject.txt', 'r', encoding="UTF-8")
+                data = f.read()
+                exist = True
+            except:
+                exist = False
+
+            f = open('TEST/reject.txt', 'w', encoding="UTF-8")
+            f.write(data + "\n" + regA + regB + "\n")
+            f.close()
+    
+        except:
+            self.appendTextInConsoleText("Error write reject test")
 
 
+    def theOutPutIsCretate(self):
+        """
+        
+        """
+        try:
+            info = self.rtnArcheveInfo("OUTPUT/informe_full_headers.csv")
+            for i in info.split("\n")[1:-1]:
+                self.tempOutPutData.append(i)
+
+            return self.tempOutPutData != []
+        except:
+            return False
