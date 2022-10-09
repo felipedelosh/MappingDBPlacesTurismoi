@@ -4,9 +4,6 @@ This file is create to save all information from turismoi
 0 ID_country|1 ISO_country|2 NAME_country|3 NAME_PRINT_country|4 ISO3_country|5 CODE_country|6 NAME_ESP_country|7 id_city|8 region_id|9 name_place|10 short_name_place|11 slug_place|12 group_id_place|13 province_id_place|14 group_slug_place|15 latitude|16 longitude|17 country_host_id_place|
 
 """
-from cgi import print_arguments
-from time import pthread_getcpuclockid
-
 
 class TurismoiDATA:
     def __init__(self) -> None:
@@ -240,14 +237,22 @@ class TurismoiDATA:
                     if get_iso_key == iso_key:
                         turismoi_data = self.data[j].split("|")
                         # Found in 9 name_place|
-                        if turismoi_data[9].strip().lower() == external_data[int(i)].strip().lower():
+                        var_name_place = turismoi_data[9]
+                        var_name_place = self._eraseLowerAllNumbersOfString(var_name_place)
+                        ext_external_data = external_data[int(i)]
+                        ext_external_data = self._eraseLowerAllNumbersOfString(ext_external_data)
+                        if turismoi_data[9].strip().lower()  == ext_external_data:
                             self.machingDataKeys[j] = key
                             self.metadataMaching[str(self.count)] = "Found via name_place " + str(j) + " >> " + str(key)
                             self.count = self.count + 1
                             found = True        
 
                         # 10 short_name_place|
-                        if external_data[int(i)].strip().lower() in turismoi_data[10].strip().lower() and not found:
+                        var_short_name_place = turismoi_data[10]
+                        var_short_name_place = self._eraseLowerAllNumbersOfString(var_short_name_place)
+                        ext_external_data = external_data[int(i)]
+                        ext_external_data = self._eraseLowerAllNumbersOfString(ext_external_data)
+                        if ext_external_data in var_short_name_place and not found:
                             #print("Encontreee...: ", external_data[int(i)], "*  En   ", key, " >> ", j)
                             self.machingDataKeys[j] = key
                             self.metadataMaching[str(self.count)] = "Found via short_name_place " + str(j) + " >> " + str(key)
@@ -255,7 +260,11 @@ class TurismoiDATA:
                             found = True  
 
                         # 11 slug_place|
-                        if external_data[int(i)].strip().lower().replace('-', '') in turismoi_data[10].strip().lower().replace('-', '') and not found:
+                        var_slug_place = turismoi_data[10]
+                        var_name_place = self._eraseLowerAllNumbersOfString(var_slug_place)
+                        ext_external_data = external_data[int(i)]
+                        ext_external_data = self._eraseLowerAllNumbersOfString(ext_external_data)
+                        if ext_external_data in var_slug_place and not found:
                             #print("Encontre Slug similar en: ...", external_data[int(i)], " >> ", key, "  >> ", j)
                             self.machingDataKeys[j] = key
                             self.metadataMaching[str(self.count)] = "Found via slug_place " + str(j) + " >> " + str(key)
@@ -270,6 +279,11 @@ class TurismoiDATA:
 
 
         return found
+
+    def _eraseLowerAllNumbersOfString(self, txt):
+        for i in ['0','1','2','3','4','5','6','7','8','9','-']:
+            txt = txt.replace(i, '')
+        return txt.strip().lower()
                         
  
  
