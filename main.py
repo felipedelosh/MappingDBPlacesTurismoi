@@ -34,8 +34,9 @@ class Sofware:
         self.btnAddGeoLATLONViaNetacticaDB = Button(self.canvas, text="ADD LAT LON via Netactica", command=self.addGeoLatLonViaNectactica)
         self.btnMacthViaTravelCName = Button(self.canvas, text="Macth via TravelC Name", command=self.macthViaTravelCompositor)
 
-        self.btnTestRndOutput = Button(self.canvas, text="Test OUTPUT", command=self.textOutputData)
-        self.btnViewTusrismoiMacthStatus = Button(self.canvas, text="Turismoi Macth Status", command=self.viewWindowStateTurismoiMacth)
+        self.btnTestRndOutput = Button(self.canvas, text="?Test OUTPUT", command=self.textOutputData)
+        self.btnViewTusrismoiMacthStatus = Button(self.canvas, text="?Turismoi Macth Status", command=self.viewWindowStateTurismoiMacth)
+        self.btnViewStatusTravelCMacthStatus = Button(self.canvas, text="?TravelC Macth Status", command=self.viewWindowStateTravelCMacthMacth)
 
         self.clockIMG = PhotoImage(file='RESORCES/clock.gif')
 
@@ -60,6 +61,7 @@ class Sofware:
 
         self.btnTestRndOutput.place(x=600, y=10)
         self.btnViewTusrismoiMacthStatus.place(x=600, y=40)
+        self.btnViewStatusTravelCMacthStatus.place(x=600,y=70)
 
         
 
@@ -138,7 +140,7 @@ class Sofware:
             for i in self.controller.getCountrisWithCitiesInTurismoi():
                 name_btn = i
                 btnsCountriesTurismoi.append(Button(canvas, text=name_btn))
-                btnsCountriesTurismoi[counter].bind("<Button-1>", lambda key: self._showCitiesOfCountryInformation(key.widget.cget('text')))
+                btnsCountriesTurismoi[counter].bind("<Button-1>", lambda key: self._showCitiesOfCountryInformationTurismoi(key.widget.cget('text')))
 
                 posy_counter = posy_counter + 1
                 if posx_counter == 20: 
@@ -152,9 +154,8 @@ class Sofware:
                 posx_counter = posx_counter + 1
                 counter = counter + 1
 
-    def _showCitiesOfCountryInformation(self, country_name):
-        result = self.controller.getAllCitiesInCountryName(country_name)
-        formated_text = " "*70
+    def _showCitiesOfCountryInformationTurismoi(self, country_name):
+        result = self.controller.getAllCitiesInCountryNameTurismoi(country_name)
         data = ""
         for i in result:
             getMacthStatus = self.controller.getMacthStatus(i)
@@ -179,6 +180,43 @@ class Sofware:
             data = data + info + " " + GEOstatus + " * "  + getMacthStatus + "\n"
 
         self._showWindowWithText(country_name, data)
+
+    def viewWindowStateTravelCMacthMacth(self):
+        if self.controller.isTheDataLoad():
+            t = Toplevel()
+            t.geometry("1280x720")
+            t.title("Integridad de los datos")
+            canvas = Canvas(t, bg="snow", width=1280, height=720)
+            canvas.place(x=0, y=0)
+            w = int(canvas['width'])
+            h = int(canvas['height'])
+            canvas.create_text(w*0.09, h*0.03, text="Travel Compositor")
+            x0 = 0
+            y0 = 0
+            btnsCountriesTurismoi = []
+            counter = 0
+            posx_counter = 0
+            posy_counter = 0
+            for i in self.controller.getCountriesWithCitiesInTravelCompositor():
+                name_btn = i
+                btnsCountriesTurismoi.append(Button(canvas, text=name_btn))
+                btnsCountriesTurismoi[counter].bind("<Button-1>", lambda key: self._showCitiesOfCountryInformationTravelC(key.widget.cget('text')))
+
+                posy_counter = posy_counter + 1
+                if posx_counter == 20: 
+                    x0 = x0 + 120
+                    y0 = 0
+                    posx_counter = 0
+                    posy_counter = 0
+                y0 = ((posy_counter+1)*30)
+                btnsCountriesTurismoi[counter].place(x=x0, y=y0)
+
+                posx_counter = posx_counter + 1
+                counter = counter + 1
+
+    def _showCitiesOfCountryInformationTravelC(self, country_name):
+        print(country_name)
+
         
         
 

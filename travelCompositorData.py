@@ -7,6 +7,7 @@ class TravelCompositorData:
     def __init__(self) -> None:
         self.data = {}
         self.isTheDataLoad = False
+        self.control_countries_cities_create = {} 
         self.macthControl = {} # [key equal to self.data] = 0 or 1 >> 0: not macth 1: macth
         self.metadata = {}
 
@@ -15,7 +16,8 @@ class TravelCompositorData:
         duplicate_control = 0
         for i in txt.split("\n")[1:-1]:
             data = i.split(";")
-            if str(data[0]).__contains__('fake') or str(data[0]).__contains__('_NEW_') or str(data[1]).lower().__contains__('no usar'):
+            #if str(data[0]).__contains__('fake') or str(data[0]).__contains__('_NEW_') or str(data[1]).lower().__contains__('no usar'):
+            if str(data[1]).lower().__contains__('no usar'):
                 self.metadata["Test_register:"+str(count)] = str(data)
                 count = count + 1
             else:
@@ -29,6 +31,12 @@ class TravelCompositorData:
                 name_city = str(data[1]).lstrip().rstrip().lower()
 
                 key = iso_country + ":" + name_city
+
+            # Save all info [country] = [[city:name="data.key"]]
+            if not NAME_country in self.control_countries_cities_create.keys():
+                self.control_countries_cities_create[NAME_country] = {}
+            if name_city not in self.control_countries_cities_create[NAME_country].keys():
+                self.control_countries_cities_create[NAME_country][name_city] = key
 
                 
                 if key in self.data.keys():
@@ -103,4 +111,18 @@ class TravelCompositorData:
         if key in self.data.keys():
             data = self.data[key]
         return data 
+
+
+    def getCountriesWithCities(self):
+        """
+        return a [str(name_country), str(name_country)...]
+        if country contains cities
+        
+        """
+        data = []
+        for i in self.control_countries_cities_create:
+            if len(self.control_countries_cities_create[i]) > 1:
+                data.append(i)
+
+        return data
 

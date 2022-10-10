@@ -168,8 +168,12 @@ class Controller:
     def getCountrisWithCitiesInTurismoi(self):
         return self.turismoiData.getCountriesWithCities()
 
-    def getAllCitiesInCountryName(self, country_name):
+    def getCountriesWithCitiesInTravelCompositor(self):
+        return self.travelCData.getCountriesWithCities()
+
+    def getAllCitiesInCountryNameTurismoi(self, country_name):
         return self.turismoiData.getAllCitiesIdOfCountryViaName(country_name)
+
 
     def getMacthStatus(self, key):
         return self.turismoiData.getmachingDataKeys(key)
