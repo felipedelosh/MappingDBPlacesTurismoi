@@ -62,6 +62,7 @@ class Controller:
 
             self.appendTextInConsoleText("Adding GEO LAT LON via netactica....\nTotal GEO ADD: "+str(count))
             self.saveLogs()
+            self.saveMetadata("GEO/statusTruismoiNetacticaGEOLATLON.txt", self.netacticaData.metadataGEO)
             self.saveMetadata("GEO/addTurismoiViaNectactica.txt", self.turismoiData.metadataGeo)
         except:
             self.appendTextInConsoleText("Error to ADD LAT LON via netactica....")

@@ -1,0 +1,2230 @@
+0 >>  >> Macth via id ar:azul
+1 >>  >> Macth name_es equals ar:azul >> ar:azul
+2 >>  >> Macth name_es equals ar:bahia-blanca >> ar:bahía blanca
+3 >>  >> Macth via id ar:banfield
+4 >>  >> Macth name_es equals ar:banfield >> ar:banfield
+5 >>  >> Macth via id ar:beccar
+6 >>  >> Macth name_es equals ar:beccar >> ar:beccar
+7 >>  >> Macth name_es equals ar:belen-de-escobar >> ar:belén de escobar
+8 >>  >> Macth name_es equals ar:bella-vista >> ar:bella vista
+9 >>  >> Macth via id ar:berazategui
+10 >>  >> Macth name_es equals ar:berazategui >> ar:berazategui
+11 >>  >> Macth via id ar:bernal
+12 >>  >> Macth name_es equals ar:bernal >> ar:bernal
+13 >>  >> Macth via id ar:campana
+14 >>  >> Macth name_es equals ar:campana >> ar:campana
+15 >>  >> Macth via id ar:caseros
+16 >>  >> Macth name_es equals ar:caseros >> ar:caseros
+17 >>  >> Macth via id ar:castelar
+18 >>  >> Macth name_es equals ar:castelar >> ar:castelar
+19 >>  >> Macth via id ar:chivilcoy
+20 >>  >> Macth name_es equals ar:chivilcoy >> ar:chivilcoy
+21 >>  >> Macth name_es equals ar:ciudad-evita >> ar:ciudad evita
+22 >>  >> Macth via id ar:ciudadela
+23 >>  >> Macth name_es equals ar:ciudadela >> ar:ciudadela
+24 >>  >> Macth name_es equals ar:don-torcuato >> ar:don torcuato
+25 >>  >> Macth name_es equals ar:el-palomar >> ar:el palomar
+26 >>  >> Macth via id ar:ezeiza
+27 >>  >> Macth name_es equals ar:ezeiza >> ar:ezeiza
+28 >>  >> Macth name_es equals ar:florencio-varela >> ar:florencio varela
+29 >>  >> Macth name_es equals ar:general-rodriguez >> ar:general rodríguez
+30 >>  >> Macth via id ar:glew
+31 >>  >> Macth name_es equals ar:glew >> ar:glew
+32 >>  >> Macth name_es equals ar:gonzalez-catan >> ar:gonzález catán
+33 >>  >> Macth name_es equals ar:ituzaingo >> ar:ituzaingó
+34 >>  >> Macth name_es equals ar:junin >> ar:junín
+35 >>  >> Macth name_es equals ar:la-plata >> ar:la plata
+36 >>  >> Macth name_es equals ar:lanus >> ar:lanús
+37 >>  >> Macth name_es equals ar:lomas-de-zamora >> ar:lomas de zamora
+38 >>  >> Macth name_es equals ar:los-polvorines >> ar:los polvorines
+39 >>  >> Macth name_es equals ar:lujan >> ar:luján
+40 >>  >> Macth name_es equals ar:mar-del-plata >> ar:mar del plata
+41 >>  >> Macth name_es equals ar:martinez >> ar:martínez
+42 >>  >> Macth via id ar:mercedes
+43 >>  >> Macth name_es equals ar:mercedes >> ar:mercedes
+44 >>  >> Macth via id ar:merlo
+45 >>  >> Macth name_es equals ar:merlo >> ar:merlo
+46 >>  >> Macth name_es equals ar:monte-grande >> ar:monte grande
+47 >>  >> Macth via id ar:moreno
+48 >>  >> Macth name_es equals ar:moreno >> ar:moreno
+49 >>  >> Macth name_es equals ar:moron >> ar:morón
+50 >>  >> Macth via id ar:necochea
+51 >>  >> Macth name_es equals ar:necochea >> ar:necochea
+52 >>  >> Macth name_es equals ar:olavarria >> ar:olavarría
+53 >>  >> Macth via id ar:pergamino
+54 >>  >> Macth name_es equals ar:pergamino >> ar:pergamino
+55 >>  >> Macth via id ar:pilar
+56 >>  >> Macth name_es equals ar:pilar >> ar:pilar
+57 >>  >> Macth name_es equals ar:punta-alta >> ar:punta alta
+58 >>  >> Macth via id ar:quilmes
+59 >>  >> Macth name_es equals ar:quilmes >> ar:quilmes
+60 >>  >> Macth name_es equals ar:san-fernando >> ar:san fernando
+61 >>  >> Macth name_es equals ar:san-isidro >> ar:san isidro
+62 >>  >> Macth name_es equals ar:san-justo >> ar:san justo
+63 >>  >> Macth name_es equals ar:san-miguel >> ar:san miguel
+64 >>  >> Macth name_es equals ar:san-nicolas-de-los-arroyos >> ar:san nicolás de los arroyos
+65 >>  >> Macth via id ar:tandil
+66 >>  >> Macth name_es equals ar:tandil >> ar:tandil
+67 >>  >> Macth via id ar:temperley
+68 >>  >> Macth name_es equals ar:temperley >> ar:temperley
+69 >>  >> Macth name_es equals ar:tres-arroyos >> ar:tres arroyos
+70 >>  >> Macth name_es equals ar:vicente-lopez >> ar:vicente lópez
+71 >>  >> Macth name_es equals ar:villa-dominico >> ar:villa domínico
+72 >>  >> Macth name_es equals ar:villa-luzuriaga >> ar:villa luzuriaga
+73 >>  >> Macth name_es equals ar:virrey-del-pino >> ar:virrey del pino
+74 >>  >> Macth name_es equals ar:zarate >> ar:zárate
+75 >>  >> Macth via id ar:resistencia
+76 >>  >> Macth name_es equals ar:resistencia >> ar:resistencia
+77 >>  >> Macth name_es equals ar:comodoro-rivadavia >> ar:comodoro rivadavia
+78 >>  >> Macth via id ar:esquel
+79 >>  >> Macth name_es equals ar:esquel >> ar:esquel
+80 >>  >> Macth name_es equals ar:puerto-madryn >> ar:puerto madryn
+81 >>  >> Macth via id ar:rawson
+82 >>  >> Macth name_es equals ar:rawson >> ar:rawson
+83 >>  >> Macth via id ar:trelew
+84 >>  >> Macth name_es equals ar:trelew >> ar:trelew
+85 >>  >> Macth name_es equals ar:cordoba >> ar:córdoba
+86 >>  >> Macth name_es equals ar:rio-cuarto >> ar:río cuarto
+87 >>  >> Macth name_es equals ar:san-francisco >> ar:san francisco
+88 >>  >> Macth name_es equals ar:villa-carlos-paz >> ar:villa carlos paz
+89 >>  >> Macth name_es equals ar:villa-dolores >> ar:villa dolores
+90 >>  >> Macth name_es equals ar:villa-maria >> ar:villa maría
+91 >>  >> Macth via id ar:corrientes
+92 >>  >> Macth name_es equals ar:corrientes >> ar:corrientes
+93 >>  >> Macth via id ar:goya
+94 >>  >> Macth name_es equals ar:goya >> ar:goya
+95 >>  >> Macth via id ar:concordia
+96 >>  >> Macth name_es equals ar:concordia >> ar:concordia
+97 >>  >> Macth name_es equals ar:gualeguaychu >> ar:gualeguaychú
+98 >>  >> Macth name_es equals ar:parana >> ar:paraná
+99 >>  >> Macth via id ar:formosa
+100 >>  >> Macth name_es equals ar:formosa >> ar:formosa
+101 >>  >> Macth name_es equals ar:palpala >> ar:palpalá
+102 >>  >> Macth name_es equals ar:san-pedro-de-jujuy >> ar:san pedro de jujuy
+103 >>  >> Macth name_es equals ar:san-salvador-de-jujuy >> ar:san salvador de jujuy
+104 >>  >> Macth name_es equals ar:general-pico >> ar:general pico
+105 >>  >> Macth name_es equals ar:santa-rosa >> ar:santa rosa
+106 >>  >> Macth name_es equals ar:buenos-aires >> ar:buenos aires
+107 >>  >> Macth name_es equals ar:la-rioja >> ar:la rioja
+108 >>  >> Macth name_es equals ar:godoy-cruz >> ar:godoy cruz
+109 >>  >> Macth name_es equals ar:guaymallen >> ar:guaymallén
+110 >>  >> Macth name_es equals ar:las-heras >> ar:las heras
+111 >>  >> Macth name_es equals ar:lujan-de-cuyo >> ar:luján de cuyo
+112 >>  >> Macth name_es equals ar:maipu >> ar:maipú
+113 >>  >> Macth via id ar:mendoza
+114 >>  >> Macth name_es equals ar:mendoza >> ar:mendoza
+115 >>  >> Macth name_es equals ar:san-martin >> ar:san martín
+116 >>  >> Macth name_es equals ar:san-rafael >> ar:san rafael
+117 >>  >> Macth via id ar:eldorado
+118 >>  >> Macth name_es equals ar:eldorado >> ar:eldorado
+119 >>  >> Macth name_es equals ar:obera >> ar:oberá
+120 >>  >> Macth via id ar:posadas
+121 >>  >> Macth name_es equals ar:posadas >> ar:posadas
+122 >>  >> Macth name_es equals ar:neuquen >> ar:neuquén
+123 >>  >> Macth via id ar:cipolletti
+124 >>  >> Macth name_es equals ar:cipolletti >> ar:cipolletti
+125 >>  >> Macth name_es equals ar:general-roca >> ar:general roca
+126 >>  >> Macth name_es equals ar:san-carlos-de-bariloche >> ar:san carlos de bariloche
+127 >>  >> Macth via id ar:viedma
+128 >>  >> Macth name_es equals ar:viedma >> ar:viedma
+129 >>  >> Macth via id ar:salta
+130 >>  >> Macth name_es equals ar:salta >> ar:salta
+131 >>  >> Macth via id ar:tartagal
+132 >>  >> Macth name_es equals ar:tartagal >> ar:tartagal
+133 >>  >> Macth via id ar:catamarca
+134 >>  >> Macth name_es equals ar:catamarca >> ar:catamarca
+135 >>  >> Macth via id ar:chimbas
+136 >>  >> Macth name_es equals ar:chimbas >> ar:chimbas
+137 >>  >> Macth name_es equals ar:san-juan >> ar:san juan
+138 >>  >> Macth name_es equals ar:san-luis >> ar:san luis
+139 >>  >> Macth name_es equals ar:villa-mercedes >> ar:villa mercedes
+140 >>  >> Macth name_es equals ar:tucuman >> ar:tucumán
+141 >>  >> Macth name_es equals ar:rio-gallegos >> ar:río gallegos
+142 >>  >> Macth via id ar:rafaela
+143 >>  >> Macth name_es equals ar:rafaela >> ar:rafaela
+144 >>  >> Macth via id ar:reconquista
+145 >>  >> Macth name_es equals ar:reconquista >> ar:reconquista
+146 >>  >> Macth via id ar:rosario
+147 >>  >> Macth name_es equals ar:rosario >> ar:rosario
+148 >>  >> Macth name_es equals ar:santa-fe >> ar:santa fe
+149 >>  >> Macth name_es equals ar:venado-tuerto >> ar:venado tuerto
+150 >>  >> Macth name_es equals ar:la-banda >> ar:la banda
+151 >>  >> Macth name_es equals ar:santiago-del-estero >> ar:santiago del estero
+152 >>  >> Macth name_es equals ar:rio-grande >> ar:río grande
+153 >>  >> Macth via id ar:ushuaia
+154 >>  >> Macth name_es equals ar:ushuaia >> ar:ushuaia
+155 >>  >> Macth name_es equals ar:concepcion >> ar:concepción
+156 >>  >> Macth name_es equals ar:el-calafate >> ar:el calafate
+157 >>  >> Macth name_es equals bz:ciudad-de-belice >> bz:ciudad de belice
+158 >>  >> Macth name_es equals bz:cayo-goff >> bz:cayo goff
+159 >>  >> Macth name_es equals bz:belmopan >> bz:belmopán
+160 >>  >> Macth name_es equals bz:san-ignacio >> bz:san ignacio
+161 >>  >> Macth name_es equals bz:benque-viejo-del-carmen >> bz:benque viejo del carmen
+162 >>  >> Macth name_es equals bz:san-antonio-26272 >> bz:san antonio
+163 >>  >> Macth name_es equals bz:bullet-tree-falls >> bz:bullet tree falls
+164 >>  >> Macth name_en equals bz:spanish-lookout >> bz:mirador español
+165 >>  >> Macth via id bz:vaca
+166 >>  >> Macth name_es equals bz:vaca >> bz:vaca
+167 >>  >> Macth via id bz:chunox
+168 >>  >> Macth name_es equals bz:chunox >> bz:chunox
+169 >>  >> Macth name_es equals bz:copper-bank >> bz:copper bank
+170 >>  >> Macth via id bz:sarteneja
+171 >>  >> Macth name_es equals bz:sarteneja >> bz:sarteneja
+172 >>  >> Macth name_es equals bz:san-antonio-26334 >> bz:san antonio
+173 >>  >> Macth name_es equals bz:san-felipe-26337 >> bz:san felipe
+174 >>  >> Macth via id bz:dangriga
+175 >>  >> Macth name_es equals bz:dangriga >> bz:dangriga
+176 >>  >> Macth via id bz:placencia
+177 >>  >> Macth name_es equals bz:placencia >> bz:placencia
+178 >>  >> Macth name_en equals bz:independence-and-mango-creek >> bz:independence y mango creek
+179 >>  >> Macth via id bz:pomona
+180 >>  >> Macth name_es equals bz:pomona >> bz:pomona
+181 >>  >> Macth via id bz:hopkins
+182 >>  >> Macth name_es equals bz:hopkins >> bz:hopkins
+183 >>  >> Macth name_es equals bz:punta-gorda >> bz:punta gorda
+184 >>  >> Macth name_es equals bz:monkey-river-town >> bz:monkey river town
+185 >>  >> Macth name_es equals bz:san-pedro-columbia >> bz:san pedro columbia
+186 >>  >> Macth via id za:johannesburgo
+187 >>  >> Macth name_es equals za:johannesburgo >> za:johannesburgo
+188 >>  >> Macth via id mx:aguascalientes
+189 >>  >> Macth name_es equals mx:aguascalientes >> mx:aguascalientes
+190 >>  >> Macth via id mx:asientos
+191 >>  >> Macth name_es equals mx:asientos >> mx:asientos
+192 >>  >> Macth via id mx:calvillo
+193 >>  >> Macth name_es equals mx:calvillo >> mx:calvillo
+194 >>  >> Macth name_es equals mx:rincon-de-romos >> mx:rincón de romos
+195 >>  >> Macth name_es equals mx:san-francisco-de-los-romo >> mx:san francisco de los romo
+196 >>  >> Macth via id mx:ensenada
+197 >>  >> Macth name_es equals mx:ensenada >> mx:ensenada
+198 >>  >> Macth via id mx:mexicali
+199 >>  >> Macth name_es equals mx:mexicali >> mx:mexicali
+200 >>  >> Macth name_es equals mx:san-felipe >> mx:san felipe
+201 >>  >> Macth via id mx:tecate
+202 >>  >> Macth name_es equals mx:tecate >> mx:tecate
+203 >>  >> Macth via id mx:tijuana
+204 >>  >> Macth name_es equals mx:tijuana >> mx:tijuana
+205 >>  >> Macth name_es equals mx:ciudad-constitucion >> mx:ciudad constitución
+206 >>  >> Macth name_es equals mx:la-paz >> mx:la paz
+207 >>  >> Macth name_es equals mx:todos-santos >> mx:todos santos
+208 >>  >> Macth via id mx:loreto
+209 >>  >> Macth name_es equals mx:loreto >> mx:loreto
+210 >>  >> Macth name_es equals mx:san-jose-del-cabo >> mx:san josé del cabo
+211 >>  >> Macth name_es equals mx:cabo-san-lucas >> mx:cabo san lucas
+212 >>  >> Macth name_es equals mx:santa-rosalia >> mx:santa rosalía
+213 >>  >> Macth name_es equals mx:san-ignacio >> mx:san ignacio
+214 >>  >> Macth name_es equals mx:guerrero-negro >> mx:guerrero negro
+215 >>  >> Macth name_en equals mx:calkini >> mx:calkiní
+216 >>  >> Macth via id mx:candelaria
+217 >>  >> Macth name_es equals mx:candelaria >> mx:candelaria
+218 >>  >> Macth name_es equals mx:ciudad-del-carmen >> mx:ciudad del carmen
+219 >>  >> Macth name_es equals mx:champoton >> mx:champotón
+220 >>  >> Macth name_es equals mx:escarcega >> mx:escárcega
+221 >>  >> Macth name_es equals mx:hecelchakan >> mx:hecelchakán
+222 >>  >> Macth name_es equals mx:hopelchen >> mx:hopelchén
+223 >>  >> Macth name_es equals mx:cacahoatan >> mx:cacahoatán
+224 >>  >> Macth name_es equals mx:chiapa-de-corzo >> mx:chiapa de corzo
+225 >>  >> Macth name_es equals mx:comitan-de-dominguez >> mx:comitán de domínguez
+226 >>  >> Macth via id mx:jiquipilas
+227 >>  >> Macth name_es equals mx:jiquipilas >> mx:jiquipilas
+228 >>  >> Macth via id mx:ocosingo
+229 >>  >> Macth name_es equals mx:ocosingo >> mx:ocosingo
+230 >>  >> Macth name_es equals mx:ocozocoautla-de-espinosa >> mx:ocozocoautla de espinosa
+231 >>  >> Macth via id mx:palenque
+232 >>  >> Macth name_es equals mx:palenque >> mx:palenque
+233 >>  >> Macth via id mx:pichucalco
+234 >>  >> Macth name_es equals mx:pichucalco >> mx:pichucalco
+235 >>  >> Macth via id mx:pijijiapan
+236 >>  >> Macth name_es equals mx:pijijiapan >> mx:pijijiapan
+237 >>  >> Macth name_es equals mx:san-cristobal-de-las-casas >> mx:san cristóbal de las casas
+238 >>  >> Macth name_es equals mx:tonala >> mx:tonalá
+239 >>  >> Macth name_es equals mx:tuxtla-gutierrez >> mx:tuxtla gutiérrez
+240 >>  >> Macth via id mx:chihuahua
+241 >>  >> Macth name_es equals mx:chihuahua >> mx:chihuahua
+242 >>  >> Macth name_es equals mx:cuauhtemoc >> mx:cuauhtémoc
+243 >>  >> Macth name_es equals mx:colonia-anahuac >> mx:colonia anáhuac
+244 >>  >> Macth via id mx:delicias
+245 >>  >> Macth name_es equals mx:delicias >> mx:delicias
+246 >>  >> Macth name_es equals mx:hidalgo-del-parral >> mx:hidalgo del parral
+247 >>  >> Macth name_es equals mx:nuevo-casas-grandes >> mx:nuevo casas grandes
+248 >>  >> Macth name_es equals mx:ciudad-de-mexico >> mx:ciudad de méxico
+249 >>  >> Macth via id mx:arteaga
+250 >>  >> Macth name_es equals mx:arteaga >> mx:arteaga
+251 >>  >> Macth name_es equals mx:cuatro-cienegas-de-carranza >> mx:cuatro ciénegas de carranza
+252 >>  >> Macth via id mx:matamoros
+253 >>  >> Macth name_es equals mx:matamoros >> mx:matamoros
+254 >>  >> Macth via id mx:monclova
+255 >>  >> Macth name_es equals mx:monclova >> mx:monclova
+256 >>  >> Macth name_es equals mx:parras-de-la-fuente >> mx:parras de la fuente
+257 >>  >> Macth name_es equals mx:piedras-negras >> mx:piedras negras
+258 >>  >> Macth name_es equals mx:ramos-arizpe >> mx:ramos arizpe
+259 >>  >> Macth via id mx:sabinas
+260 >>  >> Macth name_es equals mx:sabinas >> mx:sabinas
+261 >>  >> Macth via id mx:saltillo
+262 >>  >> Macth name_es equals mx:saltillo >> mx:saltillo
+263 >>  >> Macth name_es equals mx:san-pedro >> mx:san pedro
+264 >>  >> Macth name_es equals mx:torreon >> mx:torreón
+265 >>  >> Macth via id mx:viesca
+266 >>  >> Macth name_es equals mx:viesca >> mx:viesca
+267 >>  >> Macth via id mx:colima
+268 >>  >> Macth name_es equals mx:colima >> mx:colima
+269 >>  >> Macth via id mx:manzanillo
+270 >>  >> Macth name_es equals mx:manzanillo >> mx:manzanillo
+271 >>  >> Macth name_en equals mx:tecoman >> mx:tecomán
+272 >>  >> Macth name_es equals mx:santa-maria-del-oro >> mx:santa maría del oro
+273 >>  >> Macth name_es equals mx:gomez-palacio >> mx:gómez palacio
+274 >>  >> Macth name_es equals mx:el-salto >> mx:el salto
+275 >>  >> Macth name_es equals mx:vicente-guerrero >> mx:vicente guerrero
+276 >>  >> Macth via id mx:abasolo
+277 >>  >> Macth name_es equals mx:abasolo >> mx:abasolo
+278 >>  >> Macth name_es equals mx:acambaro >> mx:acámbaro
+279 >>  >> Macth name_es equals mx:apaseo-el-grande >> mx:apaseo el grande
+280 >>  >> Macth via id mx:celaya
+281 >>  >> Macth name_es equals mx:celaya >> mx:celaya
+282 >>  >> Macth name_en equals mx:cortazar >> mx:cortázar
+283 >>  >> Macth name_es equals mx:dolores-hidalgo >> mx:dolores hidalgo
+284 >>  >> Macth via id mx:guanajuato
+285 >>  >> Macth name_es equals mx:guanajuato >> mx:guanajuato
+286 >>  >> Macth via id mx:irapuato
+287 >>  >> Macth name_es equals mx:irapuato >> mx:irapuato
+288 >>  >> Macth name_es equals mx:penjamo >> mx:pénjamo
+289 >>  >> Macth via id mx:salamanca
+290 >>  >> Macth name_es equals mx:salamanca >> mx:salamanca
+291 >>  >> Macth via id mx:salvatierra
+292 >>  >> Macth name_es equals mx:salvatierra >> mx:salvatierra
+293 >>  >> Macth name_es equals mx:san-francisco-del-rincon >> mx:san francisco del rincón
+294 >>  >> Macth name_es equals mx:san-luis-de-la-paz >> mx:san luis de la paz
+295 >>  >> Macth name_es equals mx:san-miguel-de-allende >> mx:san miguel de allende
+296 >>  >> Macth via id mx:silao
+297 >>  >> Macth name_es equals mx:silao >> mx:silao
+298 >>  >> Macth via id mx:uriangato
+299 >>  >> Macth name_es equals mx:uriangato >> mx:uriangato
+300 >>  >> Macth name_es equals mx:valle-de-santiago >> mx:valle de santiago
+301 >>  >> Macth via id mx:yuriria
+302 >>  >> Macth name_es equals mx:yuriria >> mx:yuriria
+303 >>  >> Macth name_es equals mx:chilpancingo-de-los-bravo >> mx:chilpancingo de los bravo
+304 >>  >> Macth via id mx:copala
+305 >>  >> Macth name_es equals mx:copala >> mx:copala
+306 >>  >> Macth name_es equals mx:coyuca-de-benitez >> mx:coyuca de benítez
+307 >>  >> Macth name_es equals mx:iguala-de-la-independencia >> mx:iguala de la independencia
+308 >>  >> Macth name_es equals mx:tierra-colorada >> mx:tierra colorada
+309 >>  >> Macth name_es equals mx:la-union >> mx:la unión
+310 >>  >> Macth name_es equals mx:olinala >> mx:olinalá
+311 >>  >> Macth name_es equals mx:petatlan >> mx:petatlán
+312 >>  >> Macth name_es equals mx:ciudad-altamirano >> mx:ciudad altamirano
+313 >>  >> Macth name_es equals mx:tepecoacuilco-de-trujano >> mx:tepecoacuilco de trujano
+314 >>  >> Macth via id mx:zihuatanejo
+315 >>  >> Macth name_es equals mx:zihuatanejo >> mx:zihuatanejo
+316 >>  >> Macth via id mx:actopan
+317 >>  >> Macth name_en equals mx:actopan >> mx:actopán
+318 >>  >> Macth name_es equals mx:huejutla-de-reyes >> mx:huejutla de reyes
+319 >>  >> Macth via id mx:ixmiquilpan
+320 >>  >> Macth name_es equals mx:ixmiquilpan >> mx:ixmiquilpan
+321 >>  >> Macth name_es equals mx:tula-de-allende >> mx:tula de allende
+322 >>  >> Macth via id mx:tulancingo
+323 >>  >> Macth name_es equals mx:tulancingo >> mx:tulancingo
+324 >>  >> Macth name_en equals mx:zimapan >> mx:zimapán
+325 >>  >> Macth name_es equals mx:ahualulco-de-mercado >> mx:ahualulco de mercado
+326 >>  >> Macth via id mx:arandas
+327 >>  >> Macth name_es equals mx:arandas >> mx:arandas
+328 >>  >> Macth via id mx:chapala
+329 >>  >> Macth name_es equals mx:chapala >> mx:chapala
+330 >>  >> Macth via id mx:ajijic
+331 >>  >> Macth name_es equals mx:ajijic >> mx:ajijic
+332 >>  >> Macth name_es equals mx:cihuatlan >> mx:cihuatlán
+333 >>  >> Macth via id mx:cocula
+334 >>  >> Macth name_es equals mx:cocula >> mx:cocula
+335 >>  >> Macth name_es equals mx:el-grullo >> mx:el grullo
+336 >>  >> Macth name_es equals mx:etzatlan >> mx:etzatlán
+337 >>  >> Macth via id mx:guadalajara
+338 >>  >> Macth name_es equals mx:guadalajara >> mx:guadalajara
+339 >>  >> Macth via id mx:jocotepec
+340 >>  >> Macth name_es equals mx:jocotepec >> mx:jocotepec
+341 >>  >> Macth name_es equals mx:la-barca >> mx:la barca
+342 >>  >> Macth name_es equals mx:lagos-de-moreno >> mx:lagos de moreno
+343 >>  >> Macth via id mx:magdalena
+344 >>  >> Macth name_es equals mx:magdalena >> mx:magdalena
+345 >>  >> Macth name_es equals mx:ocotlan >> mx:ocotlán
+346 >>  >> Macth name_es equals mx:puerto-vallarta >> mx:puerto vallarta
+347 >>  >> Macth name_es equals mx:san-juan-de-los-lagos >> mx:san juan de los lagos
+348 >>  >> Macth name_es equals mx:san-miguel-el-alto >> mx:san miguel el alto
+349 >>  >> Macth via id mx:tlaquepaque
+350 >>  >> Macth name_es equals mx:tlaquepaque >> mx:tlaquepaque
+351 >>  >> Macth via id mx:sayula
+352 >>  >> Macth name_es equals mx:sayula >> mx:sayula
+353 >>  >> Macth via id mx:tala
+354 >>  >> Macth name_es equals mx:tala >> mx:tala
+355 >>  >> Macth name_es equals mx:talpa-de-allende >> mx:talpa de allende
+356 >>  >> Macth name_es equals mx:tamazula-de-gordiano >> mx:tamazula de gordiano
+357 >>  >> Macth via id mx:teocaltiche
+358 >>  >> Macth name_es equals mx:teocaltiche >> mx:teocaltiche
+359 >>  >> Macth name_es equals mx:tepatitlan-de-morelos >> mx:tepatitlán de morelos
+360 >>  >> Macth via id mx:tequila
+361 >>  >> Macth name_es equals mx:tequila >> mx:tequila
+362 >>  >> Macth name_es equals mx:tlajomulco-de-zuniga >> mx:tlajomulco de zúñiga
+363 >>  >> Macth via id mx:tuxpan
+364 >>  >> Macth name_es equals mx:tuxpan >> mx:tuxpan
+365 >>  >> Macth name_es equals mx:union-de-san-antonio >> mx:unión de san antonio
+366 >>  >> Macth name_es equals mx:valle-de-guadalupe >> mx:valle de guadalupe
+367 >>  >> Macth name_es equals mx:villa-corona >> mx:villa corona
+368 >>  >> Macth name_es equals mx:villa-hidalgo >> mx:villa hidalgo
+369 >>  >> Macth via id mx:zapopan
+370 >>  >> Macth name_es equals mx:zapopan >> mx:zapopan
+371 >>  >> Macth name_es equals mx:chalco-de-diaz-covarrubias >> mx:chalco de díaz covarrubias
+372 >>  >> Macth via id mx:chiconcuac
+373 >>  >> Macth name_es equals mx:chiconcuac >> mx:chiconcuac
+374 >>  >> Macth name_es equals mx:chimalhuacan >> mx:chimalhuacán
+375 >>  >> Macth name_es equals mx:cuautitlan >> mx:cuautitlán
+376 >>  >> Macth name_es equals mx:cuautitlan-izcalli >> mx:cuautitlán izcalli
+377 >>  >> Macth name_es equals mx:ecatepec-de-morelos >> mx:ecatepec de morelos
+378 >>  >> Macth via id mx:ixtapaluca
+379 >>  >> Macth name_es equals mx:ixtapaluca >> mx:ixtapaluca
+380 >>  >> Macth via id mx:ocoyoacac
+381 >>  >> Macth name_es equals mx:ocoyoacac >> mx:ocoyoacac
+382 >>  >> Macth name_es equals mx:tejupilco-de-hidalgo >> mx:tejupilco de hidalgo
+383 >>  >> Macth name_es equals mx:tepotzotlan >> mx:tepotzotlán
+384 >>  >> Macth name_es equals mx:texcoco-de-mora >> mx:texcoco de mora
+385 >>  >> Macth name_es equals mx:tlalnepantla-de-baz >> mx:tlalnepantla de baz
+386 >>  >> Macth via id mx:zumpango
+387 >>  >> Macth name_es equals mx:zumpango >> mx:zumpango
+388 >>  >> Macth name_es equals mx:ciudad-hidalgo >> mx:ciudad hidalgo
+389 >>  >> Macth name_es equals mx:jiquilpan-de-juarez >> mx:jiquilpan de juárez
+390 >>  >> Macth via id mx:morelia
+391 >>  >> Macth name_es equals mx:morelia >> mx:morelia
+392 >>  >> Macth name_es equals mx:paracho-de-verduzco >> mx:paracho de verduzco
+393 >>  >> Macth name_es equals mx:patzcuaro >> mx:pátzcuaro
+394 >>  >> Macth name_es equals mx:puruandiro >> mx:puruándiro
+395 >>  >> Macth name_es equals mx:tangancicuaro-de-arista >> mx:tangancícuaro de arista
+396 >>  >> Macth via id mx:uruapan
+397 >>  >> Macth name_es equals mx:uruapan >> mx:uruapan
+398 >>  >> Macth via id mx:cuernavaca
+399 >>  >> Macth name_es equals mx:cuernavaca >> mx:cuernavaca
+400 >>  >> Macth name_es equals mx:puente-de-ixtla >> mx:puente de ixtla
+401 >>  >> Macth via id mx:tlaquiltenango
+402 >>  >> Macth name_es equals mx:tlaquiltenango >> mx:tlaquiltenango
+403 >>  >> Macth via id mx:acaponeta
+404 >>  >> Macth name_es equals mx:acaponeta >> mx:acaponeta
+405 >>  >> Macth name_es equals mx:ahuacatlan >> mx:ahuacatlán
+406 >>  >> Macth name_es equals mx:bucerias >> mx:bucerías
+407 >>  >> Macth name_es equals mx:las-varas >> mx:las varas
+408 >>  >> Macth name_es equals mx:la-penita-de-jaltemba >> mx:la peñita de jaltemba
+409 >>  >> Macth name_es equals mx:ixtlan-del-rio >> mx:ixtlán del río
+410 >>  >> Macth via id mx:jala
+411 >>  >> Macth name_es equals mx:jala >> mx:jala
+412 >>  >> Macth name_es equals mx:san-blas >> mx:san blas
+413 >>  >> Macth name_es equals mx:santiago-ixcuintla >> mx:santiago ixcuintla
+414 >>  >> Macth via id mx:tepic
+415 >>  >> Macth name_es equals mx:tepic >> mx:tepic
+416 >>  >> Macth name_es equals mx:cadereyta-jimenez >> mx:cadereyta jiménez
+417 >>  >> Macth name_es equals mx:doctor-arroyo >> mx:doctor arroyo
+418 >>  >> Macth name_es equals mx:garcia >> mx:garcía
+419 >>  >> Macth via id mx:guadalupe
+420 >>  >> Macth name_es equals mx:guadalupe >> mx:guadalupe
+421 >>  >> Macth via id mx:linares
+422 >>  >> Macth name_es equals mx:linares >> mx:linares
+423 >>  >> Macth via id mx:montemorelos
+424 >>  >> Macth name_es equals mx:montemorelos >> mx:montemorelos
+425 >>  >> Macth via id mx:monterrey
+426 >>  >> Macth name_es equals mx:monterrey >> mx:monterrey
+427 >>  >> Macth name_es equals mx:san-nicolas-de-los-garza >> mx:san nicolás de los garza
+428 >>  >> Macth name_es equals mx:san-pedro-garza-garcia >> mx:san pedro garza garcía
+429 >>  >> Macth via id mx:santiago
+430 >>  >> Macth name_es equals mx:santiago >> mx:santiago
+431 >>  >> Macth name_es equals mx:el-cercado >> mx:el cercado
+432 >>  >> Macth name_es equals mx:asuncion-nochixtlan >> mx:asunción nochixtlán
+433 >>  >> Macth name_es equals mx:cuilapam-de-guerrero >> mx:cuilápam de guerrero
+434 >>  >> Macth via id mx:oaxaca
+435 >>  >> Macth name_es equals mx:oaxaca >> mx:oaxaca
+436 >>  >> Macth name_es equals mx:salina-cruz >> mx:salina cruz
+437 >>  >> Macth name_es equals mx:san-felipe-jalapa-de-diaz >> mx:san felipe jalapa de díaz
+438 >>  >> Macth name_es equals mx:san-juan-bautista-tuxtepec >> mx:san juan bautista tuxtepec
+439 >>  >> Macth name_es equals mx:san-juan-bautista-valle-nacional >> mx:san juan bautista valle nacional
+440 >>  >> Macth name_es equals mx:san-pablo-villa-de-mitla >> mx:san pablo villa de mitla
+441 >>  >> Macth name_es equals mx:san-pedro-pochutla >> mx:san pedro pochutla
+442 >>  >> Macth name_es equals mx:el-rosario >> mx:el rosario
+443 >>  >> Macth name_es equals mx:santa-maria-huatulco >> mx:santa maría huatulco
+444 >>  >> Macth name_es equals mx:villa-de-zaachila >> mx:villa de zaachila
+445 >>  >> Macth name_es equals mx:zimatlan-de-alvarez >> mx:zimatlán de álvarez
+446 >>  >> Macth via id mx:amozoc
+447 >>  >> Macth name_es equals mx:amozoc >> mx:amozoc
+448 >>  >> Macth via id mx:atlixco
+449 >>  >> Macth name_es equals mx:atlixco >> mx:atlixco
+450 >>  >> Macth via id mx:huauchinango
+451 >>  >> Macth name_es equals mx:huauchinango >> mx:huauchinango
+452 >>  >> Macth name_es equals mx:izucar-de-matamoros >> mx:izúcar de matamoros
+453 >>  >> Macth via id mx:puebla
+454 >>  >> Macth name_es equals mx:puebla >> mx:puebla
+455 >>  >> Macth name_en equals mx:tehuacan >> mx:tehuacán
+456 >>  >> Macth name_en equals mx:teziutlan >> mx:teziutlán
+457 >>  >> Macth via id mx:xicotepec
+458 >>  >> Macth name_es equals mx:xicotepec >> mx:xicotepec
+459 >>  >> Macth name_es equals mx:zacatlan >> mx:zacatlán
+460 >>  >> Macth name_es equals mx:el-pueblito >> mx:el pueblito
+461 >>  >> Macth name_es equals mx:queretaro >> mx:querétaro
+462 >>  >> Macth name_en equals mx:san-juan-del-rio >> mx:san juan del río
+463 >>  >> Macth via id mx:bacalar
+464 >>  >> Macth name_es equals mx:bacalar >> mx:bacalar
+465 >>  >> Macth name_es equals mx:cancun >> mx:cancún
+466 >>  >> Macth via id mx:cozumel
+467 >>  >> Macth name_es equals mx:cozumel >> mx:cozumel
+468 >>  >> Macth name_es equals mx:felipe-carrillo-puerto >> mx:felipe carrillo puerto
+469 >>  >> Macth name_es equals mx:isla-mujeres >> mx:isla mujeres
+470 >>  >> Macth via id mx:chetumal
+471 >>  >> Macth name_es equals mx:chetumal >> mx:chetumal
+472 >>  >> Macth name_es equals mx:playa-del-carmen >> mx:playa del carmen
+473 >>  >> Macth name_es equals mx:cardenas >> mx:cárdenas
+474 >>  >> Macth via id mx:cedral
+475 >>  >> Macth name_es equals mx:cedral >> mx:cedral
+476 >>  >> Macth via id mx:cerritos
+477 >>  >> Macth name_es equals mx:cerritos >> mx:cerritos
+478 >>  >> Macth via id mx:charcas
+479 >>  >> Macth name_es equals mx:charcas >> mx:charcas
+480 >>  >> Macth name_es equals mx:ciudad-valles >> mx:ciudad valles
+481 >>  >> Macth name_es equals mx:el-naranjo >> mx:el naranjo
+482 >>  >> Macth via id mx:matehuala
+483 >>  >> Macth name_es equals mx:matehuala >> mx:matehuala
+484 >>  >> Macth name_es equals mx:salinas-de-hidalgo >> mx:salinas de hidalgo
+485 >>  >> Macth name_es equals mx:san-luis-potosi >> mx:san luis potosí
+486 >>  >> Macth name_es equals mx:santa-maria-del-rio >> mx:santa maría del río
+487 >>  >> Macth via id mx:tamasopo
+488 >>  >> Macth name_es equals mx:tamasopo >> mx:tamasopo
+489 >>  >> Macth via id mx:tamazunchale
+490 >>  >> Macth name_es equals mx:tamazunchale >> mx:tamazunchale
+491 >>  >> Macth name_en equals mx:tamuin >> mx:tamuín
+492 >>  >> Macth name_es equals mx:tierra-nueva >> mx:tierra nueva
+493 >>  >> Macth name_es equals mx:villa-de-reyes >> mx:villa de reyes
+494 >>  >> Macth name_es equals mx:los-mochis >> mx:los mochis
+495 >>  >> Macth via id mx:ahome
+496 >>  >> Macth name_es equals mx:ahome >> mx:ahome
+497 >>  >> Macth via id mx:topolobampo
+498 >>  >> Macth name_es equals mx:topolobampo >> mx:topolobampo
+499 >>  >> Macth via id mx:angostura
+500 >>  >> Macth name_es equals mx:angostura >> mx:angostura
+501 >>  >> Macth via id mx:choix
+502 >>  >> Macth name_es equals mx:choix >> mx:choix
+503 >>  >> Macth via id mx:cosala
+504 >>  >> Macth name_es equals mx:cosala >> mx:cosala
+505 >>  >> Macth name_es equals mx:la-cruz >> mx:la cruz
+506 >>  >> Macth via id mx:guasave
+507 >>  >> Macth name_es equals mx:guasave >> mx:guasave
+508 >>  >> Macth name_es equals mx:mazatlan >> mx:mazatlán
+509 >>  >> Macth via id mx:mocorito
+510 >>  >> Macth name_es equals mx:mocorito >> mx:mocorito
+511 >>  >> Macth name_es equals mx:el-rosario-22a06ef6-215c-41e0-a755-12f0a63ec830 >> mx:el rosario
+512 >>  >> Macth via id mx:guamuchil
+513 >>  >> Macth name_es equals mx:guamuchil >> mx:guamuchil
+514 >>  >> Macth name_es equals mx:sinaloa-de-leyva >> mx:sinaloa de leyva
+515 >>  >> Macth name_es equals mx:agua-prieta >> mx:agua prieta
+516 >>  >> Macth name_es equals mx:ciudad-obregon >> mx:ciudad obregón
+517 >>  >> Macth via id mx:hermosillo
+518 >>  >> Macth name_es equals mx:hermosillo >> mx:hermosillo
+519 >>  >> Macth via id mx:huatabampo
+520 >>  >> Macth name_es equals mx:huatabampo >> mx:huatabampo
+521 >>  >> Macth name_es equals mx:magdalena-de-kino >> mx:magdalena de kino
+522 >>  >> Macth via id mx:navojoa
+523 >>  >> Macth name_es equals mx:navojoa >> mx:navojoa
+524 >>  >> Macth name_es equals mx:puerto-penasco >> mx:puerto peñasco
+525 >>  >> Macth name_es equals mx:san-luis-rio-colorado >> mx:san luis río colorado
+526 >>  >> Macth via id mx:villahermosa
+527 >>  >> Macth name_es equals mx:villahermosa >> mx:villahermosa
+528 >>  >> Macth via id mx:comalcalco
+529 >>  >> Macth name_es equals mx:comalcalco >> mx:comalcalco
+530 >>  >> Macth name_es equals mx:cunduacan >> mx:cunduacán
+531 >>  >> Macth name_es equals mx:emiliano-zapata >> mx:emiliano zapata
+532 >>  >> Macth name_es equals mx:jalpa-de-mendez >> mx:jalpa de méndez
+533 >>  >> Macth name_es equals mx:paraiso >> mx:paraíso
+534 >>  >> Macth via id mx:teapa
+535 >>  >> Macth name_es equals mx:teapa >> mx:teapa
+536 >>  >> Macth via id mx:altamira
+537 >>  >> Macth name_es equals mx:altamira >> mx:altamira
+538 >>  >> Macth name_es equals mx:ciudad-madero >> mx:ciudad madero
+539 >>  >> Macth name_es equals mx:ciudad-mante >> mx:ciudad mante
+540 >>  >> Macth name_es equals mx:nuevo-laredo >> mx:nuevo laredo
+541 >>  >> Macth via id mx:reynosa
+542 >>  >> Macth name_es equals mx:reynosa >> mx:reynosa
+543 >>  >> Macth via id mx:tampico
+544 >>  >> Macth name_es equals mx:tampico >> mx:tampico
+545 >>  >> Macth name_es equals mx:valle-hermoso >> mx:valle hermoso
+546 >>  >> Macth name_es equals mx:ciudad-victoria >> mx:ciudad victoria
+547 >>  >> Macth via id mx:apizaco
+548 >>  >> Macth name_es equals mx:apizaco >> mx:apizaco
+549 >>  >> Macth via id mx:chiautempan
+550 >>  >> Macth name_es equals mx:chiautempan >> mx:chiautempan
+551 >>  >> Macth via id mx:huamantla
+552 >>  >> Macth name_es equals mx:huamantla >> mx:huamantla
+553 >>  >> Macth via id mx:acayucan
+554 >>  >> Macth name_es equals mx:acayucan >> mx:acayucan
+555 >>  >> Macth via id mx:altotonga
+556 >>  >> Macth name_es equals mx:altotonga >> mx:altotonga
+557 >>  >> Macth via id mx:alvarado
+558 >>  >> Macth name_es equals mx:alvarado >> mx:alvarado
+559 >>  >> Macth via id mx:atoyac
+560 >>  >> Macth name_es equals mx:atoyac >> mx:atoyac
+561 >>  >> Macth via id mx:banderilla
+562 >>  >> Macth name_es equals mx:banderilla >> mx:banderilla
+563 >>  >> Macth name_es equals mx:carlos-a-carrillo >> mx:carlos a. carrillo
+564 >>  >> Macth via id mx:catemaco
+565 >>  >> Macth name_es equals mx:catemaco >> mx:catemaco
+566 >>  >> Macth via id mx:coatepec
+567 >>  >> Macth name_es equals mx:coatepec >> mx:coatepec
+568 >>  >> Macth via id mx:coatzacoalcos
+569 >>  >> Macth name_es equals mx:coatzacoalcos >> mx:coatzacoalcos
+570 >>  >> Macth via id mx:coatzintla
+571 >>  >> Macth name_es equals mx:coatzintla >> mx:coatzintla
+572 >>  >> Macth name_es equals mx:cordoba >> mx:córdoba
+573 >>  >> Macth name_es equals mx:fortin-de-las-flores >> mx:fortín de las flores
+574 >>  >> Macth name_es equals mx:gutierrez-zamora >> mx:gutiérrez zamora
+575 >>  >> Macth name_es equals mx:jose-cardel >> mx:josé cardel
+576 >>  >> Macth name_es equals mx:lerdo-de-tejada >> mx:lerdo de tejada
+577 >>  >> Macth name_es equals mx:minatitlan >> mx:minatitlán
+578 >>  >> Macth via id mx:nogales
+579 >>  >> Macth name_es equals mx:nogales >> mx:nogales
+580 >>  >> Macth via id mx:orizaba
+581 >>  >> Macth name_es equals mx:orizaba >> mx:orizaba
+582 >>  >> Macth name_es equals mx:papantla-de-olarte >> mx:papantla de olarte
+583 >>  >> Macth name_es equals mx:rio-blanco >> mx:río blanco
+584 >>  >> Macth name_es equals mx:san-andres-tuxtla >> mx:san andrés tuxtla
+585 >>  >> Macth name_es equals mx:san-rafael >> mx:san rafael
+586 >>  >> Macth name_es equals mx:santiago-tuxtla >> mx:santiago tuxtla
+587 >>  >> Macth via id mx:tantoyuca
+588 >>  >> Macth name_es equals mx:tantoyuca >> mx:tantoyuca
+589 >>  >> Macth via id mx:tlapacoyan
+590 >>  >> Macth name_es equals mx:tlapacoyan >> mx:tlapacoyan
+591 >>  >> Macth via id mx:veracruz
+592 >>  >> Macth name_es equals mx:veracruz >> mx:veracruz
+593 >>  >> Macth name_es equals mx:merida >> mx:mérida
+594 >>  >> Macth via id mx:ticul
+595 >>  >> Macth name_es equals mx:ticul >> mx:ticul
+596 >>  >> Macth name_es equals mx:tizimin >> mx:tizimín
+597 >>  >> Macth via id mx:valladolid
+598 >>  >> Macth name_es equals mx:valladolid >> mx:valladolid
+599 >>  >> Macth name_es equals mx:ciudad-cuauhtemoc >> mx:ciudad cuauhtémoc
+600 >>  >> Macth via id mx:fresnillo
+601 >>  >> Macth name_es equals mx:fresnillo >> mx:fresnillo
+602 >>  >> Macth via id mx:jalpa
+603 >>  >> Macth name_es equals mx:jalpa >> mx:jalpa
+604 >>  >> Macth name_es equals mx:jerez-de-garcia-salinas >> mx:jerez de garcía salinas
+605 >>  >> Macth via id mx:ojocaliente
+606 >>  >> Macth name_es equals mx:ojocaliente >> mx:ojocaliente
+607 >>  >> Macth name_es equals mx:rio-grande >> mx:río grande
+608 >>  >> Macth via id mx:sombrerete
+609 >>  >> Macth name_es equals mx:sombrerete >> mx:sombrerete
+610 >>  >> Macth via id mx:villanueva
+611 >>  >> Macth name_es equals mx:villanueva >> mx:villanueva
+612 >>  >> Macth via id mx:zacatecas
+613 >>  >> Macth name_es equals mx:zacatecas >> mx:zacatecas
+614 >>  >> Macth via id mx:aculco
+615 >>  >> Macth name_es equals mx:aculco >> mx:aculco
+616 >>  >> Macth name_es equals mx:valle-de-bravo >> mx:valle de bravo
+617 >>  >> Macth via id mx:tequisquiapan
+618 >>  >> Macth name_es equals mx:tequisquiapan >> mx:tequisquiapan
+619 >>  >> Macth via id mx:tequesquitengo
+620 >>  >> Macth name_es equals mx:tequesquitengo >> mx:tequesquitengo
+621 >>  >> Macth via id mx:malinalco
+622 >>  >> Macth name_es equals mx:malinalco >> mx:malinalco
+623 >>  >> Macth name_es equals mx:tepoztlan >> mx:tepoztlán
+624 >>  >> Macth name_es equals mx:puerto-escondido >> mx:puerto escondido
+625 >>  >> Macth via id mx:tolantongo
+626 >>  >> Macth name_es equals mx:tolantongo >> mx:tolantongo
+627 >>  >> Macth name_es equals mx:el-fuerte >> mx:el fuerte
+628 >>  >> Macth name_es equals mx:san-carlos >> mx:san carlos
+629 >>  >> Macth via id mx:xilitla
+630 >>  >> Macth name_es equals mx:xilitla >> mx:xilitla
+631 >>  >> Macth via id mx:tulum
+632 >>  >> Macth name_es equals mx:tulum >> mx:tulum
+633 >>  >> Macth via id mx:holbox
+634 >>  >> Macth name_es equals mx:holbox >> mx:holbox
+635 >>  >> Macth via id mx:creel
+636 >>  >> Macth name_es equals mx:creel >> mx:creel
+637 >>  >> Macth name_es equals mx:mapimi >> mx:mapimí
+638 >>  >> Macth name_es equals mx:san-juan-chamula >> mx:san juan chamula
+639 >>  >> Macth via id mx:tlacotalpan
+640 >>  >> Macth name_es equals mx:tlacotalpan >> mx:tlacotalpan
+641 >>  >> Macth via id mx:jalcomulco
+642 >>  >> Macth name_es equals mx:jalcomulco >> mx:jalcomulco
+643 >>  >> Macth name_en equals mx:chichen-itza >> mx:sitio arqueológico chichén itzá
+644 >>  >> Macth name_es equals mx:coba >> mx:cobá
+645 >>  >> Macth via id mx:mahahual
+646 >>  >> Macth name_es equals mx:mahahual >> mx:mahahual
+647 >>  >> Macth via id mx:progreso
+648 >>  >> Macth name_es equals mx:progreso >> mx:progreso
+649 >>  >> Macth via id mx:xcalak
+650 >>  >> Macth name_es equals mx:xcalak >> mx:xcalak
+651 >>  >> Macth via id mx:xpu-ha
+652 >>  >> Macth name_es equals mx:xpu-ha >> mx:xpu-ha
+653 >>  >> Macth name_es equals mx:talpa-de-allende-53290a00-3fdd-452b-a1ad-885b9846df33 >> mx:talpa de allende
+654 >>  >> Macth via id mx:sayulita
+655 >>  >> Macth name_es equals mx:sayulita >> mx:sayulita
+656 >>  >> Macth via id mx:cocoyoc
+657 >>  >> Macth name_es equals mx:cocoyoc >> mx:cocoyoc
+658 >>  >> Macth name_es equals mx:nuevo-vallarta >> mx:nuevo vallarta
+659 >>  >> Macth name_es equals mx:puerto-aventuras >> mx:puerto aventuras
+660 >>  >> Macth via id pa:almirante
+661 >>  >> Macth name_es equals pa:almirante >> pa:almirante
+662 >>  >> Macth name_es equals pa:bocas-del-toro >> pa:bocas del toro
+663 >>  >> Macth name_es equals pa:punta-laurel >> pa:punta laurel
+664 >>  >> Macth via id pa:changuinola
+665 >>  >> Macth name_es equals pa:changuinola >> pa:changuinola
+666 >>  >> Macth name_es equals pa:las-delicias >> pa:las delicias
+667 >>  >> Macth name_es equals pa:las-tablas >> pa:las tablas
+668 >>  >> Macth via id pa:miramar
+669 >>  >> Macth name_es equals pa:miramar >> pa:miramar
+670 >>  >> Macth via id pa:guarumal
+671 >>  >> Macth name_es equals pa:guarumal >> pa:guarumal
+672 >>  >> Macth name_es equals pa:palo-grande >> pa:palo grande
+673 >>  >> Macth via id pa:limones
+674 >>  >> Macth name_es equals pa:limones >> pa:limones
+675 >>  >> Macth name_es equals pa:puerto-armuelles >> pa:puerto armuelles
+676 >>  >> Macth name_es equals pa:boqueron >> pa:boquerón
+677 >>  >> Macth name_es equals pa:paraiso-24257 >> pa:paraíso
+678 >>  >> Macth name_es equals pa:alto-boquete >> pa:alto boquete
+679 >>  >> Macth via id pa:caldera
+680 >>  >> Macth name_es equals pa:caldera >> pa:caldera
+681 >>  >> Macth via id pa:jaramillo
+682 >>  >> Macth name_es equals pa:jaramillo >> pa:jaramillo
+683 >>  >> Macth name_es equals pa:los-naranjos >> pa:los naranjos
+684 >>  >> Macth name_es equals pa:santo-domingo-24275 >> pa:santo domingo
+685 >>  >> Macth name_es equals pa:chiriqui >> pa:chiriquí
+686 >>  >> Macth name_es equals pa:san-carlos-24285 >> pa:san carlos
+687 >>  >> Macth via id pa:david
+688 >>  >> Macth name_es equals pa:david >> pa:david
+689 >>  >> Macth via id pa:dolega
+690 >>  >> Macth name_es equals pa:dolega >> pa:dolega
+691 >>  >> Macth name_es equals pa:los-algarrobos >> pa:los algarrobos
+692 >>  >> Macth name_es equals pa:los-anastacios >> pa:los anastacios
+693 >>  >> Macth name_es equals pa:el-porvenir >> pa:el porvenir
+694 >>  >> Macth name_es equals pa:santa-clara >> pa:santa clara
+695 >>  >> Macth name_es equals pa:las-lajas >> pa:las lajas
+696 >>  >> Macth name_es equals pa:boca-chica >> pa:boca chica
+697 >>  >> Macth via id pa:horconcitos
+698 >>  >> Macth name_es equals pa:horconcitos >> pa:horconcitos
+699 >>  >> Macth name_es equals pa:volcan >> pa:volcán
+700 >>  >> Macth name_es equals pa:cerro-punta >> pa:cerro punta
+701 >>  >> Macth name_es equals pa:paso-ancho >> pa:paso ancho
+702 >>  >> Macth name_es equals pa:tole >> pa:tolé
+703 >>  >> Macth via id pa:aguadulce
+704 >>  >> Macth name_es equals pa:aguadulce >> pa:aguadulce
+705 >>  >> Macth name_es equals pa:el-roble >> pa:el roble
+706 >>  >> Macth name_es equals pa:anton >> pa:antón
+707 >>  >> Macth via id pa:cabuya
+708 >>  >> Macth name_es equals pa:cabuya >> pa:cabuya
+709 >>  >> Macth name_es equals pa:el-chiru >> pa:el chirú
+710 >>  >> Macth name_es equals pa:juan-diaz >> pa:juan díaz
+711 >>  >> Macth name_es equals pa:rio-hato >> pa:río hato
+712 >>  >> Macth via id pa:nata
+713 >>  >> Macth name_es equals pa:penonome >> pa:penonomé
+714 >>  >> Macth name_es equals pa:cativa >> pa:cativá
+715 >>  >> Macth name_es equals pa:cristobal >> pa:cristóbal
+716 >>  >> Macth name_es equals pa:nuevo-chagres >> pa:nuevo chagres
+717 >>  >> Macth name_es equals pa:isla-grande >> pa:isla grande
+718 >>  >> Macth name_es equals pa:maria-chiquita >> pa:maría chiquita
+719 >>  >> Macth via id pa:portobelo
+720 >>  >> Macth name_es equals pa:portobelo >> pa:portobelo
+721 >>  >> Macth name_es equals pa:miramar-24423 >> pa:miramar
+722 >>  >> Macth via id pa:palenque
+723 >>  >> Macth name_es equals pa:palenque >> pa:palenque
+724 >>  >> Macth name_es equals pa:santa-isabel >> pa:santa isabel
+725 >>  >> Macth name_es equals pa:la-palma >> pa:la palma
+726 >>  >> Macth name_es equals pa:santa-fe-24458 >> pa:santa fe
+727 >>  >> Macth name_es equals pa:chitre >> pa:chitré
+728 >>  >> Macth name_es equals pa:la-arena >> pa:la arena
+729 >>  >> Macth via id pa:chepo
+730 >>  >> Macth name_es equals pa:chepo >> pa:chepo
+731 >>  >> Macth name_es equals pa:las-minas >> pa:las minas
+732 >>  >> Macth name_es equals pa:la-arena-24476 >> pa:la arena
+733 >>  >> Macth name_es equals pa:cabuya-24490 >> pa:cabuya
+734 >>  >> Macth name_es equals pa:pese >> pa:pesé
+735 >>  >> Macth name_es equals pa:guarare >> pa:guararé
+736 >>  >> Macth name_es equals pa:la-palma-24531 >> pa:la palma
+737 >>  >> Macth name_es equals pa:san-jose-24539 >> pa:san josé
+738 >>  >> Macth name_es equals pa:san-miguel-24540 >> pa:san miguel
+739 >>  >> Macth name_es equals pa:las-tablas-24541 >> pa:las tablas
+740 >>  >> Macth name_es equals pa:santo-domingo-24542 >> pa:santo domingo
+741 >>  >> Macth name_es equals pa:la-villa-de-los-santos >> pa:la villa de los santos
+742 >>  >> Macth name_es equals pa:santa-ana-24556 >> pa:santa ana
+743 >>  >> Macth name_es equals pa:pedasi >> pa:pedasí
+744 >>  >> Macth name_es equals pa:paraiso-24578 >> pa:paraíso
+745 >>  >> Macth via id pa:cambutal
+746 >>  >> Macth name_es equals pa:cambutal >> pa:cambutal
+747 >>  >> Macth name_es equals pa:canas-24583 >> pa:cañas
+748 >>  >> Macth name_es equals pa:san-miguel-24598 >> pa:san miguel
+749 >>  >> Macth name_es equals pa:chepo-24603 >> pa:chepo
+750 >>  >> Macth via id pa:chilibre
+751 >>  >> Macth name_es equals pa:chilibre >> pa:chilibre
+752 >>  >> Macth name_es equals pa:curundu >> pa:curundú
+753 >>  >> Macth name_es equals pa:el-chorrillo >> pa:el chorrillo
+754 >>  >> Macth name_es equals pa:juan-diaz-24624 >> pa:juan díaz
+755 >>  >> Macth name_es equals pa:las-cumbres >> pa:las cumbres
+756 >>  >> Macth name_es equals pa:parque-lefevre >> pa:parque lefevre
+757 >>  >> Macth name_es equals pa:pueblo-nuevo >> pa:pueblo nuevo
+758 >>  >> Macth name_es equals pa:rio-abajo >> pa:río abajo
+759 >>  >> Macth name_es equals pa:san-francisco-24634 >> pa:san francisco
+760 >>  >> Macth name_es equals pa:santa-ana-24636 >> pa:santa ana
+761 >>  >> Macth via id pa:tocumen
+762 >>  >> Macth name_es equals pa:tocumen >> pa:tocumen
+763 >>  >> Macth name_es equals pa:mateo-iturralde >> pa:mateo iturralde
+764 >>  >> Macth via id pa:taboga
+765 >>  >> Macth name_es equals pa:taboga >> pa:taboga
+766 >>  >> Macth name_es equals pa:santa-clara-24656 >> pa:santa clara
+767 >>  >> Macth via id pa:veracruz
+768 >>  >> Macth name_es equals pa:veracruz >> pa:veracruz
+769 >>  >> Macth name_es equals pa:vista-alegre >> pa:vista alegre
+770 >>  >> Macth via id pa:bejuco
+771 >>  >> Macth name_es equals pa:bejuco >> pa:bejuco
+772 >>  >> Macth name_es equals pa:cabuya-24674 >> pa:cabuya
+773 >>  >> Macth via id pa:chame
+774 >>  >> Macth name_es equals pa:chame >> pa:chame
+775 >>  >> Macth name_es equals pa:chica >> pa:chicá
+776 >>  >> Macth name_es equals pa:las-lajas-24678 >> pa:las lajas
+777 >>  >> Macth name_es equals pa:nueva-gorgona >> pa:nueva gorgona
+778 >>  >> Macth name_es equals pa:punta-chame >> pa:punta chame
+779 >>  >> Macth name_es equals pa:puerto-caimito >> pa:puerto caimito
+780 >>  >> Macth name_es equals pa:el-espino >> pa:el espino
+781 >>  >> Macth name_es equals pa:el-higo >> pa:el higo
+782 >>  >> Macth name_es equals pa:la-laguna >> pa:la laguna
+783 >>  >> Macth name_es equals pa:las-uvas >> pa:las uvas
+784 >>  >> Macth name_es equals pa:san-carlos-24708 >> pa:san carlos
+785 >>  >> Macth name_es equals pa:san-jose-24709 >> pa:san josé
+786 >>  >> Macth via id pa:atalaya
+787 >>  >> Macth name_es equals pa:atalaya >> pa:atalaya
+788 >>  >> Macth name_es equals pa:san-antonio >> pa:san antonio
+789 >>  >> Macth via id pa:calobre
+790 >>  >> Macth name_es equals pa:calobre >> pa:calobre
+791 >>  >> Macth name_es equals pa:la-laguna-24721 >> pa:la laguna
+792 >>  >> Macth name_es equals pa:san-jose-24727 >> pa:san josé
+793 >>  >> Macth name_es equals pa:san-jose-24734 >> pa:san josé
+794 >>  >> Macth name_es equals pa:el-higo-24738 >> pa:el higo
+795 >>  >> Macth via id pa:mariato
+796 >>  >> Macth name_es equals pa:mariato >> pa:mariato
+797 >>  >> Macth name_es equals pa:san-francisco-24777 >> pa:san francisco
+798 >>  >> Macth name_es equals pa:san-jose-24779 >> pa:san josé
+799 >>  >> Macth name_es equals pa:santa-fe-24787 >> pa:santa fe
+800 >>  >> Macth name_es equals pa:la-pena >> pa:la peña
+801 >>  >> Macth name_es equals pa:los-algarrobos-24794 >> pa:los algarrobos
+802 >>  >> Macth via id pa:santiago
+803 >>  >> Macth name_es equals pa:santiago >> pa:santiago
+804 >>  >> Macth name_es equals pa:cative >> pa:cativá
+805 >>  >> Macth name_es equals pa:guarumal-24808 >> pa:guarumal
+806 >>  >> Macth via id pa:boquete
+807 >>  >> Macth name_es equals pa:boquete >> pa:boquete
+808 >>  >> Macth via id co:leticia
+809 >>  >> Macth name_es equals co:leticia >> co:leticia
+810 >>  >> Macth via id co:caucasia
+811 >>  >> Macth name_es equals co:caucasia >> co:caucasia
+812 >>  >> Macth via id co:granada
+813 >>  >> Macth name_es equals co:granada >> co:granada
+814 >>  >> Macth name_es equals co:la-ceja >> co:la ceja
+815 >>  >> Macth via id co:marinilla
+816 >>  >> Macth name_es equals co:marinilla >> co:marinilla
+817 >>  >> Macth via id co:rionegro
+818 >>  >> Macth name_es equals co:rionegro >> co:rionegro
+819 >>  >> Macth name_es equals co:apartado >> co:apartadó
+820 >>  >> Macth via id co:carepa
+821 >>  >> Macth name_es equals co:carepa >> co:carepa
+822 >>  >> Macth name_es equals co:chigorodo >> co:chigorodó
+823 >>  >> Macth via id co:turbo
+824 >>  >> Macth name_es equals co:turbo >> co:turbo
+825 >>  >> Macth via id co:bello
+826 >>  >> Macth name_es equals co:bello >> co:bello
+827 >>  >> Macth via id co:caldas
+828 >>  >> Macth name_es equals co:caldas >> co:caldas
+829 >>  >> Macth via id co:copacabana
+830 >>  >> Macth name_es equals co:copacabana >> co:copacabana
+831 >>  >> Macth via id co:envigado
+832 >>  >> Macth name_es equals co:envigado >> co:envigado
+833 >>  >> Macth via id co:girardota
+834 >>  >> Macth name_es equals co:girardota >> co:girardota
+835 >>  >> Macth name_en equals co:itagui >> co:itagüí
+836 >>  >> Macth name_es equals co:medellin >> co:medellín
+837 >>  >> Macth via id co:sabaneta
+838 >>  >> Macth name_es equals co:sabaneta >> co:sabaneta
+839 >>  >> Macth via id co:arauca
+840 >>  >> Macth name_es equals co:arauca >> co:arauca
+841 >>  >> Macth via id co:barranquilla
+842 >>  >> Macth name_es equals co:barranquilla >> co:barranquilla
+843 >>  >> Macth via id co:malambo
+844 >>  >> Macth name_es equals co:malambo >> co:malambo
+845 >>  >> Macth via id co:soledad
+846 >>  >> Macth name_es equals co:soledad >> co:soledad
+847 >>  >> Macth via id co:sabanalarga
+848 >>  >> Macth name_es equals co:sabanalarga >> co:sabanalarga
+849 >>  >> Macth via id co:cartagena
+850 >>  >> Macth name_es equals co:cartagena >> co:cartagena de indias
+851 >>  >> Macth via id co:turbaco
+852 >>  >> Macth name_es equals co:turbaco >> co:turbaco
+853 >>  >> Macth name_es equals co:magangue >> co:magangué
+854 >>  >> Macth via id co:tunja
+855 >>  >> Macth name_es equals co:tunja >> co:tunja
+856 >>  >> Macth via id co:sogamoso
+857 >>  >> Macth name_es equals co:sogamoso >> co:sogamoso
+858 >>  >> Macth via id co:duitama
+859 >>  >> Macth name_es equals co:duitama >> co:duitama
+860 >>  >> Macth name_es equals co:chinchina >> co:chinchiná
+861 >>  >> Macth via id co:manizales
+862 >>  >> Macth name_es equals co:manizales >> co:manizales
+863 >>  >> Macth name_en equals co:villamaria >> co:villamaría
+864 >>  >> Macth name_es equals co:la-dorada >> co:la dorada
+865 >>  >> Macth via id co:florencia
+866 >>  >> Macth name_es equals co:florencia >> co:florencia
+867 >>  >> Macth via id co:yopal
+868 >>  >> Macth name_es equals co:yopal >> co:yopal
+869 >>  >> Macth name_es equals co:popayan >> co:popayán
+870 >>  >> Macth via id co:valledupar
+871 >>  >> Macth name_es equals co:valledupar >> co:valledupar
+872 >>  >> Macth via id co:aguachica
+873 >>  >> Macth name_es equals co:aguachica >> co:aguachica
+874 >>  >> Macth name_es equals co:quibdo >> co:quibdó
+875 >>  >> Macth name_es equals co:monteria >> co:montería
+876 >>  >> Macth name_es equals co:cerete >> co:cereté
+877 >>  >> Macth via id co:girardot
+878 >>  >> Macth name_es equals co:girardot >> co:girardot
+879 >>  >> Macth name_es equals co:cajica >> co:cajicá
+880 >>  >> Macth name_es equals co:chia >> co:chía
+881 >>  >> Macth name_es equals co:zipaquira >> co:zipaquirá
+882 >>  >> Macth name_es equals co:facatativa >> co:facatativá
+883 >>  >> Macth via id co:mosquera
+884 >>  >> Macth name_es equals co:mosquera >> co:mosquera
+885 >>  >> Macth via id co:soacha
+886 >>  >> Macth name_es equals co:soacha >> co:soacha
+887 >>  >> Macth name_es equals co:fusagasuga >> co:fusagasugá
+888 >>  >> Macth name_en equals co:inirida >> co:inírida
+889 >>  >> Macth name_es equals co:garzon >> co:garzón
+890 >>  >> Macth via id co:neiva
+891 >>  >> Macth name_es equals co:neiva >> co:neiva
+892 >>  >> Macth name_es equals co:la-plata >> co:la plata
+893 >>  >> Macth via id co:pitalito
+894 >>  >> Macth name_es equals co:pitalito >> co:pitalito
+895 >>  >> Macth via id co:maicao
+896 >>  >> Macth name_es equals co:maicao >> co:maicao
+897 >>  >> Macth via id co:manaure
+898 >>  >> Macth name_es equals co:manaure >> co:manaure
+899 >>  >> Macth via id co:riohacha
+900 >>  >> Macth name_es equals co:riohacha >> co:riohacha
+901 >>  >> Macth via id co:uribia
+902 >>  >> Macth name_es equals co:uribia >> co:uribia
+903 >>  >> Macth name_es equals co:cienaga >> co:ciénaga
+904 >>  >> Macth name_es equals co:fundacion >> co:fundación
+905 >>  >> Macth name_es equals co:santa-marta >> co:santa marta
+906 >>  >> Macth via id co:villavicencio
+907 >>  >> Macth name_es equals co:villavicencio >> co:villavicencio
+908 >>  >> Macth name_en equals co:acacias >> co:acacías
+909 >>  >> Macth name_es equals co:san-juan-de-pasto >> co:san juan de pasto
+910 >>  >> Macth via id co:ipiales
+911 >>  >> Macth name_es equals co:ipiales >> co:ipiales
+912 >>  >> Macth name_es equals co:ocana >> co:ocaña
+913 >>  >> Macth name_es equals co:villa-del-rosario >> co:villa del rosario
+914 >>  >> Macth via id co:pamplona
+915 >>  >> Macth name_es equals co:pamplona >> co:pamplona
+916 >>  >> Macth via id co:armenia
+917 >>  >> Macth name_es equals co:armenia >> co:armenia
+918 >>  >> Macth name_en equals co:calarca >> co:calarcá
+919 >>  >> Macth via id co:dosquebradas
+920 >>  >> Macth name_es equals co:dosquebradas >> co:dosquebradas
+921 >>  >> Macth via id co:pereira
+922 >>  >> Macth name_es equals co:pereira >> co:pereira
+923 >>  >> Macth name_es equals co:santa-rosa-de-cabal >> co:santa rosa de cabal
+924 >>  >> Macth name_es equals co:san-andres >> co:san andrés
+925 >>  >> Macth via id co:barrancabermeja
+926 >>  >> Macth name_es equals co:barrancabermeja >> co:barrancabermeja
+927 >>  >> Macth via id co:bucaramanga
+928 >>  >> Macth name_es equals co:bucaramanga >> co:bucaramanga
+929 >>  >> Macth via id co:floridablanca
+930 >>  >> Macth name_es equals co:floridablanca >> co:floridablanca
+931 >>  >> Macth via id co:piedecuesta
+932 >>  >> Macth name_es equals co:piedecuesta >> co:piedecuesta
+933 >>  >> Macth via id co:sincelejo
+934 >>  >> Macth name_es equals co:sincelejo >> co:sincelejo
+935 >>  >> Macth via id co:espinal
+936 >>  >> Macth name_es equals co:espinal >> co:espinal
+937 >>  >> Macth name_en equals co:ibague >> co:ibagué
+938 >>  >> Macth name_es equals co:guadalajara-de-buga >> co:guadalajara de buga
+939 >>  >> Macth name_es equals co:tulua >> co:tuluá
+940 >>  >> Macth via id co:cartago
+941 >>  >> Macth name_es equals co:cartago >> co:cartago
+942 >>  >> Macth via id co:buenaventura
+943 >>  >> Macth name_es equals co:buenaventura >> co:buenaventura
+944 >>  >> Macth via id co:cali
+945 >>  >> Macth name_es equals co:cali >> co:cali
+946 >>  >> Macth name_es equals co:jamundi >> co:jamundí
+947 >>  >> Macth via id co:palmira
+948 >>  >> Macth name_es equals co:palmira >> co:palmira
+949 >>  >> Macth via id co:yumbo
+950 >>  >> Macth name_es equals co:yumbo >> co:yumbo
+951 >>  >> Macth name_es equals co:la-victoria >> co:la victoria
+952 >>  >> Macth name_es equals co:puerto-narino >> co:puerto nariño
+953 >>  >> Macth name_es equals co:el-bagre >> co:el bagre
+954 >>  >> Macth name_es equals co:puerto-nare >> co:puerto nare
+955 >>  >> Macth name_es equals co:puerto-triunfo >> co:puerto triunfo
+956 >>  >> Macth via id co:angostura
+957 >>  >> Macth name_es equals co:angostura >> co:angostura
+958 >>  >> Macth via id co:ituango
+959 >>  >> Macth name_es equals co:ituango >> co:ituango
+960 >>  >> Macth name_es equals co:san-andres-22872 >> co:san andrés
+961 >>  >> Macth name_es equals co:san-jose-de-la-montana >> co:san josé de la montaña
+962 >>  >> Macth name_es equals co:san-pedro >> co:san pedro
+963 >>  >> Macth name_es equals co:santa-rosa-de-osos >> co:santa rosa de osos
+964 >>  >> Macth via id co:valdivia
+965 >>  >> Macth name_es equals co:valdivia >> co:valdivia
+966 >>  >> Macth name_es equals co:armenia-22881 >> co:armenia
+967 >>  >> Macth via id co:olaya
+968 >>  >> Macth name_es equals co:olaya >> co:olaya
+969 >>  >> Macth name_es equals co:sabanalarga-22892 >> co:sabanalarga
+970 >>  >> Macth name_es equals co:san-jeronimo >> co:san jerónimo
+971 >>  >> Macth name_es equals co:sopetran >> co:sopetrán
+972 >>  >> Macth name_es equals co:alejandria >> co:alejandría
+973 >>  >> Macth name_es equals co:cocorna >> co:cocorná
+974 >>  >> Macth via id co:guarne
+975 >>  >> Macth name_es equals co:guarne >> co:guarne
+976 >>  >> Macth name_en equals co:guatape >> co:guatapé
+977 >>  >> Macth name_es equals co:la-union >> co:la unión
+978 >>  >> Macth via id co:retiro
+979 >>  >> Macth name_es equals co:retiro >> co:retiro
+980 >>  >> Macth name_es equals co:san-francisco >> co:san francisco
+981 >>  >> Macth name_es equals co:san-luis >> co:san luis
+982 >>  >> Macth name_en equals co:sonson >> co:sonsón
+983 >>  >> Macth via id co:betania
+984 >>  >> Macth name_es equals co:betania >> co:betania
+985 >>  >> Macth name_es equals co:jardin >> co:jardín
+986 >>  >> Macth name_es equals co:jerico >> co:jericó
+987 >>  >> Macth name_es equals co:la-pintada >> co:la pintada
+988 >>  >> Macth via id co:montebello
+989 >>  >> Macth name_es equals co:montebello >> co:montebello
+990 >>  >> Macth via id co:pueblorrico
+991 >>  >> Macth name_es equals co:pueblorrico >> co:pueblorrico
+992 >>  >> Macth name_es equals co:santa-barbara >> co:santa bárbara
+993 >>  >> Macth via id co:urrao
+994 >>  >> Macth name_es equals co:urrao >> co:urrao
+995 >>  >> Macth name_es equals co:valparaiso >> co:valparaíso
+996 >>  >> Macth via id co:arboletes
+997 >>  >> Macth name_es equals co:arboletes >> co:arboletes
+998 >>  >> Macth via id co:barbosa
+999 >>  >> Macth name_en equals co:barbosa >> co:barbosa  antioquia
+1000 >>  >> Macth name_es equals co:puerto-rondon >> co:puerto rondón
+1001 >>  >> Macth name_es equals co:san-andres-22955 >> co:san andrés
+1002 >>  >> Macth name_es equals co:puerto-colombia >> co:puerto colombia
+1003 >>  >> Macth name_es equals co:santa-lucia >> co:santa lucía
+1004 >>  >> Macth name_es equals co:mompos >> co:mompós
+1005 >>  >> Macth name_es equals co:san-fernando >> co:san fernando
+1006 >>  >> Macth name_es equals co:santa-catalina >> co:santa catalina
+1007 >>  >> Macth via id co:villanueva
+1008 >>  >> Macth name_es equals co:villanueva >> co:villanueva
+1009 >>  >> Macth via id co:arenal
+1010 >>  >> Macth name_es equals co:arenal >> co:arenal
+1011 >>  >> Macth name_es equals co:santa-rosa-del-sur >> co:santa rosa del sur
+1012 >>  >> Macth via id co:cucaita
+1013 >>  >> Macth name_es equals co:cucaita >> co:cucaita
+1014 >>  >> Macth via id co:toca
+1015 >>  >> Macth name_es equals co:toca >> co:toca
+1016 >>  >> Macth via id co:chiscas
+1017 >>  >> Macth name_es equals co:chiscas >> co:chiscas
+1018 >>  >> Macth name_es equals co:cubara >> co:cubará
+1019 >>  >> Macth name_es equals co:el-cocuy >> co:el cocuy
+1020 >>  >> Macth name_es equals co:guican >> co:güicán
+1021 >>  >> Macth via id co:jenesano
+1022 >>  >> Macth name_es equals co:jenesano >> co:jenesano
+1023 >>  >> Macth name_es equals co:tibana >> co:tibaná
+1024 >>  >> Macth name_es equals co:santa-maria >> co:santa maría
+1025 >>  >> Macth name_es equals co:san-mateo >> co:san mateo
+1026 >>  >> Macth name_es equals co:susacon >> co:susacón
+1027 >>  >> Macth via id co:buenavista
+1028 >>  >> Macth name_es equals co:buenavista >> co:buenavista
+1029 >>  >> Macth name_es equals co:caldas-23072 >> co:caldas
+1030 >>  >> Macth name_es equals co:la-victoria-23074 >> co:la victoria
+1031 >>  >> Macth via id co:pauna
+1032 >>  >> Macth name_es equals co:pauna >> co:pauna
+1033 >>  >> Macth via id co:arcabuco
+1034 >>  >> Macth name_es equals co:arcabuco >> co:arcabuco
+1035 >>  >> Macth name_es equals co:moniquira >> co:moniquirá
+1036 >>  >> Macth name_es equals co:sachica >> co:sáchica
+1037 >>  >> Macth name_es equals co:santa-sofia >> co:santa sofía
+1038 >>  >> Macth name_es equals co:tinjaca >> co:tinjacá
+1039 >>  >> Macth name_es equals co:villa-de-leyva >> co:villa de leyva
+1040 >>  >> Macth via id co:aquitania
+1041 >>  >> Macth name_es equals co:aquitania >> co:aquitania
+1042 >>  >> Macth name_es equals co:cuitiva >> co:cuítiva
+1043 >>  >> Macth via id co:firavitoba
+1044 >>  >> Macth name_es equals co:firavitoba >> co:firavitoba
+1045 >>  >> Macth via id co:iza
+1046 >>  >> Macth name_es equals co:iza >> co:iza
+1047 >>  >> Macth via id co:nobsa
+1048 >>  >> Macth name_es equals co:nobsa >> co:nobsa
+1049 >>  >> Macth via id co:pesca
+1050 >>  >> Macth name_es equals co:pesca >> co:pesca
+1051 >>  >> Macth via id co:tibasosa
+1052 >>  >> Macth name_es equals co:tibasosa >> co:tibasosa
+1053 >>  >> Macth name_es equals co:belen >> co:belén
+1054 >>  >> Macth via id co:paipa
+1055 >>  >> Macth name_es equals co:paipa >> co:paipa
+1056 >>  >> Macth name_es equals co:jerico-23127 >> co:jericó
+1057 >>  >> Macth name_es equals co:la-merced >> co:la merced
+1058 >>  >> Macth name_es equals co:supia >> co:supía
+1059 >>  >> Macth via id co:risaralda
+1060 >>  >> Macth name_es equals co:risaralda >> co:risaralda
+1061 >>  >> Macth via id co:viterbo
+1062 >>  >> Macth name_es equals co:viterbo >> co:viterbo
+1063 >>  >> Macth via id co:neira
+1064 >>  >> Macth name_es equals co:neira >> co:neira
+1065 >>  >> Macth via id co:palestina
+1066 >>  >> Macth name_es equals co:palestina >> co:palestina
+1067 >>  >> Macth via id co:salamina
+1068 >>  >> Macth name_es equals co:salamina >> co:salamina
+1069 >>  >> Macth via id co:albania
+1070 >>  >> Macth name_es equals co:albania >> co:albania
+1071 >>  >> Macth name_en equals co:valparaiso-23168 >> co:valparaíso
+1072 >>  >> Macth via id co:aguazul
+1073 >>  >> Macth name_es equals co:aguazul >> co:aguazul
+1074 >>  >> Macth via id co:monterrey
+1075 >>  >> Macth name_es equals co:monterrey >> co:monterrey
+1076 >>  >> Macth name_es equals co:orocue >> co:orocué
+1077 >>  >> Macth name_es equals co:paz-de-ariporo >> co:paz de ariporo
+1078 >>  >> Macth name_es equals co:sabanalarga-23180 >> co:sabanalarga
+1079 >>  >> Macth name_es equals co:villanueva-23186 >> co:villanueva
+1080 >>  >> Macth name_es equals co:el-tambo >> co:el tambo
+1081 >>  >> Macth via id co:padilla
+1082 >>  >> Macth name_es equals co:padilla >> co:padilla
+1083 >>  >> Macth via id co:guapi
+1084 >>  >> Macth name_es equals co:guapi >> co:guapi
+1085 >>  >> Macth name_es equals co:inza >> co:iza
+1086 >>  >> Macth via id co:silvia
+1087 >>  >> Macth name_es equals co:silvia >> co:silvia
+1088 >>  >> Macth name_es equals co:florencia-23218 >> co:florencia
+1089 >>  >> Macth name_es equals co:la-vega >> co:la vega
+1090 >>  >> Macth name_es equals co:santa-rosa >> co:santa rosa
+1091 >>  >> Macth name_es equals co:manaure-23238 >> co:manaure
+1092 >>  >> Macth name_es equals co:san-diego >> co:san diego
+1093 >>  >> Macth via id co:gamarra
+1094 >>  >> Macth name_es equals co:gamarra >> co:gamarra
+1095 >>  >> Macth name_es equals co:san-martin >> co:san martín
+1096 >>  >> Macth name_es equals co:acandi >> co:acandí
+1097 >>  >> Macth name_es equals co:bahia-solano >> co:bahía solano
+1098 >>  >> Macth name_es equals co:nuqui >> co:nuquí
+1099 >>  >> Macth via id co:condoto
+1100 >>  >> Macth name_es equals co:condoto >> co:condoto
+1101 >>  >> Macth name_es equals co:san-antero >> co:san antero
+1102 >>  >> Macth name_es equals co:san-bernardo-del-viento >> co:san bernardo del viento
+1103 >>  >> Macth name_es equals co:buenavista-23292 >> co:buenavista
+1104 >>  >> Macth name_es equals co:choconta >> co:chocontá
+1105 >>  >> Macth via id co:suesca
+1106 >>  >> Macth name_es equals co:suesca >> co:suesca
+1107 >>  >> Macth via id co:nilo
+1108 >>  >> Macth name_es equals co:nilo >> co:nilo
+1109 >>  >> Macth via id co:ricaurte
+1110 >>  >> Macth name_es equals co:ricaurte >> co:ricaurte
+1111 >>  >> Macth via id co:guaduas
+1112 >>  >> Macth name_es equals co:guaduas >> co:guaduas
+1113 >>  >> Macth name_es equals co:puerto-salgar >> co:puerto salgar
+1114 >>  >> Macth name_es equals co:la-vega-23317 >> co:la vega
+1115 >>  >> Macth via id co:nimaima
+1116 >>  >> Macth name_es equals co:nimaima >> co:nimaima
+1117 >>  >> Macth via id co:nocaima
+1118 >>  >> Macth name_es equals co:nocaima >> co:nocaima
+1119 >>  >> Macth name_es equals co:san-francisco-23321 >> co:san francisco
+1120 >>  >> Macth via id co:sasaima
+1121 >>  >> Macth name_es equals co:sasaima >> co:sasaima
+1122 >>  >> Macth name_es equals co:utica >> co:útica
+1123 >>  >> Macth via id co:villeta
+1124 >>  >> Macth name_es equals co:villeta >> co:villeta
+1125 >>  >> Macth via id co:guasca
+1126 >>  >> Macth name_es equals co:guasca >> co:guasca
+1127 >>  >> Macth via id co:guatavita
+1128 >>  >> Macth name_es equals co:guatavita >> co:guatavita
+1129 >>  >> Macth name_es equals co:la-calera >> co:la calera
+1130 >>  >> Macth name_es equals co:san-juan-de-rio-seco >> co:san juan de río seco
+1131 >>  >> Macth name_es equals co:viani >> co:vianí
+1132 >>  >> Macth via id co:medina
+1133 >>  >> Macth name_es equals co:medina >> co:medina
+1134 >>  >> Macth via id co:chipaque
+1135 >>  >> Macth name_es equals co:chipaque >> co:chipaque
+1136 >>  >> Macth name_es equals co:choachi >> co:choachí
+1137 >>  >> Macth name_en equals co:fomeque >> co:fómeque
+1138 >>  >> Macth name_es equals co:la-palma >> co:la palma
+1139 >>  >> Macth via id co:pacho
+1140 >>  >> Macth name_es equals co:pacho >> co:pacho
+1141 >>  >> Macth name_es equals co:sopo >> co:sopó
+1142 >>  >> Macth via id co:tabio
+1143 >>  >> Macth name_es equals co:tabio >> co:tabio
+1144 >>  >> Macth name_es equals co:tocancipa >> co:tocancipá
+1145 >>  >> Macth name_es equals co:bojaca >> co:bojacá
+1146 >>  >> Macth via id co:cota
+1147 >>  >> Macth name_es equals co:cota >> co:cota
+1148 >>  >> Macth via id co:subachoque
+1149 >>  >> Macth name_es equals co:subachoque >> co:subachoque
+1150 >>  >> Macth via id co:tenjo
+1151 >>  >> Macth name_es equals co:tenjo >> co:tenjo
+1152 >>  >> Macth via id co:cabrera
+1153 >>  >> Macth name_es equals co:cabrera >> co:cabrera
+1154 >>  >> Macth name_es equals co:granada-23377 >> co:granada
+1155 >>  >> Macth name_es equals co:san-bernardo >> co:san bernardo
+1156 >>  >> Macth via id co:silvania
+1157 >>  >> Macth name_es equals co:silvania >> co:silvania
+1158 >>  >> Macth via id co:tibacuy
+1159 >>  >> Macth name_es equals co:tibacuy >> co:tibacuy
+1160 >>  >> Macth via id co:anapoima
+1161 >>  >> Macth name_es equals co:anapoima >> co:anapoima
+1162 >>  >> Macth via id co:apulo
+1163 >>  >> Macth name_es equals co:apulo >> co:apulo
+1164 >>  >> Macth name_es equals co:el-colegio >> co:el colegio
+1165 >>  >> Macth name_es equals co:la-mesa >> co:la mesa
+1166 >>  >> Macth name_es equals co:carmen-de-carupa >> co:carmen de carupa
+1167 >>  >> Macth name_es equals co:cucunuba >> co:cucunubá
+1168 >>  >> Macth via id co:susa
+1169 >>  >> Macth name_es equals co:susa >> co:susa
+1170 >>  >> Macth name_es equals co:la-guadalupe >> co:la guadalupe
+1171 >>  >> Macth name_es equals co:puerto-colombia-23410 >> co:puerto colombia
+1172 >>  >> Macth via id co:altamira
+1173 >>  >> Macth name_es equals co:altamira >> co:altamira
+1174 >>  >> Macth via id co:campoalegre
+1175 >>  >> Macth name_es equals co:campoalegre >> co:campoalegre
+1176 >>  >> Macth via id co:colombia
+1177 >>  >> Macth name_es equals co:colombia >> co:colombia
+1178 >>  >> Macth via id co:rivera
+1179 >>  >> Macth name_es equals co:rivera >> co:rivera
+1180 >>  >> Macth name_es equals co:santa-maria-23431 >> co:santa maría
+1181 >>  >> Macth via id co:villavieja
+1182 >>  >> Macth name_es equals co:villavieja >> co:villavieja
+1183 >>  >> Macth name_es equals co:nataga >> co:nátaga
+1184 >>  >> Macth via id co:paicol
+1185 >>  >> Macth name_es equals co:paicol >> co:paicol
+1186 >>  >> Macth name_es equals co:palestina-23444 >> co:palestina
+1187 >>  >> Macth name_es equals co:san-agustin >> co:san agustín
+1188 >>  >> Macth name_es equals co:albania-23448 >> co:albania
+1189 >>  >> Macth via id co:dibulla
+1190 >>  >> Macth name_es equals co:dibulla >> co:dibulla
+1191 >>  >> Macth name_es equals co:san-juan-del-cesar >> co:san juan del cesar
+1192 >>  >> Macth name_es equals co:villanueva-23458 >> co:villanueva
+1193 >>  >> Macth via id co:algarrobo
+1194 >>  >> Macth name_es equals co:algarrobo >> co:algarrobo
+1195 >>  >> Macth via id co:aracataca
+1196 >>  >> Macth name_es equals co:aracataca >> co:aracataca
+1197 >>  >> Macth name_es equals co:salamina-23474 >> co:salamina
+1198 >>  >> Macth via id co:guamal
+1199 >>  >> Macth name_es equals co:guamal >> co:guamal
+1200 >>  >> Macth name_es equals co:santa-ana >> co:santa ana
+1201 >>  >> Macth name_es equals co:el-dorado >> co:el dorado
+1202 >>  >> Macth name_es equals co:granada-23486 >> co:granada
+1203 >>  >> Macth name_es equals co:la-macarena >> co:la macarena
+1204 >>  >> Macth name_es equals co:puerto-lleras >> co:puerto lleras
+1205 >>  >> Macth name_es equals co:vista-hermosa >> co:vista hermosa
+1206 >>  >> Macth name_es equals co:castilla-la-nueva >> co:castilla la nueva
+1207 >>  >> Macth name_es equals co:guamal-23501 >> co:guamal
+1208 >>  >> Macth via id co:restrepo
+1209 >>  >> Macth name_es equals co:restrepo >> co:restrepo
+1210 >>  >> Macth name_es equals co:san-martin-23506 >> co:san martín
+1211 >>  >> Macth name_es equals co:puerto-gaitan >> co:puerto gaitán
+1212 >>  >> Macth name_es equals co:puerto-lopez >> co:puerto lópez
+1213 >>  >> Macth name_es equals co:chanchagui >> co:chachagüí
+1214 >>  >> Macth name_es equals co:el-penol >> co:el peñol
+1215 >>  >> Macth name_es equals co:el-tambo-23513 >> co:el tambo
+1216 >>  >> Macth name_es equals co:la-florida >> co:la florida
+1217 >>  >> Macth name_es equals co:los-andes >> co:los andes
+1218 >>  >> Macth name_en equals co:providencia >> co:isla de providencia
+1219 >>  >> Macth name_es equals co:ricaurte-23528 >> co:ricaurte
+1220 >>  >> Macth name_es equals co:el-charco >> co:el charco
+1221 >>  >> Macth name_es equals co:mosquera-23538 >> co:mosquera
+1222 >>  >> Macth name_es equals co:santa-barbara-23541 >> co:santa bárbara
+1223 >>  >> Macth via id co:tumaco
+1224 >>  >> Macth name_es equals co:tumaco >> co:tumaco
+1225 >>  >> Macth name_en equals co:belen-23545 >> co:belén
+1226 >>  >> Macth name_es equals co:el-rosario >> co:el rosario
+1227 >>  >> Macth name_es equals co:la-union-23552 >> co:la unión
+1228 >>  >> Macth name_es equals co:san-bernardo-23555 >> co:san bernardo
+1229 >>  >> Macth name_es equals co:potosi >> co:potosí
+1230 >>  >> Macth via id co:pupiales
+1231 >>  >> Macth name_es equals co:pupiales >> co:pupiales
+1232 >>  >> Macth via id co:arboledas
+1233 >>  >> Macth name_es equals co:arboledas >> co:arboledas
+1234 >>  >> Macth via id co:santiago
+1235 >>  >> Macth name_es equals co:santiago >> co:santiago
+1236 >>  >> Macth name_es equals co:el-carmen >> co:el carmen
+1237 >>  >> Macth name_es equals co:chinacota >> co:chinácota
+1238 >>  >> Macth via id co:durania
+1239 >>  >> Macth name_es equals co:durania >> co:durania
+1240 >>  >> Macth name_es equals co:herran >> co:herrán
+1241 >>  >> Macth via id co:ragonvalia
+1242 >>  >> Macth name_es equals co:ragonvalia >> co:ragonvalia
+1243 >>  >> Macth name_en equals co:puerto-asis >> co:puerto asís
+1244 >>  >> Macth name_es equals co:san-miguel >> co:san miguel
+1245 >>  >> Macth name_es equals co:sann-francisco >> co:san francisco
+1246 >>  >> Macth name_es equals co:santiago-23617 >> co:santiago
+1247 >>  >> Macth name_es equals co:buenavista-23621 >> co:buenavista
+1248 >>  >> Macth via id co:pijao
+1249 >>  >> Macth name_es equals co:pijao >> co:pijao
+1250 >>  >> Macth via id co:filandia
+1251 >>  >> Macth name_es equals co:filandia >> co:filandia
+1252 >>  >> Macth via id co:salento
+1253 >>  >> Macth name_es equals co:salento >> co:salento
+1254 >>  >> Macth via id co:circasia
+1255 >>  >> Macth name_es equals co:circasia >> co:circasia
+1256 >>  >> Macth name_es equals co:la-tebaida >> co:la tebaida
+1257 >>  >> Macth via id co:montenegro
+1258 >>  >> Macth name_es equals co:montenegro >> co:montenegro
+1259 >>  >> Macth via id co:quimbaya
+1260 >>  >> Macth name_es equals co:quimbaya >> co:quimbaya
+1261 >>  >> Macth name_es equals co:belen-de-umbria >> co:belén de umbría
+1262 >>  >> Macth name_es equals co:la-virginia >> co:la virginia
+1263 >>  >> Macth via id co:marsella
+1264 >>  >> Macth name_es equals co:marsella >> co:marsella
+1265 >>  >> Macth via id co:confines
+1266 >>  >> Macth name_es equals co:confines >> co:confines
+1267 >>  >> Macth name_en equals co:socorro >> co:el socorro
+1268 >>  >> Macth name_es equals co:cepita >> co:cepitá
+1269 >>  >> Macth name_es equals co:san-miguel-23669 >> co:san miguel
+1270 >>  >> Macth via id co:barichara
+1271 >>  >> Macth name_es equals co:barichara >> co:barichara
+1272 >>  >> Macth name_es equals co:cabrera-23672 >> co:cabrera
+1273 >>  >> Macth name_es equals co:curiti >> co:curití
+1274 >>  >> Macth name_es equals co:paramo >> co:péramo
+1275 >>  >> Macth name_es equals co:san-gil >> co:san gil
+1276 >>  >> Macth name_es equals co:valle-de-san-jose >> co:valle de san josé
+1277 >>  >> Macth name_es equals co:villanueva-23686 >> co:villanueva
+1278 >>  >> Macth name_es equals co:puerto-wilches >> co:puerto wilches
+1279 >>  >> Macth name_es equals co:san-vicente-de-chucuri >> co:san vicente de chucurí
+1280 >>  >> Macth via id co:zapatoca
+1281 >>  >> Macth name_es equals co:zapatoca >> co:zapatoca
+1282 >>  >> Macth via id ec:cuenca
+1283 >>  >> Macth name_es equals ec:cuenca >> ec:cuenca
+1284 >>  >> Macth via id ec:gualaceo
+1285 >>  >> Macth name_es equals ec:gualaceo >> ec:gualaceo
+1286 >>  >> Macth name_es equals ec:nabon >> ec:nabón
+1287 >>  >> Macth via id ec:paute
+1288 >>  >> Macth name_es equals ec:paute >> ec:paute
+1289 >>  >> Macth name_es equals ec:santa-isabel >> ec:santa isabel
+1290 >>  >> Macth via id ec:sigsig
+1291 >>  >> Macth name_es equals ec:sigsig >> ec:sigsig
+1292 >>  >> Macth via id ec:guaranda
+1293 >>  >> Macth name_es equals ec:guaranda >> ec:guaranda
+1294 >>  >> Macth name_es equals ec:san-miguel >> ec:san miguel
+1295 >>  >> Macth via id ec:azogues
+1296 >>  >> Macth name_es equals ec:azogues >> ec:azogues
+1297 >>  >> Macth via id ec:canar
+1298 >>  >> Macth name_es equals ec:canar >> ec:canar
+1299 >>  >> Macth name_es equals ec:la-troncal >> ec:la troncal
+1300 >>  >> Macth name_es equals ec:el-angel >> ec:el ángel
+1301 >>  >> Macth name_es equals ec:tulcan >> ec:tulcán
+1302 >>  >> Macth name_es equals ec:alausi >> ec:alausí
+1303 >>  >> Macth via id ec:chambo
+1304 >>  >> Macth name_es equals ec:chambo >> ec:chambo
+1305 >>  >> Macth via id ec:chunchi
+1306 >>  >> Macth name_es equals ec:chunchi >> ec:chunchi
+1307 >>  >> Macth via id ec:guamote
+1308 >>  >> Macth name_es equals ec:guamote >> ec:guamote
+1309 >>  >> Macth via id ec:guano
+1310 >>  >> Macth name_es equals ec:guano >> ec:guano
+1311 >>  >> Macth via id ec:pallatanga
+1312 >>  >> Macth name_es equals ec:pallatanga >> ec:pallatanga
+1313 >>  >> Macth via id ec:riobamba
+1314 >>  >> Macth name_es equals ec:riobamba >> ec:riobamba
+1315 >>  >> Macth via id ec:latacunga
+1316 >>  >> Macth name_es equals ec:latacunga >> ec:latacunga
+1317 >>  >> Macth name_es equals ec:pujili >> ec:pujilí
+1318 >>  >> Macth name_es equals ec:saquisili >> ec:saquisilí
+1319 >>  >> Macth via id ec:arenillas
+1320 >>  >> Macth name_es equals ec:arenillas >> ec:arenillas
+1321 >>  >> Macth name_es equals ec:el-guabo >> ec:el guabo
+1322 >>  >> Macth via id ec:huaquillas
+1323 >>  >> Macth name_es equals ec:huaquillas >> ec:huaquillas
+1324 >>  >> Macth via id ec:machala
+1325 >>  >> Macth name_es equals ec:machala >> ec:machala
+1326 >>  >> Macth via id ec:pinas
+1327 >>  >> Macth name_es equals ec:pinas >> ec:pinas
+1328 >>  >> Macth name_es equals ec:santa-rosa >> ec:santa rosa
+1329 >>  >> Macth via id ec:zaruma
+1330 >>  >> Macth name_es equals ec:zaruma >> ec:zaruma
+1331 >>  >> Macth name_es equals ec:puerto-ayora >> ec:puerto ayora
+1332 >>  >> Macth name_es equals ec:puerto-baquerizo-moreno >> ec:puerto baquerizo moreno
+1333 >>  >> Macth name_es equals ec:puerto-villamil >> ec:puerto villamil
+1334 >>  >> Macth via id ec:balzar
+1335 >>  >> Macth name_es equals ec:balzar >> ec:balzar
+1336 >>  >> Macth via id ec:daule
+1337 >>  >> Macth name_es equals ec:daule >> ec:daule
+1338 >>  >> Macth name_es equals ec:duran >> ec:durán
+1339 >>  >> Macth name_es equals ec:el-empalme >> ec:el empalme
+1340 >>  >> Macth via id ec:guayaquil
+1341 >>  >> Macth name_es equals ec:guayaquil >> ec:guayaquil
+1342 >>  >> Macth via id ec:milagro
+1343 >>  >> Macth name_es equals ec:milagro >> ec:milagro
+1344 >>  >> Macth via id ec:naranjal
+1345 >>  >> Macth name_es equals ec:naranjal >> ec:naranjal
+1346 >>  >> Macth via id ec:playas
+1347 >>  >> Macth name_es equals ec:playas >> ec:playas
+1348 >>  >> Macth name_es equals ec:samborondon >> ec:samborondón
+1349 >>  >> Macth via id ec:atuntaqui
+1350 >>  >> Macth name_es equals ec:atuntaqui >> ec:atuntaqui
+1351 >>  >> Macth via id ec:cotacachi
+1352 >>  >> Macth name_es equals ec:cotacachi >> ec:cotacachi
+1353 >>  >> Macth via id ec:ibarra
+1354 >>  >> Macth name_es equals ec:ibarra >> ec:ibarra
+1355 >>  >> Macth name_en equals ec:otavalo >> ec:otávalo
+1356 >>  >> Macth via id ec:pimampiro
+1357 >>  >> Macth name_es equals ec:pimampiro >> ec:pimampiro
+1358 >>  >> Macth name_es equals ec:urcuqui >> ec:urcuquí
+1359 >>  >> Macth via id ec:alamor
+1360 >>  >> Macth name_es equals ec:alamor >> ec:alamor
+1361 >>  >> Macth via id ec:catamayo
+1362 >>  >> Macth name_es equals ec:catamayo >> ec:catamayo
+1363 >>  >> Macth via id ec:loja
+1364 >>  >> Macth name_es equals ec:loja >> ec:loja
+1365 >>  >> Macth name_es equals ec:macara >> ec:macará
+1366 >>  >> Macth via id ec:saraguro
+1367 >>  >> Macth name_es equals ec:saraguro >> ec:saraguro
+1368 >>  >> Macth via id ec:quevedo
+1369 >>  >> Macth name_es equals ec:quevedo >> ec:quevedo
+1370 >>  >> Macth via id ec:vinces
+1371 >>  >> Macth name_es equals ec:vinces >> ec:vinces
+1372 >>  >> Macth via id ec:atahualpa
+1373 >>  >> Macth name_es equals ec:atahualpa >> ec:atahualpa
+1374 >>  >> Macth via id ec:jipijapa
+1375 >>  >> Macth name_es equals ec:jipijapa >> ec:jipijapa
+1376 >>  >> Macth via id ec:manta
+1377 >>  >> Macth name_es equals ec:manta >> ec:manta
+1378 >>  >> Macth via id ec:montecristi
+1379 >>  >> Macth name_es equals ec:montecristi >> ec:montecristi
+1380 >>  >> Macth via id ec:pedernales
+1381 >>  >> Macth name_es equals ec:pedernales >> ec:pedernales
+1382 >>  >> Macth via id ec:tosagua
+1383 >>  >> Macth name_es equals ec:tosagua >> ec:tosagua
+1384 >>  >> Macth via id ec:macas
+1385 >>  >> Macth name_es equals ec:macas >> ec:macas
+1386 >>  >> Macth via id ec:sucua
+1387 >>  >> Macth name_es equals ec:sucua >> ec:sucua
+1388 >>  >> Macth via id ec:archidona
+1389 >>  >> Macth name_es equals ec:archidona >> ec:archidona
+1390 >>  >> Macth name_es equals ec:el-chaco >> ec:el chaco
+1391 >>  >> Macth via id ec:tena
+1392 >>  >> Macth name_es equals ec:tena >> ec:tena
+1393 >>  >> Macth name_es equals ec:la-joya-de-los-sachas >> ec:la joya de los sachas
+1394 >>  >> Macth via id ec:mera
+1395 >>  >> Macth name_es equals ec:mera >> ec:mera
+1396 >>  >> Macth via id ec:puyo
+1397 >>  >> Macth name_es equals ec:puyo >> ec:puyo
+1398 >>  >> Macth name_en equals ec:aloag >> ec:alóag
+1399 >>  >> Macth via id ec:cayambe
+1400 >>  >> Macth name_es equals ec:cayambe >> ec:cayambe
+1401 >>  >> Macth via id ec:machachi
+1402 >>  >> Macth name_es equals ec:machachi >> ec:machachi
+1403 >>  >> Macth via id ec:quito
+1404 >>  >> Macth name_es equals ec:quito >> ec:quito
+1405 >>  >> Macth name_es equals ec:san-miguel-de-los-bancos >> ec:san miguel de los bancos
+1406 >>  >> Macth name_es equals ec:sangolqui >> ec:sangolquí
+1407 >>  >> Macth via id ec:tabacundo
+1408 >>  >> Macth name_es equals ec:tabacundo >> ec:tabacundo
+1409 >>  >> Macth via id ec:salinas
+1410 >>  >> Macth name_es equals ec:salinas >> ec:salinas
+1411 >>  >> Macth via id ec:shushufindi
+1412 >>  >> Macth name_es equals ec:shushufindi >> ec:shushufindi
+1413 >>  >> Macth via id ec:ambato
+1414 >>  >> Macth name_es equals ec:ambato >> ec:ambato
+1415 >>  >> Macth name_es equals ec:banos >> ec:baños
+1416 >>  >> Macth via id ec:cevallos
+1417 >>  >> Macth name_es equals ec:cevallos >> ec:cevallos
+1418 >>  >> Macth via id ec:patate
+1419 >>  >> Macth name_es equals ec:patate >> ec:patate
+1420 >>  >> Macth via id ec:pelileo
+1421 >>  >> Macth name_es equals ec:pelileo >> ec:pelileo
+1422 >>  >> Macth via id ec:pillaro
+1423 >>  >> Macth name_es equals ec:pillaro >> ec:pillaro
+1424 >>  >> Macth via id ec:yantzaza
+1425 >>  >> Macth name_es equals ec:yantzaza >> ec:yantzaza
+1426 >>  >> Macth via id ec:zamora
+1427 >>  >> Macth name_es equals ec:zamora >> ec:zamora
+1428 >>  >> Macth name_es equals ec:puerto-lopez >> ec:puerto lópez
+1429 >>  >> Macth name_es equals es:santiago-de-compostela >> es:santiago de compostela
+1430 >>  >> Macth via id es:vigo
+1431 >>  >> Macth name_es equals es:vigo >> es:vigo
+1432 >>  >> Macth name_es equals es:gijon >> es:gijón
+1433 >>  >> Macth name_es equals es:aviles >> es:avilés
+1434 >>  >> Macth via id es:llanes
+1435 >>  >> Macth name_es equals es:llanes >> es:llanes
+1436 >>  >> Macth via id es:sitges
+1437 >>  >> Macth name_es equals es:sitges >> es:sitges
+1438 >>  >> Macth name_es equals es:lloret-de-mar >> es:lloret de mar
+1439 >>  >> Macth via id es:rosas
+1440 >>  >> Macth name_es equals es:rosas >> es:rosas
+1441 >>  >> Macth name_es equals es:tossa-de-mar >> es:tossa de mar
+1442 >>  >> Macth via id es:salou
+1443 >>  >> Macth name_es equals es:salou >> es:salou
+1444 >>  >> Macth via id es:cambrils
+1445 >>  >> Macth name_es equals es:cambrils >> es:cambrils
+1446 >>  >> Macth name_en equals es:calvia >> es:calvià
+1447 >>  >> Macth via id es:pollensa
+1448 >>  >> Macth name_es equals es:pollensa >> es:pollensa
+1449 >>  >> Macth name_en equals es:alcudia >> es:alcúdia
+1450 >>  >> Macth via id es:ciudadela
+1451 >>  >> Macth name_es equals es:ciudadela >> es:ciudadela
+1452 >>  >> Macth name_es equals es:sant-antoni-de-portmany >> es:sant antoni de portmany
+1453 >>  >> Macth name_es equals es:santa-eulalia-del-rio >> es:santa eulalia del río
+1454 >>  >> Macth via id es:ibiza
+1455 >>  >> Macth name_es equals es:ibiza >> es:ibiza
+1456 >>  >> Macth via id es:formentera
+1457 >>  >> Macth name_es equals es:formentera >> es:formentera
+1458 >>  >> Macth via id es:adeje
+1459 >>  >> Macth name_es equals es:adeje >> es:adeje
+1460 >>  >> Macth name_es equals es:puerto-de-la-cruz >> es:puerto de la cruz
+1461 >>  >> Macth via id es:maspalomas
+1462 >>  >> Macth name_es equals es:maspalomas >> es:maspalomas
+1463 >>  >> Macth name_es equals es:la-oliva >> es:la oliva
+1464 >>  >> Macth via id es:benidorm
+1465 >>  >> Macth name_es equals es:benidorm >> es:benidorm
+1466 >>  >> Macth name_en equals es:javea >> es:jávea
+1467 >>  >> Macth name_en equals es:denia >> es:dénia
+1468 >>  >> Macth via id es:calpe
+1469 >>  >> Macth name_es equals es:calpe >> es:calpe
+1470 >>  >> Macth via id es:torrevieja
+1471 >>  >> Macth name_es equals es:torrevieja >> es:torrevieja
+1472 >>  >> Macth via id es:moraira
+1473 >>  >> Macth name_es equals es:moraira >> es:moraira
+1474 >>  >> Macth via id es:altea
+1475 >>  >> Macth name_es equals es:altea >> es:altea
+1476 >>  >> Macth name_es equals es:guardamar-del-segura >> es:guardamar del segura
+1477 >>  >> Macth name_es equals es:peniscola >> es:peñíscola
+1478 >>  >> Macth via id es:oliva
+1479 >>  >> Macth name_es equals es:oliva >> es:oliva
+1480 >>  >> Macth via id es:gandia
+1481 >>  >> Macth name_es equals es:gandia >> es:gandia
+1482 >>  >> Macth via id es:marbella
+1483 >>  >> Macth name_es equals es:marbella >> es:marbella
+1484 >>  >> Macth via id es:nerja
+1485 >>  >> Macth name_es equals es:nerja >> es:nerja
+1486 >>  >> Macth name_es equals es:benalmadena >> es:benalmádena
+1487 >>  >> Macth via id es:estepona
+1488 >>  >> Macth name_es equals es:estepona >> es:estepona
+1489 >>  >> Macth via id es:fuengirola
+1490 >>  >> Macth name_es equals es:fuengirola >> es:fuengirola
+1491 >>  >> Macth via id es:torremolinos
+1492 >>  >> Macth name_es equals es:torremolinos >> es:torremolinos
+1493 >>  >> Macth via id es:mijas
+1494 >>  >> Macth name_es equals es:mijas >> es:mijas
+1495 >>  >> Macth via id es:ronda
+1496 >>  >> Macth name_es equals es:ronda >> es:ronda
+1497 >>  >> Macth name_es equals es:sanlucar-de-barrameda >> es:sanlúcar de barrameda
+1498 >>  >> Macth name_es equals es:conil-de-la-frontera >> es:conil de la frontera
+1499 >>  >> Macth via id es:tarifa
+1500 >>  >> Macth name_es equals es:tarifa >> es:tarifa
+1501 >>  >> Macth name_es equals es:jerez-de-la-frontera >> es:jerez de la frontera
+1502 >>  >> Macth name_es equals es:chiclana-de-la-frontera >> es:chiclana de la frontera
+1503 >>  >> Macth via id es:chipiona
+1504 >>  >> Macth name_es equals es:chipiona >> es:chipiona
+1505 >>  >> Macth name_es equals es:el-puerto-de-santa-maria >> es:el puerto de santa maría
+1506 >>  >> Macth via id es:algeciras
+1507 >>  >> Macth name_es equals es:algeciras >> es:algeciras
+1508 >>  >> Macth name_es equals es:mojacar >> es:mojácar
+1509 >>  >> Macth via id es:vera
+1510 >>  >> Macth name_es equals es:vera >> es:vera
+1511 >>  >> Macth name_es equals es:roquetas-de-mar >> es:roquetas de mar
+1512 >>  >> Macth name_es equals es:almunecar >> es:almuñécar
+1513 >>  >> Macth via id es:motril
+1514 >>  >> Macth name_es equals es:motril >> es:motril
+1515 >>  >> Macth via id es:ayamonte
+1516 >>  >> Macth name_es equals es:ayamonte >> es:ayamonte
+1517 >>  >> Macth name_es equals es:punta-umbria >> es:punta umbría
+1518 >>  >> Macth name_es equals es:isla-cristina >> es:isla cristina
+1519 >>  >> Macth via id es:islantilla
+1520 >>  >> Macth name_es equals es:islantilla >> es:islantilla
+1521 >>  >> Macth name_es equals es:merida >> es:mérida
+1522 >>  >> Macth via id es:villacarrillo
+1523 >>  >> Macth name_es equals es:villacarrillo >> es:villacarrillo
+1524 >>  >> Macth via id es:baeza
+1525 >>  >> Macth name_es equals es:baeza >> es:baeza
+1526 >>  >> Macth name_es equals es:ubeda >> es:úbeda
+1527 >>  >> Macth via id es:cazorla
+1528 >>  >> Macth name_es equals es:cazorla >> es:cazorla
+1529 >>  >> Macth via id es:haro
+1530 >>  >> Macth name_es equals es:haro >> es:haro
+1531 >>  >> Macth name_en equals pe:mancora >> pe:máncora
+1532 >>  >> Macth via id pe:vichayito
+1533 >>  >> Macth name_es equals pe:vichayito >> pe:vichayito
+1534 >>  >> Macth name_es equals pe:zorritos--2 >> pe:zorritos
+1535 >>  >> Macth via id cl:antofagasta
+1536 >>  >> Macth name_es equals cl:antofagasta >> cl:antofagasta
+1537 >>  >> Macth via id cl:taltal
+1538 >>  >> Macth name_es equals cl:taltal >> cl:taltal
+1539 >>  >> Macth via id cl:mejillones
+1540 >>  >> Macth name_es equals cl:mejillones >> cl:mejillones
+1541 >>  >> Macth via id cl:calama
+1542 >>  >> Macth name_es equals cl:calama >> cl:calama
+1543 >>  >> Macth via id cl:tocopilla
+1544 >>  >> Macth name_es equals cl:tocopilla >> cl:tocopilla
+1545 >>  >> Macth via id cl:caldera
+1546 >>  >> Macth name_es equals cl:caldera >> cl:caldera
+1547 >>  >> Macth name_es equals cl:copiapo >> cl:copiapó
+1548 >>  >> Macth name_es equals cl:tierra-amarilla >> cl:tierra amarilla
+1549 >>  >> Macth name_es equals cl:chanaral >> cl:chañaral
+1550 >>  >> Macth name_es equals cl:el-salvador >> cl:el salvador
+1551 >>  >> Macth via id cl:huasco
+1552 >>  >> Macth name_es equals cl:huasco >> cl:huasco
+1553 >>  >> Macth via id cl:vallenar
+1554 >>  >> Macth name_es equals cl:vallenar >> cl:vallenar
+1555 >>  >> Macth via id cl:arauco
+1556 >>  >> Macth name_es equals cl:arauco >> cl:arauco
+1557 >>  >> Macth via id cl:curanilahue
+1558 >>  >> Macth name_es equals cl:curanilahue >> cl:curanilahue
+1559 >>  >> Macth via id cl:lebu
+1560 >>  >> Macth name_es equals cl:lebu >> cl:lebu
+1561 >>  >> Macth via id cl:cabrero
+1562 >>  >> Macth name_es equals cl:cabrero >> cl:cabrero
+1563 >>  >> Macth name_es equals cl:los-angeles >> cl:los ángeles
+1564 >>  >> Macth via id cl:yumbel
+1565 >>  >> Macth name_es equals cl:yumbel >> cl:yumbel
+1566 >>  >> Macth name_es equals cl:concepcion >> cl:concepción
+1567 >>  >> Macth via id cl:coronel
+1568 >>  >> Macth name_es equals cl:coronel >> cl:coronel
+1569 >>  >> Macth via id cl:lota
+1570 >>  >> Macth name_es equals cl:lota >> cl:lota
+1571 >>  >> Macth name_es equals cl:san-pedro-de-la-paz >> cl:san pedro de la paz
+1572 >>  >> Macth name_es equals cl:tome >> cl:tomé
+1573 >>  >> Macth via id cl:bulnes
+1574 >>  >> Macth name_es equals cl:bulnes >> cl:bulnes
+1575 >>  >> Macth name_es equals cl:chillan >> cl:chillán
+1576 >>  >> Macth name_es equals cl:quillon >> cl:quillón
+1577 >>  >> Macth name_es equals cl:san-carlos >> cl:san carlos
+1578 >>  >> Macth via id cl:andacollo
+1579 >>  >> Macth name_es equals cl:andacollo >> cl:andacollo
+1580 >>  >> Macth via id cl:illapel
+1581 >>  >> Macth name_es equals cl:illapel >> cl:illapel
+1582 >>  >> Macth name_es equals cl:los-vilos >> cl:los vilos
+1583 >>  >> Macth name_es equals cl:combarbala >> cl:combarbalá
+1584 >>  >> Macth via id cl:coquimbo
+1585 >>  >> Macth name_es equals cl:coquimbo >> cl:coquimbo
+1586 >>  >> Macth name_es equals cl:vicuna >> cl:vicuña
+1587 >>  >> Macth via id cl:ovalle
+1588 >>  >> Macth name_es equals cl:ovalle >> cl:ovalle
+1589 >>  >> Macth name_es equals cl:monte-patria >> cl:monte patria
+1590 >>  >> Macth via id cl:codegua
+1591 >>  >> Macth name_es equals cl:codegua >> cl:codegua
+1592 >>  >> Macth name_es equals cl:las-cabras >> cl:las cabras
+1593 >>  >> Macth via id cl:machali
+1594 >>  >> Macth name_es equals cl:machali >> cl:machali
+1595 >>  >> Macth via id cl:pichilemu
+1596 >>  >> Macth name_es equals cl:pichilemu >> cl:pichilemu
+1597 >>  >> Macth via id cl:rancagua
+1598 >>  >> Macth name_es equals cl:rancagua >> cl:rancagua
+1599 >>  >> Macth via id cl:rengo
+1600 >>  >> Macth name_es equals cl:rengo >> cl:rengo
+1601 >>  >> Macth via id cl:nancagua
+1602 >>  >> Macth name_es equals cl:nancagua >> cl:nancagua
+1603 >>  >> Macth via id cl:palmilla
+1604 >>  >> Macth name_es equals cl:palmilla >> cl:palmilla
+1605 >>  >> Macth name_es equals cl:san-fernando >> cl:san fernando
+1606 >>  >> Macth name_es equals cl:santa-cruz >> cl:santa cruz
+1607 >>  >> Macth name_es equals cl:pitrufquen >> cl:pitrufquén
+1608 >>  >> Macth via id cl:temuco
+1609 >>  >> Macth name_es equals cl:temuco >> cl:temuco
+1610 >>  >> Macth via id cl:angol
+1611 >>  >> Macth name_es equals cl:angol >> cl:angol
+1612 >>  >> Macth via id cl:collipulli
+1613 >>  >> Macth name_es equals cl:collipulli >> cl:collipulli
+1614 >>  >> Macth name_es equals cl:curacautin >> cl:curacautín
+1615 >>  >> Macth name_es equals cl:puren >> cl:purén
+1616 >>  >> Macth via id cl:renaico
+1617 >>  >> Macth name_es equals cl:renaico >> cl:renaico
+1618 >>  >> Macth via id cl:victoria
+1619 >>  >> Macth name_es equals cl:victoria >> cl:victoria
+1620 >>  >> Macth via id cl:ancud
+1621 >>  >> Macth name_es equals cl:ancud >> cl:ancud
+1622 >>  >> Macth via id cl:castro
+1623 >>  >> Macth name_es equals cl:castro >> cl:castro
+1624 >>  >> Macth via id cl:frutillar
+1625 >>  >> Macth name_es equals cl:frutillar >> cl:frutillar
+1626 >>  >> Macth via id cl:llanquihue
+1627 >>  >> Macth name_es equals cl:llanquihue >> cl:llanquihue
+1628 >>  >> Macth name_es equals cl:puerto-montt >> cl:puerto montt
+1629 >>  >> Macth name_es equals cl:puerto-varas >> cl:puerto varas
+1630 >>  >> Macth via id cl:osorno
+1631 >>  >> Macth name_es equals cl:osorno >> cl:osorno
+1632 >>  >> Macth via id cl:futrono
+1633 >>  >> Macth name_es equals cl:futrono >> cl:futrono
+1634 >>  >> Macth name_es equals cl:la-union >> cl:la unión
+1635 >>  >> Macth name_es equals cl:los-lagos >> cl:los lagos
+1636 >>  >> Macth via id cl:paillaco
+1637 >>  >> Macth name_es equals cl:paillaco >> cl:paillaco
+1638 >>  >> Macth via id cl:panguipulli
+1639 >>  >> Macth name_es equals cl:panguipulli >> cl:panguipulli
+1640 >>  >> Macth via id cl:valdivia
+1641 >>  >> Macth name_es equals cl:valdivia >> cl:valdivia
+1642 >>  >> Macth name_es equals cl:puerto-natales >> cl:puerto natales
+1643 >>  >> Macth via id cl:curico
+1644 >>  >> Macth name_es equals cl:curico >> cl:curico
+1645 >>  >> Macth via id cl:molina
+1646 >>  >> Macth name_es equals cl:molina >> cl:molina
+1647 >>  >> Macth via id cl:linares
+1648 >>  >> Macth name_es equals cl:linares >> cl:linares
+1649 >>  >> Macth via id cl:parral
+1650 >>  >> Macth name_es equals cl:parral >> cl:parral
+1651 >>  >> Macth name_es equals cl:san-javier >> cl:san javier
+1652 >>  >> Macth name_es equals cl:villa-alegre >> cl:villa alegre
+1653 >>  >> Macth name_es equals cl:constitucion >> cl:constitución
+1654 >>  >> Macth via id cl:talca
+1655 >>  >> Macth name_es equals cl:talca >> cl:talca
+1656 >>  >> Macth via id cl:colina
+1657 >>  >> Macth name_es equals cl:colina >> cl:colina
+1658 >>  >> Macth via id cl:tiltil
+1659 >>  >> Macth name_es equals cl:tiltil >> cl:tiltil
+1660 >>  >> Macth via id cl:pirque
+1661 >>  >> Macth name_es equals cl:pirque >> cl:pirque
+1662 >>  >> Macth name_es equals cl:puente-alto >> cl:puente alto
+1663 >>  >> Macth name_es equals cl:san-jose-de-maipo >> cl:san josé de maipo
+1664 >>  >> Macth via id cl:buin
+1665 >>  >> Macth name_es equals cl:buin >> cl:buin
+1666 >>  >> Macth via id cl:paine
+1667 >>  >> Macth name_es equals cl:paine >> cl:paine
+1668 >>  >> Macth name_es equals cl:san-bernardo >> cl:san bernardo
+1669 >>  >> Macth via id cl:melipilla
+1670 >>  >> Macth name_es equals cl:melipilla >> cl:melipilla
+1671 >>  >> Macth name_es equals cl:conchali >> cl:conchalí
+1672 >>  >> Macth name_es equals cl:el-bosque >> cl:el bosque
+1673 >>  >> Macth via id cl:independencia
+1674 >>  >> Macth name_es equals cl:independencia >> cl:independencia
+1675 >>  >> Macth name_es equals cl:la-cisterna >> cl:la cisterna
+1676 >>  >> Macth name_es equals cl:la-florida >> cl:la florida
+1677 >>  >> Macth name_es equals cl:la-granja >> cl:la granja
+1678 >>  >> Macth name_es equals cl:la-reina >> cl:la reina
+1679 >>  >> Macth name_es equals cl:las-condes >> cl:las condes
+1680 >>  >> Macth name_es equals cl:lo-prado >> cl:lo prado
+1681 >>  >> Macth name_es equals cl:maipu >> cl:maipú
+1682 >>  >> Macth name_es equals cl:nunoa >> cl:ñuñoa
+1683 >>  >> Macth via id cl:providencia
+1684 >>  >> Macth name_es equals cl:providencia >> cl:providencia
+1685 >>  >> Macth name_es equals cl:quinta-normal >> cl:quinta normal
+1686 >>  >> Macth via id cl:recoleta
+1687 >>  >> Macth name_es equals cl:recoleta >> cl:recoleta
+1688 >>  >> Macth via id cl:renca
+1689 >>  >> Macth name_es equals cl:renca >> cl:renca
+1690 >>  >> Macth name_es equals cl:san-miguel >> cl:san miguel
+1691 >>  >> Macth via id cl:vitacura
+1692 >>  >> Macth name_es equals cl:vitacura >> cl:vitacura
+1693 >>  >> Macth name_es equals cl:el-monte >> cl:el monte
+1694 >>  >> Macth name_es equals cl:isla-de-maipo >> cl:isla de maipo
+1695 >>  >> Macth name_es equals cl:padre-hurtado >> cl:padre hurtado
+1696 >>  >> Macth name_es equals cl:penaflor >> cl:peñaflor
+1697 >>  >> Macth name_es equals cl:talangate >> cl:talagante
+1698 >>  >> Macth name_es equals cl:pozo-almonte >> cl:pozo almonte
+1699 >>  >> Macth name_es equals cl:hanga-roa >> cl:hanga roa
+1700 >>  >> Macth name_es equals cl:calle-larga >> cl:calle larga
+1701 >>  >> Macth name_es equals cl:los-andes >> cl:los andes
+1702 >>  >> Macth via id cl:rinconada
+1703 >>  >> Macth name_es equals cl:rinconada >> cl:rinconada
+1704 >>  >> Macth name_es equals cl:san-esteban >> cl:san esteban
+1705 >>  >> Macth name_es equals cl:la-ligua >> cl:la ligua
+1706 >>  >> Macth via id cl:limache
+1707 >>  >> Macth name_es equals cl:limache >> cl:limache
+1708 >>  >> Macth name_es equals cl:olmue >> cl:olmué
+1709 >>  >> Macth via id cl:quillota
+1710 >>  >> Macth name_es equals cl:quillota >> cl:quillota
+1711 >>  >> Macth via id cl:algarrobo
+1712 >>  >> Macth name_es equals cl:algarrobo >> cl:algarrobo
+1713 >>  >> Macth via id cl:cartagena
+1714 >>  >> Macth name_es equals cl:cartagena >> cl:cartagena
+1715 >>  >> Macth name_es equals cl:el-quisco >> cl:el quisco
+1716 >>  >> Macth name_es equals cl:el-tabo >> cl:el tabo
+1717 >>  >> Macth name_es equals cl:san-antonio >> cl:san antonio
+1718 >>  >> Macth name_es equals cl:santo-domingo >> cl:santo domingo
+1719 >>  >> Macth name_es equals cl:concon >> cl:concón
+1720 >>  >> Macth name_es equals cl:quilpue >> cl:quilpué
+1721 >>  >> Macth via id cl:quintero
+1722 >>  >> Macth name_es equals cl:quintero >> cl:quintero
+1723 >>  >> Macth name_es equals cl:villa-alemana >> cl:villa alemana
+1724 >>  >> Macth name_es equals cl:arica-0b1d435e-695d-40d5-853b-d399b683b3f7 >> cl:arica
+1725 >>  >> Macth name_es equals cl:chile-chico >> cl:chile chico
+1726 >>  >> Macth name_es equals cl:san-pedro-de-atacama >> cl:san pedro de atacama
+1727 >>  >> Macth via id cl:coyhaique
+1728 >>  >> Macth name_es equals cl:coyhaique >> cl:coyhaique
+1729 >>  >> Macth name_en equals cl:puerto-rio-tranquilo >> cl:puerto río tranquilo
+1730 >>  >> Macth name_es equals bo:trinidad-25917 >> bo:trinidad
+1731 >>  >> Macth name_es equals bo:san-javier >> bo:san javier
+1732 >>  >> Macth via id bo:riberalta
+1733 >>  >> Macth name_es equals bo:riberalta >> bo:riberalta
+1734 >>  >> Macth name_es equals bo:guayaramerin >> bo:guayaramerín
+1735 >>  >> Macth via id bo:rurrenabaque
+1736 >>  >> Macth name_es equals bo:rurrenabaque >> bo:rurrenabaque
+1737 >>  >> Macth name_es equals bo:santa-ana-del-yacuma >> bo:santa ana del yacuma
+1738 >>  >> Macth name_es equals bo:san-ignacio-de-moxos >> bo:san ignacio de moxos
+1739 >>  >> Macth via id bo:sucre
+1740 >>  >> Macth name_es equals bo:sucre >> bo:sucre
+1741 >>  >> Macth via id bo:yotala
+1742 >>  >> Macth name_es equals bo:yotala >> bo:yotala
+1743 >>  >> Macth via id bo:cochabamba
+1744 >>  >> Macth name_es equals bo:cochabamba >> bo:cochabamba
+1745 >>  >> Macth name_es equals bo:villa-tunari >> bo:villa tunari
+1746 >>  >> Macth via id bo:tiquipaya
+1747 >>  >> Macth name_es equals bo:tiquipaya >> bo:tiquipaya
+1748 >>  >> Macth name_es equals bo:el-alto-26015 >> bo:el alto
+1749 >>  >> Macth name_es equals bo:la-paz-26016 >> bo:la paz
+1750 >>  >> Macth via id bo:achacachi
+1751 >>  >> Macth name_es equals bo:achacachi >> bo:achacachi
+1752 >>  >> Macth via id bo:sorata
+1753 >>  >> Macth name_es equals bo:sorata >> bo:sorata
+1754 >>  >> Macth via id bo:apolo
+1755 >>  >> Macth name_es equals bo:apolo >> bo:apolo
+1756 >>  >> Macth via id bo:coroico
+1757 >>  >> Macth name_es equals bo:coroico >> bo:coroico
+1758 >>  >> Macth via id bo:chulumani
+1759 >>  >> Macth name_es equals bo:chulumani >> bo:chulumani
+1760 >>  >> Macth via id bo:palca
+1761 >>  >> Macth name_es equals bo:palca >> bo:palca
+1762 >>  >> Macth via id bo:mecapaca
+1763 >>  >> Macth name_es equals bo:mecapaca >> bo:mecapaca
+1764 >>  >> Macth via id bo:copacabana
+1765 >>  >> Macth name_es equals bo:copacabana >> bo:copacabana
+1766 >>  >> Macth name_es equals bo:san-buenaventura >> bo:san buenaventura
+1767 >>  >> Macth via id bo:yanacachi
+1768 >>  >> Macth name_es equals bo:yanacachi >> bo:yanacachi
+1769 >>  >> Macth via id bo:huatajata
+1770 >>  >> Macth name_es equals bo:huatajata >> bo:huatajata
+1771 >>  >> Macth via id bo:sabaya
+1772 >>  >> Macth name_es equals bo:sabaya >> bo:sabaya
+1773 >>  >> Macth via id bo:oruro
+1774 >>  >> Macth name_es equals bo:oruro >> bo:oruro
+1775 >>  >> Macth name_es equals bo:todos-santos >> bo:todos santos
+1776 >>  >> Macth via id bo:cobija
+1777 >>  >> Macth name_es equals bo:cobija >> bo:cobija
+1778 >>  >> Macth via id bo:uyuni
+1779 >>  >> Macth name_es equals bo:uyuni >> bo:uyuni
+1780 >>  >> Macth name_es equals bo:toro-toro >> bo:toro toro
+1781 >>  >> Macth name_es equals bo:san-pedro-de-quemes >> bo:san pedro de quemes
+1782 >>  >> Macth via id bo:tupiza
+1783 >>  >> Macth name_es equals bo:tupiza >> bo:tupiza
+1784 >>  >> Macth name_es equals bo:potosi >> bo:potosí
+1785 >>  >> Macth name_es equals bo:la-guardia >> bo:la guardia
+1786 >>  >> Macth name_es equals bo:san-jose-de-chiquitos >> bo:san josé de chiquitos
+1787 >>  >> Macth via id bo:camiri
+1788 >>  >> Macth name_es equals bo:camiri >> bo:camiri
+1789 >>  >> Macth via id bo:samaipata
+1790 >>  >> Macth name_es equals bo:samaipata >> bo:samaipata
+1791 >>  >> Macth name_es equals bo:san-ignacio-de-velasco >> bo:san ignacio de velasco
+1792 >>  >> Macth name_es equals bo:concepcion-26231 >> bo:concepción
+1793 >>  >> Macth via id bo:portachuelo
+1794 >>  >> Macth name_es equals bo:portachuelo >> bo:portachuelo
+1795 >>  >> Macth via id bo:vallegrande
+1796 >>  >> Macth name_es equals bo:vallegrande >> bo:vallegrande
+1797 >>  >> Macth via id bo:bermejo
+1798 >>  >> Macth name_es equals bo:bermejo >> bo:bermejo
+1799 >>  >> Macth via id bo:tarija
+1800 >>  >> Macth name_es equals bo:tarija >> bo:tarija
+1801 >>  >> Macth via id cr:alajuela
+1802 >>  >> Macth name_es equals cr:alajuela >> cr:alajuela
+1803 >>  >> Macth name_es equals cr:san-ramon >> cr:san ramón
+1804 >>  >> Macth via id cr:upala
+1805 >>  >> Macth name_es equals cr:upala >> cr:upala
+1806 >>  >> Macth via id cr:naranjo
+1807 >>  >> Macth name_es equals cr:naranjo >> cr:naranjo
+1808 >>  >> Macth via id cr:palmares
+1809 >>  >> Macth name_es equals cr:palmares >> cr:palmares
+1810 >>  >> Macth via id cr:atenas
+1811 >>  >> Macth name_es equals cr:atenas >> cr:atenas
+1812 >>  >> Macth name_es equals cr:los-chiles >> cr:los chiles
+1813 >>  >> Macth via id cr:orotina
+1814 >>  >> Macth name_es equals cr:orotina >> cr:orotina
+1815 >>  >> Macth name_es equals cr:san-mateo >> cr:san mateo
+1816 >>  >> Macth via id cr:cartago
+1817 >>  >> Macth name_es equals cr:cartago >> cr:cartago
+1818 >>  >> Macth via id cr:turrialba
+1819 >>  >> Macth name_es equals cr:turrialba >> cr:turrialba
+1820 >>  >> Macth name_es equals cr:paraiso >> cr:paraíso
+1821 >>  >> Macth via id cr:liberia
+1822 >>  >> Macth name_es equals cr:liberia >> cr:liberia
+1823 >>  >> Macth name_es equals cr:santa-cruz-24145 >> cr:santa cruz
+1824 >>  >> Macth via id cr:nicoya
+1825 >>  >> Macth name_es equals cr:nicoya >> cr:nicoya
+1826 >>  >> Macth via id cr:canas
+1827 >>  >> Macth name_es equals cr:canas >> cr:canas
+1828 >>  >> Macth name_es equals cr:tilaran >> cr:tilarán
+1829 >>  >> Macth via id cr:bagaces
+1830 >>  >> Macth name_es equals cr:bagaces >> cr:bagaces
+1831 >>  >> Macth name_es equals cr:la-cruz >> cr:la cruz
+1832 >>  >> Macth via id cr:abangares
+1833 >>  >> Macth name_es equals cr:abangares >> cr:abangares
+1834 >>  >> Macth via id cr:heredia
+1835 >>  >> Macth name_es equals cr:heredia >> cr:heredia
+1836 >>  >> Macth name_es equals cr:sarapiqui >> cr:sarapiquí
+1837 >>  >> Macth name_es equals cr:san-rafael-24158 >> cr:san rafael
+1838 >>  >> Macth name_es equals cr:santo-domingo >> cr:santo domingo
+1839 >>  >> Macth name_es equals cr:san-isidro-24164 >> cr:san isidro
+1840 >>  >> Macth name_es equals cr:limon >> cr:limón
+1841 >>  >> Macth via id cr:siquirres
+1842 >>  >> Macth name_es equals cr:siquirres >> cr:siquirres
+1843 >>  >> Macth name_es equals cr:guacimo >> cr:guácimo
+1844 >>  >> Macth via id cr:puntarenas
+1845 >>  >> Macth name_es equals cr:puntarenas >> cr:puntarenas
+1846 >>  >> Macth name_es equals cr:buenos-aires-24175 >> cr:buenos aires
+1847 >>  >> Macth via id cr:golfito
+1848 >>  >> Macth name_es equals cr:golfito >> cr:golfito
+1849 >>  >> Macth via id cr:quepos
+1850 >>  >> Macth name_es equals cr:quepos >> cr:quepos
+1851 >>  >> Macth via id cr:parrita
+1852 >>  >> Macth name_es equals cr:parrita >> cr:parrita
+1853 >>  >> Macth name_es equals cr:san-jose >> cr:san josé
+1854 >>  >> Macth via id cr:desamparados
+1855 >>  >> Macth name_es equals cr:desamparados >> cr:desamparados
+1856 >>  >> Macth via id cr:alajuelita
+1857 >>  >> Macth name_es equals cr:alajuelita >> cr:alajuelita
+1858 >>  >> Macth via id cr:curridabat
+1859 >>  >> Macth name_es equals cr:curridabat >> cr:curridabat
+1860 >>  >> Macth name_es equals cr:aserri >> cr:aserrí
+1861 >>  >> Macth name_es equals cr:escazu >> cr:escazú
+1862 >>  >> Macth name_es equals cr:santa-ana >> cr:santa ana
+1863 >>  >> Macth name_en equals cr:jaco >> cr:jacó
+1864 >>  >> Macth via id cr:monteverde
+1865 >>  >> Macth name_es equals cr:monteverde >> cr:monteverde
+1866 >>  >> Macth name_es equals cu:pinar-del-rio >> cu:pinar del río
+1867 >>  >> Macth via id cu:mantua
+1868 >>  >> Macth name_es equals cu:mantua >> cu:mantua
+1869 >>  >> Macth name_es equals cu:san-juan-y-martinez >> cu:san juan y martínez
+1870 >>  >> Macth via id cu:sandino
+1871 >>  >> Macth name_es equals cu:sandino >> cu:sandino
+1872 >>  >> Macth name_es equals cu:vinales >> cu:viñales
+1873 >>  >> Macth via id cu:artemisa
+1874 >>  >> Macth name_es equals cu:artemisa >> cu:artemisa
+1875 >>  >> Macth name_es equals cu:san-antonio-de-los-banos >> cu:san antonio de los baños
+1876 >>  >> Macth via id cu:bauta
+1877 >>  >> Macth name_es equals cu:bauta >> cu:bauta
+1878 >>  >> Macth name_es equals cu:caimito-25384 >> cu:caimito
+1879 >>  >> Macth name_es equals cu:la-habana >> cu:la habana
+1880 >>  >> Macth via id cu:playa
+1881 >>  >> Macth name_es equals cu:playa >> cu:playa
+1882 >>  >> Macth name_es equals cu:san-jose-de-las-lajas >> cu:san josé de las lajas
+1883 >>  >> Macth via id cu:bejucal
+1884 >>  >> Macth name_es equals cu:bejucal >> cu:bejucal
+1885 >>  >> Macth via id cu:jaruco
+1886 >>  >> Macth name_es equals cu:jaruco >> cu:jaruco
+1887 >>  >> Macth name_es equals cu:melena-del-sur >> cu:melena del sur
+1888 >>  >> Macth name_es equals cu:santa-cruz-del-norte >> cu:santa cruz del norte
+1889 >>  >> Macth via id cu:matanzas
+1890 >>  >> Macth name_es equals cu:matanzas >> cu:matanzas
+1891 >>  >> Macth name_es equals cu:cardenas >> cu:cárdenas
+1892 >>  >> Macth via id cu:calimete
+1893 >>  >> Macth name_es equals cu:calimete >> cu:calimete
+1894 >>  >> Macth name_es equals cu:jaguey-grande >> cu:jagüey grande
+1895 >>  >> Macth via id cu:cienfuegos
+1896 >>  >> Macth name_es equals cu:cienfuegos >> cu:cienfuegos
+1897 >>  >> Macth via id cu:cumanayagua
+1898 >>  >> Macth name_es equals cu:cumanayagua >> cu:cumanayagua
+1899 >>  >> Macth name_es equals cu:palmira-25439 >> cu:palmira
+1900 >>  >> Macth name_es equals cu:santa-clara-25442 >> cu:santa clara
+1901 >>  >> Macth name_es equals cu:sagua-la-grande >> cu:sagua la grande
+1902 >>  >> Macth name_es equals cu:caibarien >> cu:caibarién
+1903 >>  >> Macth via id cu:corralillo
+1904 >>  >> Macth name_es equals cu:corralillo >> cu:corralillo
+1905 >>  >> Macth via id cu:trinidad
+1906 >>  >> Macth name_es equals cu:trinidad >> cu:trinidad
+1907 >>  >> Macth via id cu:fomento
+1908 >>  >> Macth name_es equals cu:fomento >> cu:fomento
+1909 >>  >> Macth via id cu:jatibonico
+1910 >>  >> Macth name_es equals cu:jatibonico >> cu:jatibonico
+1911 >>  >> Macth name_en equals cu:moron-25465 >> cu:mörön
+1912 >>  >> Macth name_es equals cu:ciego-de-avila >> cu:ciego de ávila
+1913 >>  >> Macth name_es equals cu:camaguey >> cu:camagüey
+1914 >>  >> Macth name_es equals cu:ciego-de-avila-25477 >> cu:ciego de ávila
+1915 >>  >> Macth via id cu:nuevitas
+1916 >>  >> Macth name_es equals cu:nuevitas >> cu:nuevitas
+1917 >>  >> Macth name_es equals cu:guaimaro >> cu:guáimaro
+1918 >>  >> Macth name_es equals cu:jimaguayu >> cu:jimaguayú
+1919 >>  >> Macth name_es equals cu:las-tunas >> cu:las tunas
+1920 >>  >> Macth name_es equals cu:puerto-padre >> cu:puerto padre
+1921 >>  >> Macth via id cu:colombia
+1922 >>  >> Macth name_es equals cu:colombia >> cu:colombia
+1923 >>  >> Macth via id cu:bayamo
+1924 >>  >> Macth name_es equals cu:bayamo >> cu:bayamo
+1925 >>  >> Macth via id cu:manzanillo
+1926 >>  >> Macth name_es equals cu:manzanillo >> cu:manzanillo
+1927 >>  >> Macth via id cu:niquero
+1928 >>  >> Macth name_es equals cu:niquero >> cu:niquero
+1929 >>  >> Macth name_es equals cu:bartolome-maso >> cu:bartolomé masó
+1930 >>  >> Macth name_es equals cu:buey-arriba >> cu:buey arriba
+1931 >>  >> Macth name_es equals cu:pilon-25510 >> cu:pilón
+1932 >>  >> Macth via id cu:yara
+1933 >>  >> Macth name_es equals cu:yara >> cu:yara
+1934 >>  >> Macth name_es equals cu:holguin >> cu:holguín
+1935 >>  >> Macth via id cu:moa
+1936 >>  >> Macth name_es equals cu:moa >> cu:moa
+1937 >>  >> Macth via id cu:banes
+1938 >>  >> Macth name_es equals cu:banes >> cu:banes
+1939 >>  >> Macth name_es equals cu:mayari >> cu:mayarí
+1940 >>  >> Macth via id cu:antilla
+1941 >>  >> Macth name_es equals cu:antilla >> cu:antilla
+1942 >>  >> Macth via id cu:gibara
+1943 >>  >> Macth name_es equals cu:gibara >> cu:gibara
+1944 >>  >> Macth name_es equals cu:rafael-freyre >> cu:rafael freyre
+1945 >>  >> Macth name_es equals cu:santiago-de-cuba >> cu:santiago de cuba
+1946 >>  >> Macth name_es equals cu:palma-soriano >> cu:palma soriano
+1947 >>  >> Macth name_es equals cu:guama >> cu:guamá
+1948 >>  >> Macth name_es equals cu:guantanamo >> cu:guantánamo
+1949 >>  >> Macth via id cu:baracoa
+1950 >>  >> Macth name_es equals cu:baracoa >> cu:baracoa
+1951 >>  >> Macth via id cu:caimanera
+1952 >>  >> Macth name_es equals cu:caimanera >> cu:caimanera
+1953 >>  >> Macth name_es equals cu:nueva-gerona >> cu:nueva gerona
+1954 >>  >> Macth name_es equals do:las-salinas >> do:las salinas
+1955 >>  >> Macth name_es equals do:paraiso-25205 >> do:paraiso
+1956 >>  >> Macth name_es equals do:san-francisco-de-macoris >> do:san francisco de macorís
+1957 >>  >> Macth via id do:arenoso
+1958 >>  >> Macth name_es equals do:arenoso >> do:arenoso
+1959 >>  >> Macth name_es equals do:las-guaranas >> do:las guáranas
+1960 >>  >> Macth name_es equals do:villa-riva >> do:villa riva
+1961 >>  >> Macth name_es equals do:gaspar-hernandez >> do:gaspar hernández
+1962 >>  >> Macth name_es equals do:sabana-de-la-mar >> do:sabana de la mar
+1963 >>  >> Macth name_es equals do:la-descubierta >> do:la descubierta
+1964 >>  >> Macth name_en equals do:higuey >> do:higüey
+1965 >>  >> Macth name_es equals do:la-romana >> do:la romana
+1966 >>  >> Macth via id do:jarabacoa
+1967 >>  >> Macth name_es equals do:jarabacoa >> do:jarabacoa
+1968 >>  >> Macth via id do:constanza
+1969 >>  >> Macth name_es equals do:constanza >> do:constanza
+1970 >>  >> Macth via id do:nagua
+1971 >>  >> Macth name_es equals do:nagua >> do:nagua
+1972 >>  >> Macth via id do:cabrera
+1973 >>  >> Macth name_es equals do:cabrera >> do:cabrera
+1974 >>  >> Macth name_es equals do:el-factor >> do:el factor
+1975 >>  >> Macth name_es equals do:rio-san-juan >> do:río san juan
+1976 >>  >> Macth via id do:bonao
+1977 >>  >> Macth name_es equals do:bonao >> do:bonao
+1978 >>  >> Macth name_es equals do:maimon >> do:maimón
+1979 >>  >> Macth via id do:pedernales
+1980 >>  >> Macth name_es equals do:pedernales >> do:pedernales
+1981 >>  >> Macth name_es equals do:bani >> do:baní
+1982 >>  >> Macth name_es equals do:luperon >> do:luperón
+1983 >>  >> Macth name_es equals do:sosua >> do:sosúa
+1984 >>  >> Macth name_es equals do:las-terrenas >> do:las terrenas
+1985 >>  >> Macth name_es equals do:san-cristobal >> do:san cristóbal
+1986 >>  >> Macth name_es equals do:los-cacaos >> do:los cacaos
+1987 >>  >> Macth name_es equals do:villa-altagracia >> do:villa altagracia
+1988 >>  >> Macth name_es equals do:san-jose-de-ocoa >> do:san josé de ocoa
+1989 >>  >> Macth name_es equals do:san-juan-de-la-maguana >> do:san juan de la maguana
+1990 >>  >> Macth name_es equals do:san-pedro-de-macoris >> do:san pedro de macorís
+1991 >>  >> Macth name_es equals do:la-mata >> do:la mata
+1992 >>  >> Macth name_es equals do:santiago-de-los-caballeros >> do:santiago de los caballeros
+1993 >>  >> Macth name_es equals do:santo-domingo-este >> do:santo domingo este
+1994 >>  >> Macth name_es equals do:santo-domingo-norte >> do:santo domingo norte
+1995 >>  >> Macth name_es equals do:santo-domingo-oeste >> do:santo domingo oeste
+1996 >>  >> Macth name_es equals do:boca-chica-25357 >> do:boca chica
+1997 >>  >> Macth name_es equals do:punta-cana >> do:punta cana
+1998 >>  >> Macth name_es equals do:puerto-plata >> do:cabarete
+1999 >>  >> Macth name_es equals gt:coban >> gt:cobán
+2000 >>  >> Macth name_es equals gt:san-juan-chamelco >> gt:san juan chamelco
+2001 >>  >> Macth name_es equals gt:lanquin >> gt:lanquín
+2002 >>  >> Macth via id gt:chisec
+2003 >>  >> Macth name_es equals gt:chisec >> gt:chisec
+2004 >>  >> Macth name_es equals gt:santa-cruz-verapaz >> gt:santa cruz verapaz
+2005 >>  >> Macth name_es equals gt:purulha >> gt:purulhá
+2006 >>  >> Macth via id gt:rabinal
+2007 >>  >> Macth name_es equals gt:rabinal >> gt:rabinal
+2008 >>  >> Macth name_es equals gt:salama >> gt:salamá
+2009 >>  >> Macth name_es equals gt:san-jeronimo >> gt:san jerónimo
+2010 >>  >> Macth via id gt:chimaltenango
+2011 >>  >> Macth name_es equals gt:chimaltenango >> gt:chimaltenango
+2012 >>  >> Macth name_es equals gt:tecpan-guatemala >> gt:tecpán guatemala
+2013 >>  >> Macth via id gt:acatenango
+2014 >>  >> Macth name_es equals gt:acatenango >> gt:acatenango
+2015 >>  >> Macth via id gt:chiquimula
+2016 >>  >> Macth name_es equals gt:chiquimula >> gt:chiquimula
+2017 >>  >> Macth via id gt:esquipulas
+2018 >>  >> Macth name_es equals gt:esquipulas >> gt:esquipulas
+2019 >>  >> Macth via id gt:ipala
+2020 >>  >> Macth name_es equals gt:ipala >> gt:ipala
+2021 >>  >> Macth name_en equals gt:san-cristobal-acasaguastlan >> gt:san cristóbal acasaguastián
+2022 >>  >> Macth via id gt:iztapa
+2023 >>  >> Macth name_es equals gt:iztapa >> gt:iztapa
+2024 >>  >> Macth name_es equals gt:la-gomera >> gt:la gomera
+2025 >>  >> Macth via id gt:masagua
+2026 >>  >> Macth name_es equals gt:masagua >> gt:masagua
+2027 >>  >> Macth via id gt:sipacate
+2028 >>  >> Macth name_es equals gt:sipacate >> gt:sipacate
+2029 >>  >> Macth via id gt:tiquisate
+2030 >>  >> Macth name_es equals gt:tiquisate >> gt:tiquisate
+2031 >>  >> Macth via id gt:mixco
+2032 >>  >> Macth name_es equals gt:mixco >> gt:mixco
+2033 >>  >> Macth name_es equals gt:san-jose-pinula >> gt:san josé pinula
+2034 >>  >> Macth via id gt:fraijanes
+2035 >>  >> Macth name_es equals gt:fraijanes >> gt:fraijanes
+2036 >>  >> Macth name_es equals gt:amatitlan >> gt:amatitlán
+2037 >>  >> Macth name_es equals gt:villa-canales >> gt:villa canales
+2038 >>  >> Macth name_es equals gt:puerto-barrios >> gt:puerto barrios
+2039 >>  >> Macth via id gt:livingston
+2040 >>  >> Macth name_es equals gt:livingston >> gt:livingston
+2041 >>  >> Macth name_es equals gt:el-estor >> gt:el estor
+2042 >>  >> Macth via id gt:morales
+2043 >>  >> Macth name_es equals gt:morales >> gt:morales
+2044 >>  >> Macth via id gt:moyuta
+2045 >>  >> Macth name_es equals gt:moyuta >> gt:moyuta
+2046 >>  >> Macth via id gt:dolores
+2047 >>  >> Macth name_es equals gt:dolores >> gt:dolores
+2048 >>  >> Macth name_es equals gt:flores-24982 >> gt:flores
+2049 >>  >> Macth name_es equals gt:melchor-de-mencos >> gt:melchor de mencos
+2050 >>  >> Macth name_es equals gt:poptun >> gt:poptún
+2051 >>  >> Macth name_es equals gt:san-andres-24986 >> gt:san andrés
+2052 >>  >> Macth name_es equals gt:san-benito >> gt:san benito
+2053 >>  >> Macth name_es equals gt:las-cruces-24993 >> gt:las cruces
+2054 >>  >> Macth name_es equals gt:el-chal >> gt:el chal
+2055 >>  >> Macth via id gt:olintepeque
+2056 >>  >> Macth name_es equals gt:olintepeque >> gt:olintepeque
+2057 >>  >> Macth via id gt:quetzaltenango
+2058 >>  >> Macth name_es equals gt:quetzaltenango >> gt:quetzaltenango
+2059 >>  >> Macth name_es equals gt:san-martin-sacatepequez >> gt:san martín sacatepéquez
+2060 >>  >> Macth via id gt:chajul
+2061 >>  >> Macth name_es equals gt:chajul >> gt:chajul
+2062 >>  >> Macth via id gt:chichicastenango
+2063 >>  >> Macth name_es equals gt:chichicastenango >> gt:chichicastenango
+2064 >>  >> Macth via id gt:nebaj
+2065 >>  >> Macth name_es equals gt:nebaj >> gt:nebaj
+2066 >>  >> Macth via id gt:sacapulas
+2067 >>  >> Macth name_es equals gt:sacapulas >> gt:sacapulas
+2068 >>  >> Macth name_es equals gt:santa-cruz-del-quiche >> gt:santa cruz del quiché
+2069 >>  >> Macth name_es equals gt:el-asintal >> gt:el asintal
+2070 >>  >> Macth via id gt:retalhuleu
+2071 >>  >> Macth name_es equals gt:retalhuleu >> gt:retalhuleu
+2072 >>  >> Macth name_es equals gt:santa-cruz-mulua >> gt:santa cruz muluá
+2073 >>  >> Macth via id gt:alotenango
+2074 >>  >> Macth name_es equals gt:alotenango >> gt:alotenango
+2075 >>  >> Macth name_es equals gt:antigua-guatemala >> gt:antigua guatemala
+2076 >>  >> Macth name_es equals gt:ciudad-vieja >> gt:ciudad vieja
+2077 >>  >> Macth name_es equals gt:santa-lucia-milpas-altas >> gt:santa lucía milpas altas
+2078 >>  >> Macth via id gt:catarina
+2079 >>  >> Macth name_es equals gt:catarina >> gt:catarina
+2080 >>  >> Macth name_es equals gt:tacana >> gt:tacaná
+2081 >>  >> Macth via id gt:barberena
+2082 >>  >> Macth name_es equals gt:barberena >> gt:barberena
+2083 >>  >> Macth via id gt:monterrico
+2084 >>  >> Macth name_es equals gt:monterrico >> gt:monterrico
+2085 >>  >> Macth name_es equals gt:santa-rosa-de-lima >> gt:santa rosa de lima
+2086 >>  >> Macth via id gt:taxisco
+2087 >>  >> Macth name_es equals gt:taxisco >> gt:taxisco
+2088 >>  >> Macth via id gt:solola
+2089 >>  >> Macth name_es equals gt:solola >> gt:solola
+2090 >>  >> Macth name_es equals gt:concepcion-25118 >> gt:concepción
+2091 >>  >> Macth via id gt:panajachel
+2092 >>  >> Macth name_es equals gt:panajachel >> gt:panajachel
+2093 >>  >> Macth name_es equals gt:san-antonio-palopo >> gt:san antonio palopó
+2094 >>  >> Macth name_es equals gt:san-juan-la-laguna >> gt:san juan la laguna
+2095 >>  >> Macth name_es equals gt:san-lucas-toliman >> gt:san lucas tolimán
+2096 >>  >> Macth name_es equals gt:san-marcos-la-laguna >> gt:san marcos la laguna
+2097 >>  >> Macth name_es equals gt:san-pablo-la-laguna >> gt:san pablo la laguna
+2098 >>  >> Macth name_es equals gt:san-pedro-la-laguna >> gt:san pedro la laguna
+2099 >>  >> Macth name_es equals gt:santa-catarina-palopo >> gt:santa catarina palopó
+2100 >>  >> Macth name_es equals gt:santa-cruz-la-laguna >> gt:santa cruz la laguna
+2101 >>  >> Macth name_es equals gt:santiago-atitlan >> gt:santiago atitlán
+2102 >>  >> Macth via id gt:zunilito
+2103 >>  >> Macth name_es equals gt:zunilito >> gt:zunilito
+2104 >>  >> Macth via id gt:estanzuela
+2105 >>  >> Macth name_es equals gt:estanzuela >> gt:estanzuela
+2106 >>  >> Macth name_es equals gt:rio-hondo-25173 >> gt:río hondo
+2107 >>  >> Macth name_es equals gt:teculutan >> gt:teculután
+2108 >>  >> Macth name_es equals py:ciudad-del-este >> py:ciudad del este
+2109 >>  >> Macth name_es equals py:presidente-franco >> py:presidente franco
+2110 >>  >> Macth name_en equals py:hernandarias >> py:hernandarías
+2111 >>  >> Macth name_es equals py:doctor-juan-leon-mallorquin >> py:doctor juan león mallorquín
+2112 >>  >> Macth name_es equals py:los-cedrales >> py:los cedrales
+2113 >>  >> Macth via id py:naranjal
+2114 >>  >> Macth name_es equals py:naranjal >> py:naranjal
+2115 >>  >> Macth name_es equals py:pedro-juan-caballero >> py:pedro juan caballero
+2116 >>  >> Macth via id py:filadelfia
+2117 >>  >> Macth name_es equals py:filadelfia >> py:filadelfia
+2118 >>  >> Macth via id py:luque
+2119 >>  >> Macth name_es equals py:luque >> py:luque
+2120 >>  >> Macth name_es equals py:san-lorenzo-25734 >> py:san lorenzo
+2121 >>  >> Macth name_es equals py:lambare >> py:lambaré
+2122 >>  >> Macth name_es equals py:fernando-de-la-mora >> py:fernando de la mora
+2123 >>  >> Macth via id py:limpio
+2124 >>  >> Macth name_es equals py:limpio >> py:limpio
+2125 >>  >> Macth name_es equals py:nemby >> py:ñemby
+2126 >>  >> Macth name_es equals py:itaugua >> py:itauguá
+2127 >>  >> Macth name_es equals py:mariano-roque-alonso >> py:mariano roque alonso
+2128 >>  >> Macth name_es equals py:aregua >> py:areguá
+2129 >>  >> Macth via id py:villeta
+2130 >>  >> Macth name_es equals py:villeta >> py:villeta
+2131 >>  >> Macth name_es equals py:guarambare >> py:guarambaré
+2132 >>  >> Macth name_es equals py:ypacarai >> py:ypacaraí
+2133 >>  >> Macth name_es equals py:concepcion-25753 >> py:concepción
+2134 >>  >> Macth name_es equals py:caacupe >> py:caacupé
+2135 >>  >> Macth via id py:piribebuy
+2136 >>  >> Macth name_es equals py:piribebuy >> py:piribebuy
+2137 >>  >> Macth name_es equals py:arroyos-y-esteros >> py:arroyos y esteros
+2138 >>  >> Macth via id py:atyra
+2139 >>  >> Macth name_es equals py:atyra >> py:atyra
+2140 >>  >> Macth via id py:altos
+2141 >>  >> Macth name_es equals py:altos >> py:altos
+2142 >>  >> Macth via id py:caraguatay
+2143 >>  >> Macth name_es equals py:caraguatay >> py:caraguatay
+2144 >>  >> Macth name_es equals py:san-bernardino-25775 >> py:san bernardino
+2145 >>  >> Macth name_es equals py:itacurubi-de-la-cordillera >> py:itacurubí de la cordillera
+2146 >>  >> Macth name_es equals py:nueva-colombia >> py:nueva colombia
+2147 >>  >> Macth via id py:villarrica
+2148 >>  >> Macth name_es equals py:villarrica >> py:villarrica
+2149 >>  >> Macth via id py:independencia
+2150 >>  >> Macth name_es equals py:independencia >> py:independencia
+2151 >>  >> Macth name_es equals py:encarnacion >> py:encarnación
+2152 >>  >> Macth via id py:obligado
+2153 >>  >> Macth name_es equals py:obligado >> py:obligado
+2154 >>  >> Macth name_es equals py:bella-vista-25821 >> py:bella vista
+2155 >>  >> Macth name_es equals py:san-cosme-y-damian >> py:san cosme y damián
+2156 >>  >> Macth name_es equals py:trinidad-25828 >> py:trinidad
+2157 >>  >> Macth name_es equals py:jesus >> py:jesús
+2158 >>  >> Macth name_es equals py:villa-florida >> py:villa florida
+2159 >>  >> Macth name_es equals py:yaguaron >> py:yaguarón
+2160 >>  >> Macth name_es equals py:ybycui >> py:ybycuí
+2161 >>  >> Macth name_es equals py:paraguari >> py:paraguarí
+2162 >>  >> Macth name_es equals py:asuncion >> py:asunción
+2163 >>  >> Macth via id uy:artigas
+2164 >>  >> Macth name_es equals uy:artigas >> uy:artigas
+2165 >>  >> Macth name_es equals uy:ciudad-de-la-costa >> uy:ciudad de la costa
+2166 >>  >> Macth name_es equals uy:las-piedras >> uy:las piedras
+2167 >>  >> Macth name_es equals uy:barros-blancos >> uy:barros blancos
+2168 >>  >> Macth via id uy:pando
+2169 >>  >> Macth name_es equals uy:pando >> uy:pando
+2170 >>  >> Macth name_es equals uy:la-paz >> uy:la paz
+2171 >>  >> Macth via id uy:canelones
+2172 >>  >> Macth name_es equals uy:canelones >> uy:canelones
+2173 >>  >> Macth name_es equals uy:santa-lucia-25561 >> uy:santa lucía
+2174 >>  >> Macth name_es equals uy:progreso-25562 >> uy:progreso
+2175 >>  >> Macth via id uy:salinas
+2176 >>  >> Macth name_es equals uy:salinas >> uy:salinas
+2177 >>  >> Macth name_es equals uy:parque-del-plata >> uy:parque del plata
+2178 >>  >> Macth name_es equals uy:atlantida >> uy:atlántida
+2179 >>  >> Macth name_es equals uy:san-jacinto-25570 >> uy:san jacinto
+2180 >>  >> Macth via id uy:toledo
+2181 >>  >> Macth name_es equals uy:toledo >> uy:toledo
+2182 >>  >> Macth via id uy:melo
+2183 >>  >> Macth name_es equals uy:melo >> uy:melo
+2184 >>  >> Macth name_es equals uy:colonia-del-sacramento >> uy:colonia del sacramento
+2185 >>  >> Macth via id uy:carmelo
+2186 >>  >> Macth name_es equals uy:carmelo >> uy:carmelo
+2187 >>  >> Macth name_es equals uy:juan-lacaze >> uy:juan lacaze
+2188 >>  >> Macth name_es equals uy:nueva-helvecia >> uy:nueva helvecia
+2189 >>  >> Macth name_es equals uy:rosario-25584 >> uy:rosario
+2190 >>  >> Macth name_es equals uy:nueva-palmira >> uy:nueva palmira
+2191 >>  >> Macth via id uy:tarariras
+2192 >>  >> Macth name_es equals uy:tarariras >> uy:tarariras
+2193 >>  >> Macth name_es equals uy:colonia-valdense >> uy:colonia valdense
+2194 >>  >> Macth via id uy:durazno
+2195 >>  >> Macth name_es equals uy:durazno >> uy:durazno
+2196 >>  >> Macth name_es equals uy:trinidad-25594 >> uy:trinidad
+2197 >>  >> Macth name_es equals uy:florida-25598 >> uy:florida
+2198 >>  >> Macth name_es equals uy:minas-25600 >> uy:minas
+2199 >>  >> Macth name_es equals uy:jose-pedro-varela >> uy:josé pedro varela
+2200 >>  >> Macth via id uy:maldonado
+2201 >>  >> Macth name_es equals uy:maldonado >> uy:maldonado
+2202 >>  >> Macth name_es equals uy:san-carlos-25604 >> uy:san carlos
+2203 >>  >> Macth name_es equals uy:punta-del-este >> uy:punta del este
+2204 >>  >> Macth name_es equals uy:piriapolis >> uy:piriápolis
+2205 >>  >> Macth via id uy:aigua
+2206 >>  >> Macth name_es equals uy:aigua >> uy:aigua
+2207 >>  >> Macth via id uy:montevideo
+2208 >>  >> Macth name_es equals uy:montevideo >> uy:montevideo
+2209 >>  >> Macth name_es equals uy:paysandu >> uy:paysandú
+2210 >>  >> Macth name_es equals uy:guichon >> uy:guichón
+2211 >>  >> Macth name_es equals uy:fray-bentos >> uy:fray bentos
+2212 >>  >> Macth via id uy:rivera
+2213 >>  >> Macth name_es equals uy:rivera >> uy:rivera
+2214 >>  >> Macth via id uy:chuy
+2215 >>  >> Macth name_es equals uy:chuy >> uy:chuy
+2216 >>  >> Macth via id uy:lascano
+2217 >>  >> Macth name_es equals uy:lascano >> uy:lascano
+2218 >>  >> Macth via id uy:castillos
+2219 >>  >> Macth name_es equals uy:castillos >> uy:castillos
+2220 >>  >> Macth name_es equals uy:la-paloma >> uy:la paloma
+2221 >>  >> Macth via id uy:salto
+2222 >>  >> Macth name_es equals uy:salto >> uy:salto
+2223 >>  >> Macth name_es equals uy:san-jose-de-mayo >> uy:san josé de mayo
+2224 >>  >> Macth name_es equals uy:ciudad-del-plata >> uy:ciudad del plata
+2225 >>  >> Macth name_es equals uy:mercedes-25633 >> uy:mercedes
+2226 >>  >> Macth name_es equals uy:dolores-25634 >> uy:dolores
+2227 >>  >> Macth name_en equals uy:tacuarembo >> uy:tacuarembó tacuarembó
+2228 >>  >> Macth name_es equals uy:san-gregorio-de-polanco >> uy:san gregorio de polanco
+2229 >>  >> Macth name_es equals uy:treinta-y-tres >> uy:treinta y tres

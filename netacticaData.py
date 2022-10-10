@@ -111,10 +111,11 @@ class NetacticaData:
                         name_es = self.data[i].split("|")[2]
                         name_es = self._eraseLowerAllNumbersOfString(name_es)
                         if name_es == clean_seraching:
-                            self.metadataGEO[str(self.count)] = " >> Macth name_es equals " + str(key)
+                            self.metadataGEO[str(self.count)] = " >> Macth name_es equals " + str(key) + " >> " + str(i)
                             self.count = self.count + 1
                             data = self.getLatLonViaID(i)
                             found = True
+                            break
 
                         ## Search full_name_es
                         #full_name_es = self.data[i].split("|")[3]
@@ -126,10 +127,11 @@ class NetacticaData:
                         name_en = self.data[i].split("|")[4]
                         name_en = self._eraseLowerAllNumbersOfString(name_en)
                         if name_en == clean_seraching:
-                            self.metadataGEO[str(self.count)] = " >> Macth name_es equals " + str(key)
+                            self.metadataGEO[str(self.count)] = " >> Macth name_en equals " + str(key) + " >> " + str(i)
                             self.count = self.count + 1
                             data = self.getLatLonViaID(i)
                             found = True
+                            break
 
 
                         ## Serach full_name_en
@@ -139,8 +141,8 @@ class NetacticaData:
                         #    print("Encontre full ingles ", key, " >> ", i)
                         
                         
-                        if found:
-                            break
+                    if found:
+                        break
 
 
                 if found:

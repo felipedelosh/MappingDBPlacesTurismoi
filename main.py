@@ -154,12 +154,29 @@ class Sofware:
 
     def _showCitiesOfCountryInformation(self, country_name):
         result = self.controller.getAllCitiesInCountryName(country_name)
+        formated_text = " "*70
         data = ""
         for i in result:
             getMacthStatus = self.controller.getMacthStatus(i)
             if getMacthStatus == "":
                 getMacthStatus = " No Maching... :( "
-            data = data + str(i) + " >> " + getMacthStatus + "\n"
+            info = str(i)
+            len_ourput_info = len(info) - 1
+            
+            if len_ourput_info >= 20:
+                info = info[0:20] + " *"
+            else:
+                info = info + (" "*(20-len_ourput_info)) + "*"
+
+            GEOstatus = self.controller.turismoiData.getGeoLatLon(i)
+            if GEOstatus == "NULL|NULL":
+                GEOstatus = "NO GEODATA"
+            else:
+                GEOstatus = "    OK    "
+
+
+
+            data = data + info + " " + GEOstatus + " * "  + getMacthStatus + "\n"
 
         self._showWindowWithText(country_name, data)
         
