@@ -5,12 +5,16 @@ This archive contain several information
 
 """
 
+from itertools import count
+
 
 class NetacticaData:
     def __init__(self) -> None:
         self.data = {}
         self.isTheDataLoad = False
         self.metadata = {}
+        self.metadataGEO = {}
+        self.count = 0
 
     def chargeData(self, txt):
         count = 0
@@ -67,7 +71,6 @@ class NetacticaData:
             latitude = data[6]
             if latitude != "NULL":
                 if not self._validatesLatitude(latitude):
-                    print(latitude)
                     latitude = "NULL"
 
             longitude = data[7]
@@ -83,8 +86,9 @@ class NetacticaData:
     def searchPlace(self, iso_code, city_name, allRegInfo, delimiter, vecPosToSearch=[]):
         """
         Return latitude|longitude if find the place.
+        1 -> Search via id
+        2 -> Seach Sequencial // Brute force
         
-
 
         """
         data = "NULL|NULL"
@@ -92,10 +96,64 @@ class NetacticaData:
         # First search via key
         key = iso_code+":"+city_name
         if key in self.data.keys():
+            self.metadataGEO[str(self.count)] = " >> Macth via id " + str(key)
+            self.count = self.count + 1
             data = self.getLatLonViaID(key)
 
+        if not found:
+            seraching = allRegInfo.split(delimiter)
+            for i in self.data:
+                if iso_code+":" in i and city_name != "null":
+                    for j in vecPosToSearch:
+                        clean_seraching = self._eraseLowerAllNumbersOfString(seraching[j])
+    
+                        ## Search name es
+                        name_es = self.data[i].split("|")[2]
+                        name_es = self._eraseLowerAllNumbersOfString(name_es)
+                        if name_es == clean_seraching:
+                            self.metadataGEO[str(self.count)] = " >> Macth name_es equals " + str(key)
+                            self.count = self.count + 1
+                            data = self.getLatLonViaID(i)
+                            found = True
+
+                        ## Search full_name_es
+                        #full_name_es = self.data[i].split("|")[3]
+                        #full_name_es = self._eraseLowerAllNumbersOfString(full_name_es)
+                        #if clean_seraching == full_name_es:
+                        #    print("Encontre otro...", key, " >> ", i)
+
+                        ##Seach name_en
+                        name_en = self.data[i].split("|")[4]
+                        name_en = self._eraseLowerAllNumbersOfString(name_en)
+                        if name_en == clean_seraching:
+                            self.metadataGEO[str(self.count)] = " >> Macth name_es equals " + str(key)
+                            self.count = self.count + 1
+                            data = self.getLatLonViaID(i)
+                            found = True
+
+
+                        ## Serach full_name_en
+                        #full_name_en = self.data[i].split("|")[5]
+                        #full_name_en = self._eraseLowerAllNumbersOfString(full_name_en)
+                        #if full_name_en == clean_seraching:
+                        #    print("Encontre full ingles ", key, " >> ", i)
+                        
+                        
+                        if found:
+                            break
+
+
+                if found:
+                    break
+                            
+                
         return data
 
+
+    def _eraseLowerAllNumbersOfString(self, txt):
+        for i in ['0','1','2','3','4','5','6','7','8','9','-','á','é','í','ó','ú','ñ','n',',','(provincia)','(',')','\'','.']:
+            txt = txt.replace(i, '')
+        return txt.strip().lower()
 
 
 

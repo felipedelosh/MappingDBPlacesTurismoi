@@ -236,8 +236,6 @@ class TurismoiDATA:
                     iso_key = j.split(":")[0]
                     if get_iso_key == iso_key:
                         turismoi_data = self.data[j].split("|")
-                        if external_data[1] == "Medellín":
-                            print("Estoy en Medellín")
                         # Found in 9 name_place|
                         var_name_place = turismoi_data[9]
                         var_name_place = self._eraseLowerAllNumbersOfString(var_name_place)
@@ -283,7 +281,7 @@ class TurismoiDATA:
         return found
 
     def _eraseLowerAllNumbersOfString(self, txt):
-        for i in ['0','1','2','3','4','5','6','7','8','9','-','á','é','í','ó','ú','ñ','n']:
+        for i in ['0','1','2','3','4','5','6','7','8','9','-','á','é','í','ó','ú','ñ','n',',']:
             txt = txt.replace(i, '')
         return txt.strip().lower()
                         

@@ -14,6 +14,7 @@ Note= view Logs and use tools
 
 
 """
+from email.mime import image
 from tkinter import *
 from controller import *
 
@@ -35,6 +36,8 @@ class Sofware:
 
         self.btnTestRndOutput = Button(self.canvas, text="Test OUTPUT", command=self.textOutputData)
         self.btnViewTusrismoiMacthStatus = Button(self.canvas, text="Turismoi Macth Status", command=self.viewWindowStateTurismoiMacth)
+
+        self.clockIMG = PhotoImage(file='RESORCES/clock.gif')
 
         self.vizualizedAndRun()
 
@@ -58,6 +61,7 @@ class Sofware:
         self.btnTestRndOutput.place(x=600, y=10)
         self.btnViewTusrismoiMacthStatus.place(x=600, y=40)
 
+        
 
         self.screem.mainloop()
 
@@ -175,6 +179,11 @@ class Sofware:
         textArea.place(x=10, y=10)
         textArea.delete('1.0', END)
         textArea.insert(END, text)
+
+    def _showClock(self):
+        self.canvas.create_image(10,40,image=self.clockIMG, anchor=NW, tag="clock", tags="clock")
+    def _hideClock(self):
+        self.canvas.delete("clock")
 
 
 

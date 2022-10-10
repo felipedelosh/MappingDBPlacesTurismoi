@@ -9,7 +9,8 @@ lima|Lima|PERU (PE)|-12.046|-77.0307|LIM|Lima|Peru (PE)|-12.043333|-77.028333
 la-paz-26016|La Paz|BOLIVIA (BO)|NULL|NULL|LPB|La Paz |Bolivia (BO)|-16.5|-68.15
 madrid|Madrid|SPAIN (ES)|40.4167|-3.7037|MAD|Madrid|Spain (ES)|40.416775|-3.7037902
 quito|Quito|ECUADOR (EC)|-0.220299|-78.51171|UIO|Quito|Ecuador (EC)|-0.233333|-78.516667
-jaen|Jaén|PERU (PE)|-5.70876|-78.8077|809|Jaén |Peru (PE)|-5.709441|-78.798618
+guatape|Guatape|COLOMBIA (CO)|NULL|NULL|MDE-2|Guatapé|Colombia (CO)|6.234485712319284|-75.16134947436733
+aija|Aija|PERU (PE)|-9.78022|-77.6108|809|Jaén |Peru (PE)|-5.709441|-78.798618
 asuncion|Asunción|PARAGUAY (PY)|NULL|NULL|ASU|Asunción|Paraguay (PY)|-25.30606980862828|-57.60477866859958
 barranquilla|Barranquilla|COLOMBIA (CO)|11.006632|-74.81318|BAQ|Barranquilla|Colombia (CO)|10.963889|-74.796389
 little-belize|Little Belize|BELIZE (BZ)|NULL|NULL|BZE|Belize|Belize (BZ)|17.504722|-88.186667
@@ -45,7 +46,6 @@ cali|Cali|COLOMBIA (CO)|3.396812|-76.57563|CLO|Cali|Colombia (CO)|3.420556|-76.5
 camaguey|Camagüey|CUBA (CU)|NULL|NULL|CMG|Camagüey|Cuba (CU)|21.392603|-77.905318
 cordoba|Córdoba|ARGENTINA (AR)|NULL|NULL|CRD|Córdoba|Argentina (AR)|-31.416667|-64.183333
 ciudad-real|Ciudad Real|SPAIN (ES)|38.9831|-3.9671|CRE|Ciudad Real|Spain (ES)|38.984829|-3.927378
-cartagena|Cartagena de Indias|COLOMBIA (CO)|10.423437|-75.54946|CTG|Cartagena de Indias|Colombia (CO)|10.4|-75.5
 cucuta|Cúcuta|COLOMBIA (CO)|NULL|NULL|CUC|Cucuta|Colombia (CO)|7.9075|-72.504722
 cancun|Cancún|MEXICO (MX)|NULL|NULL|CUN|Cancun|Mexico (MX)|21.149619289931536|-86.80478630279819
 cuernavaca|Cuernavaca|MEXICO (MX)|18.921225|-99.23486|CVJ|Cuernavaca|Mexico (MX)|18.924209|-99.221566
@@ -56,6 +56,7 @@ formentera|Formentera|SPAIN (ES)|38.71101|1.469704|FOR|Formentera|Spain (ES)|38.
 guanajuato|Guanajuato|MEXICO (MX)|21.01812|-101.25821|GUO|Guanajuato|Mexico (MX)|21.019015|-101.257359
 guayaquil|Guayaquil|ECUADOR (EC)|-2.160198|-79.94082|GYE|Guayaquil|Ecuador (EC)|-2.183333|-79.883333
 huesca|Huesca|SPAIN (ES)|42.1318|-0.4078|HUS|Huesca|Spain (ES)|42.131845|-0.407806
+ibague|Ibague|COLOMBIA (CO)|NULL|NULL|IBA-34|Ibague|Colombia (CO)|4.444675999999999|-75.24243799999999
 iquitos|Iquitos|PERU (PE)|-3.74926|-73.2443|IQT|Iquitos|Peru (PE)|-3.743673|-73.251633
 jaen|Jaén|SPAIN (ES)|37.7795|-3.7849|JEN|Jaén|Spain (ES)|37.779594|-3.784906
 chihuahua|Chihuahua|MEXICO (MX)|29.001558|-106.23267|JUA|Chihuahua|Mexico (MX)|28.66524082703519|-106.06965169994963
@@ -138,7 +139,7 @@ orizaba|Orizaba|MEXICO (MX)|18.849121|-97.105225|OR2-1|Orizaba|Mexico (MX)|18.85
 tijuana|Tijuana|MEXICO (MX)|32.528725|-117.023155|TIJ-1|Tijuana|Mexico (MX)|32.504106354003895|-116.96529205019567
 lanzarote|Lanzarote|SPAIN (ES)|NULL|NULL|ACE-10|Lanzarote|Spain (ES)|29.02615398405301|-13.638839721679688
 aguas-calientes|Aguas Calientes|PERU (PE)|-13.1547|-72.5253|AGC-13|Aguas Calientes|Peru (PE)|-13.1547062|-72.52544119999999
-alicante|Alicante|SPAIN (ES)|38.346|-0.4906|ALC-99|Alicante|Spain (ES)|38.34865705156157|-0.47790527343750006
+alicante|Alicante|SPAIN (ES)|38.346|-0.4906|INC-1|Inca|Spain (ES)|39.717774|2.907547
 avila|Ávila|SPAIN (ES)|40.6421|-4.6657|AVA-99|Avila|Spain (ES)|40.65|-4.683333
 merida|Mérida|SPAIN (ES)|NULL|NULL|BJZ-90|Mérida |Spain (ES)|38.914296|-6.349197
 burgos|Burgos|SPAIN (ES)|42.3439|-3.6969|BRG-99|Burgos|Spain (ES)|42.35|-3.706667
@@ -159,10 +160,12 @@ satipo|Satipo|PERU (PE)|-11.254|-74.6366|SAT-12|Satipo|Peru (PE)|-11.255548|-74.
 santiago-de-compostela|Santiago de Compostela|SPAIN (ES)|NULL|NULL|SCQ-99|Santiago de Compostela|Spain (ES)|42.8782132|-8.5448445
 santander|Santander|SPAIN (ES)|43.4623|-3.8099|SDR-99|Santander|Spain (ES)|43.4623057|-3.8099803
 segovia|Segovia|SPAIN (ES)|40.9429|-4.1088|SEG-99|Segovia|Spain (ES)|40.942903|-4.108807
+la-colorada|La Colorada|PANAMA (PA)|NULL|NULL|TOUCOL|Colon|Panama (PA)|9.357222|-79.898611
 santa-cruz|Santa Cruz|ARGENTINA (AR)|NULL|NULL|TOUSAN|Santa Cruz|Argentina (AR)|-48.62|-70.01
 vitoria|Vitoria|SPAIN (ES)|42.8591|-2.6818|VIT-20|Vitoria |Spain (ES)|42.859166|-2.681792
 zaragoza|Zaragoza|SPAIN (ES)|41.6488|-0.8897|ZAZ-99|Zaragoza|Spain (ES)|41.65|-0.883333
 santa-fe|Santa Fe|ARGENTINA (AR)|NULL|NULL|TUR-STF|Santa Fe|Argentina (AR)|-31.610658|-60.697294
+hojancha|Hojancha|COSTA RICA (CR)|NULL|NULL|140|Jacó|Costa Rica (CR)|9.654907854199024|-84.59197998046875
 armenia|Armenia|COLOMBIA (CO)|4.498677|-75.72508|AXM|Armenia|Colombia (CO)|4.540726152469631|-75.66928532060119
 bucaramanga|Bucaramanga|COLOMBIA (CO)|7.137159|-73.13279|BGA|Bucaramanga|Colombia (CO)|7.119349|-73.12274159999998
 bocas-del-toro|Bocas del Toro|PANAMA (PA)|NULL|NULL|BTO|Bocas del Toro|Panama (PA)|9.340556|-82.240556
@@ -211,6 +214,8 @@ pontevedra|Pontevedra|SPAIN (ES)|42.4298|-8.6446|VGO|Pontevedra|Spain (ES)|42.43
 santa-cruz-de-la-sierra|Santa Cruz de la Sierra|BOLIVIA (BO)|NULL|NULL|VVI|Santa Cruz de la Sierra|Bolivia (BO)|-17.8|-63.18
 xalapa-enriquez|Xalapa-Enríquez|MEXICO (MX)|NULL|NULL|XAL|Xalapa|Mexico (MX)|19.525488177194077|-96.92543983571886
 ancud|Ancud|CHILE (CL)|-41.915462|-73.79246|ZUD|Ancud|Chile (CL)|-41.8675003|-73.8276965
+matalascanas|Matalascañas|SPAIN (ES)|NULL|NULL|LUS-25|Matalascañas|Spain (ES)|36.998254|-6.551621
+san-sebastian|San Sebastián|SPAIN (ES)|43.3183|-1.9812|Anso|Ansó|Spain (ES)|42.7556581|-0.8289608000000044
 potosi|Potosí|BOLIVIA (BO)|NULL|NULL|CAS1|Potosi|Bolivia (BO)|-19.579846540004144|-65.75729370117189
 paipa|Paipa|COLOMBIA (CO)|5.808499|-73.183945|CAS3|Paipa|Colombia (CO)|5.780649599211813|-73.1177043914795
 la-paloma|La Paloma|URUGUAY (UY)|NULL|NULL|PDP3|La Paloma|Uruguay (UY)|-34.652132475112666|-54.17804718017579
@@ -292,7 +297,6 @@ roquetas-de-mar|Roquetas de Mar|SPAIN (ES)|NULL|NULL|LEI-40|Roquetas de Mar|Spai
 lloret-de-mar|Lloret de Mar|SPAIN (ES)|NULL|NULL|LLM-99|Lloret de Mar|Spain (ES)|41.700599|2.839819
 las-palmas-de-gran-canaria|Las Palmas de Gran Canaria|SPAIN (ES)|28.1235|-15.4362|LPA-10|Las Palmas de Gran Canaria|Spain (ES)|28.1310776|-15.4392611
 isla-cristina|Isla Cristina|SPAIN (ES)|NULL|NULL|LUS-15|Isla Cristina|Spain (ES)|37.199167|-7.321389
-matalascanas|Matalascañas|SPAIN (ES)|NULL|NULL|LUS-25|Matalascañas|Spain (ES)|36.998254|-6.551621
 chiclana-de-la-frontera|Chiclana de la Frontera|SPAIN (ES)|NULL|NULL|LUZ-15|Chiclana de la Frontera|Spain (ES)|36.416505|-6.14611
 chipiona|Chipiona|SPAIN (ES)|36.728893|-6.409672|LUZ-20|Chipiona|Spain (ES)|36.7378531|-6.4376642
 conil-de-la-frontera|Conil de la Frontera|SPAIN (ES)|NULL|NULL|LUZ-25|Conil de la Frontera|Spain (ES)|36.278099|-6.086207
@@ -300,7 +304,7 @@ ronda|Ronda|SPAIN (ES)|36.74268|-5.16536|OND-01|Onda|Spain (ES)|39.9744231419956
 metepec|Metepec|MEXICO (MX)|NULL|NULL|MDF-10|Metepec|Mexico (MX)|19.2528864|-99.59855099999999
 tepotzotlan|Tepotzotlán|MEXICO (MX)|NULL|NULL|MDF-30|Tepotzotlan|Mexico (MX)|19.7185096|-99.2065202
 merida|Mérida|MEXICO (MX)|NULL|NULL|MER-10|Merida |Mexico (MX)|20.97|-89.62
-chichen-itza|Chichen Itza|MEXICO (MX)|NULL|NULL|MER-20|Chichen-Itza|Mexico (MX)|20.6783333|-88.56888879999997
+chichen-itza|Chichen Itza|MEXICO (MX)|NULL|NULL|ChichenItza|Chichen Itzá|Mexico (MX)|20.67|-88.26
 cuautitlan|Cuautitlán|MEXICO (MX)|NULL|NULL|MEX-77|Cuautitlan|Mexico (MX)|19.646144279333953|-99.19967651367189
 cartagena|Cartagena|SPAIN (ES)|37.6|-0.981944|MJV-20|Cartagena|Spain (ES)|37.68695719816848|-1.0491787246428432
 patzcuaro|Pátzcuaro|MEXICO (MX)|NULL|NULL|PTZ-2|Pátzcuaro|Mexico (MX)|19.518195293960623|-101.61289019946709
@@ -325,6 +329,7 @@ nuevo-laredo|Nuevo Laredo|MEXICO (MX)|NULL|NULL|NLD|Nuevo Laredo|Mexico (MX)|27.
 rancagua|Rancagua|CHILE (CL)|-34.125664|-70.81693|RNA|Rancagua|Chile (CL)|-34.170132|-70.740626
 banos|Baños|ECUADOR (EC)|NULL|NULL|ANB-1|Baños|Ecuador (EC)|-1.4|-78.43
 ciego-de-avila|Ciego de Ávila|CUBA (CU)|NULL|NULL|CDA-2|Ciego de Ávila|Cuba (CU)|21.844354392507825|-78.76514245151814
+san-nicolas-de-los-arroyos|San Nicolás de los Arroyos|ARGENTINA (AR)|NULL|NULL|CLO-3|Colón|Argentina (AR)|-32.21806119446975|-58.135545183523604
 concordia|Concordia|ARGENTINA (AR)|-31.397402|-58.017277|CNC-2|Concordia|Argentina (AR)|-31.39292202932701|-58.0169066019111
 yopal|Yopal|COLOMBIA (CO)|5.251512|-72.26816|EYP-1|Yopal|Colombia (CO)|5.348903|-72.40052300000002
 guerrero-negro|Guerrero Negro|MEXICO (MX)|NULL|NULL|GRR-002|Guerrero|Mexico (MX)|17.613056|-99.95
@@ -353,7 +358,6 @@ peniscola|Peñíscola|SPAIN (ES)|NULL|NULL|CAZ-10|Peñíscola|Spain (ES)|40.3596
 chivay|Chivay|PERU (PE)|-15.6367|-71.6021|CHV-87|Chivay|Peru (PE)|-15.6388455|-71.60204379999999
 motril|Motril|SPAIN (ES)|36.738537|-3.485211|CTR-20|Motril|Spain (ES)|36.748975|-3.518036
 holguin|Holguín|CUBA (CU)|NULL|NULL|HOL-98|Holguin|Cuba (CU)|20.8795129|-76.25949809999997
-ibague|Ibague|COLOMBIA (CO)|NULL|NULL|IBA-34|Ibague|Colombia (CO)|4.444675999999999|-75.24243799999999
 vera|Vera|SPAIN (ES)|37.22527|-1.856161|LEI-50|Vera|Spain (ES)|37.2291388|-1.8611011000000417
 tossa-de-mar|Tossa de Mar|SPAIN (ES)|NULL|NULL|LLM-30|Tossa de Mar|Spain (ES)|41.722499|2.930367
 haro|Haro|SPAIN (ES)|42.57668|-2.84669|LOG-20|Haro|Spain (ES)|42.5768716|-2.8502301999999418
@@ -446,15 +450,16 @@ honda|Honda|COLOMBIA (CO)|5.2051|-74.737|Honda|Honda|Colombia (CO)|5.2104739|-74
 ibiza|Ibiza|SPAIN (ES)|38.90884|1.43237|IBI-E|Ibi|Spain (ES)|38.62250583336396|-0.5726358611553337
 ilo|Ilo|PERU (PE)|-17.6459|-71.3453|ILO-2|Ilo|Peru (PE)|-17.64|-71.34
 ipiales|Ipiales|COLOMBIA (CO)|0.577059|-77.375854|IPI-1|Ipiales|Colombia (CO)|0.8267439696748511|-77.63909574110616
+moraira|Moraira|SPAIN (ES)|38.689026|0.132259|MRR-1|Moraira|Spain (ES)|38.688086206519245|0.13452829587848214
 jala|Jala|MEXICO (MX)|21.110813|-104.433136|JAL-1|Jala|Mexico (MX)|21.103676081734633|-104.43668194504087
 jardin|Jardín|COLOMBIA (CO)|NULL|NULL|JAR-6|Jardin|Colombia (CO)|5.598758362640979|-75.81924263755087
 jerico|Jericó|COLOMBIA (CO)|NULL|NULL|JER-6|Jerico|Colombia (CO)|5.750732903213915|-75.74947053429513
+santa-eulalia-del-rio|Santa Eulalia del Río|SPAIN (ES)|NULL|NULL|LLN-1|Lalín|Spain (ES)|42.66156371387336|-8.11150327645484
 la-macarena|La Macarena|COLOMBIA (CO)|NULL|NULL|LMC-2|La Macarena|Colombia (CO)|2.1938743611971177|-73.78330097371156
 la-tebaida|La Tebaida|COLOMBIA (CO)|NULL|NULL|LTC-1|La Tebaida|Colombia (CO)|4.452150237868452|-75.79079049116405
 las-tunas|Las Tunas|CUBA (CU)|NULL|NULL|LTN-2|Las Tunas|Cuba (CU)|20.96189823920902|-76.9563690233374
 livingston|Livingston|GUATEMALA (GT)|15.753923|-89.03859|LVG-1|Livingston|Guatemala (GT)|15.826941788210277|-88.75771690625129
 maipu|Maipú|ARGENTINA (AR)|NULL|NULL|MAI-6|Maipú|Argentina (AR)|-32.98039659738908|-68.78052101817036
-moraira|Moraira|SPAIN (ES)|38.689026|0.132259|MRR-1|Moraira|Spain (ES)|38.688086206519245|0.13452829587848214
 montenegro|Montenegro|COLOMBIA (CO)|4.522207|-75.81779|MTN-1|Montenegro|Colombia (CO)|4.565462898366519|-75.7507230556225
 muros|Muros|SPAIN (ES)|42.7754|-9.05934|MUROS|Muros|Spain (ES)|42.77472381646973|-9.057568174406015
 navacerrada|Navacerrada|SPAIN (ES)|40.7331|-4.02222|NAVAC|Navacerrada|Spain (ES)|40.7264623|-4.0218996
@@ -467,6 +472,7 @@ rodrigo|Ciudad Rodrigo|SPAIN (ES)|40.5969|-6.5225|SLM20|Ciudad Rodrigo|Spain (ES
 sombrerete|Sombrerete|MEXICO (MX)|23.621231|-103.63561|SMBRT|Sombrerete|Mexico (MX)|23.635496513633683|-103.62944644417944
 tenjo|Tenjo|COLOMBIA (CO)|4.872039|-74.14501|TEN-6|Tenjo|Colombia (CO)|4.87246309709947|-74.14489987406962
 tumaco|Tumaco|COLOMBIA (CO)|1.58387|-78.663765|TNC-1|Tumaco|Colombia (CO)|1.803919387846591|-78.77843435276836
+ubate|Ubate|COLOMBIA (CO)|NULL|NULL|Ubate|Ubaté|Colombia (CO)|5.312139698858246|-73.81324839755624
 villa-mercedes|Villa Mercedes|ARGENTINA (AR)|NULL|NULL|VLMRC|Villa Mercedes|Argentina (AR)|-33.67833508815163|-65.45859869134375
 xicotepec|Xicotepec|MEXICO (MX)|20.326618|-97.902626|XCTPC|Xicotepec|Mexico (MX)|20.2813112|-97.9702712
 apulo|Apulo|COLOMBIA (CO)|4.522309|-74.578384|apulo|Apulo|Colombia (CO)|4.520822846185112|-74.59407904850904
@@ -517,6 +523,8 @@ sayulita|Sayulita|MEXICO (MX)|20.856325|-105.43668|SAYU-6|Sayulita|Mexico (MX)|2
 san-carlos|San Carlos|COSTA RICA (CR)|NULL|NULL|SCCR-1|San Carlos|Costa Rica (CR)|10.567807218449289|-84.46880257639877
 taltal|Taltal|CHILE (CL)|-25.368431|-70.137665|TAT-22|Taltal|Chile (CL)|-25.266932865247025|-69.85835770590657
 tecpan-guatemala|Tecpán Guatemala|GUATEMALA (GT)|NULL|NULL|TEC-22|Tecpán|Guatemala (GT)|14.76235253605482|-90.9919558683966
+tehuacan|Tehuacan|MEXICO (MX)|NULL|NULL|TEHU-1|Tehuacán|Mexico (MX)|18.466089181224763|-97.39738672688021
+teziutlan|Teziutlan|MEXICO (MX)|NULL|NULL|TEZI-1|Teziutlán|Mexico (MX)|19.842143609196|-97.35238782710994
 topolobampo|Topolobampo|MEXICO (MX)|25.610273|-109.08293|TOPO-1|Topolobampo|Mexico (MX)|25.600272050932702|-109.05247131648473
 tota|Tota|COLOMBIA (CO)|NULL|NULL|TOTA-6|Tota|Colombia (CO)|5.5607816297559225|-72.98573685993789
 vichayito|Vichayito|PERU (PE)|-4.142398|-81.09772|VIC-21|Vichayito|Peru (PE)|-4.144186314941365|-81.1075079691983
@@ -529,11 +537,11 @@ azogues|Azogues|ECUADOR (EC)|-2.624635|-78.748276|AZG-002|Azogues|Ecuador (EC)|-
 aguazul|Aguazul|COLOMBIA (CO)|5.124754|-72.54086|Aguazul|Aguazul|Colombia (CO)|5.1716985095767996|-72.55068893936668
 apizaco|Apizaco|MEXICO (MX)|19.42352|-98.12709|Apizaco|Apizaco|Mexico (MX)|19.414184710200047|-98.13998660809774
 riobamba|Riobamba|ECUADOR (EC)|-1.725905|-78.65271|BAMBA-6|Riobamba|Ecuador (EC)|-1.67239925270826|-78.64937601733371
-boca-del-rio|Boca del RÍo|MEXICO (MX)|NULL|NULL|BCR-002|Boca del Río|Mexico (MX)|19.105556|-96.107778
 buga|Buga|COLOMBIA (CO)|3.9005|-76.3021|BGA-002|Buga|Colombia (CO)|3.8997223058612605|-76.30098376391895
 buenaventura|Buenaventura|COLOMBIA (CO)|3.624204|-77.12156|BVR-002|Buenaventura|Colombia (CO)|3.874231899683167|-77.06025164150867
-boyaca|Boyacá|COLOMBIA (CO)|NULL|NULL|BYC-002|Boyacá|Colombia (CO)|5.454167|-73.361944
+puerto-boyaca|Puerto Boyaca|COLOMBIA (CO)|NULL|NULL|BYC-002|Boyacá|Colombia (CO)|5.454167|-73.361944
 chanaral|Chañaral|CHILE (CL)|NULL|NULL|CHAN-22|Chañaral|Chile (CL)|-26.350767162516796|-70.6238788092479
+choconta|Chocontá|COLOMBIA (CO)|NULL|NULL|CHC-002|Chocó|Colombia (CO)|5.7|-76.666667
 cotacachi|Cotacachi|ECUADOR (EC)|0.29998|-78.26428|CHI-002|Cotacachi|Ecuador (EC)|0.3|-78.266667
 camiri|Camiri|BOLIVIA (BO)|-20.032408|-63.526505|CMR-002|Camiri|Bolivia (BO)|-20.04307892887472|-63.51823387366477
 copacabana|Copacabana|BOLIVIA (BO)|-16.166046|-69.08633|CPA-002|Copacabana|Bolivia (BO)|-16.166667|-69.083333
