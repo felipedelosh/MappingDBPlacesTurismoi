@@ -8,6 +8,8 @@ class TravelCompositorData:
         self.data = {}
         self.isTheDataLoad = False
         self.control_countries_cities_create = {} 
+        self.country_iso_name = {} # [iso] = name_country
+        self.country_name_iso = {} # [name_country] = iso
         self.macthControl = {} # [key equal to self.data] = 0 or 1 >> 0: not macth 1: macth
         self.metadata = {}
 
@@ -32,11 +34,17 @@ class TravelCompositorData:
 
                 key = iso_country + ":" + name_city
 
-            # Save all info [country] = [[city:name="data.key"]]
-            if not NAME_country in self.control_countries_cities_create.keys():
-                self.control_countries_cities_create[NAME_country] = {}
-            if name_city not in self.control_countries_cities_create[NAME_country].keys():
-                self.control_countries_cities_create[NAME_country][name_city] = key
+                # Save all info [country] = [[city:name="data.key"]]
+                if not NAME_country in self.control_countries_cities_create.keys():
+                    self.control_countries_cities_create[NAME_country] = {}
+                if name_city not in self.control_countries_cities_create[NAME_country].keys():
+                    self.control_countries_cities_create[NAME_country][name_city] = key
+                
+                # Save iso codes
+                if iso_country not in self.country_iso_name.keys():
+                    self.country_iso_name[iso_country] = NAME_country
+                if NAME_country not in self.country_name_iso:
+                    self.country_name_iso[NAME_country] = iso_country
 
                 
                 if key in self.data.keys():
@@ -124,5 +132,22 @@ class TravelCompositorData:
             if len(self.control_countries_cities_create[i]) > 1:
                 data.append(i)
 
+        return data
+
+    def getCountryIsoViaName(self, name):
+        data = ""
+        if name in self.country_name_iso.keys():
+            data = self.country_name_iso[name]
+        return data 
+
+    def getAllCodesOfIso(self, iso):
+        """
+        return all codes in country iso
+        [iso:city,iso:city,iso:city,iso:city....]
+        """
+        data = []
+        for i in self.data:
+            if str(iso)+":" in i:
+                data.append(i)
         return data
 

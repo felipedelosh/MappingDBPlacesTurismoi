@@ -169,11 +169,48 @@ class Controller:
         return self.turismoiData.getCountriesWithCities()
 
     def getCountriesWithCitiesInTravelCompositor(self):
-        return self.travelCData.getCountriesWithCities()
+        return self.getCountriesOnlyWithMacthInTurismoi()
+
+    def getCountriesOnlyWithMacthInTurismoi(self):
+        data = self.travelCData.getCountriesWithCities()
+        final_data = []
+        for i in data:
+            iso = self.travelCData.getCountryIsoViaName(i)
+            for j in self.turismoiData.machingDataKeys:
+                if iso+":" in j:
+                    final_data.append(i)
+                    break
+            
+        return final_data
 
     def getAllCitiesInCountryNameTurismoi(self, country_name):
         return self.turismoiData.getAllCitiesIdOfCountryViaName(country_name)
 
+    def getAllCitiesInTRavelCviaNameCountry(self, name):
+        data = ""
+        iso_country = self.travelCData.getCountryIsoViaName(name)
+        temp = self.travelCData.getAllCodesOfIso(iso_country)
+        for i in temp:
+            info = str(i)
+            len_ourput_info = len(info) - 1
+            if len_ourput_info >= 20:
+                info = info[0:20] + " *"
+            else:
+                info = info + (" "*(20-len_ourput_info)) + "*"
+            macth_status =  "  NO MACTH    "
+            
+            for j in self.turismoiData.machingDataKeys:
+                if iso_country+":" in j:
+                    if self.turismoiData.machingDataKeys[j] == i:
+                        macth_status =  "   MACTH   >> " + str(j)
+
+
+
+            data = data + info + macth_status + "\n" 
+
+        return data
+        
+        
 
     def getMacthStatus(self, key):
         return self.turismoiData.getmachingDataKeys(key)

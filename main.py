@@ -14,7 +14,6 @@ Note= view Logs and use tools
 
 
 """
-from email.mime import image
 from tkinter import *
 from controller import *
 
@@ -215,10 +214,12 @@ class Sofware:
                 counter = counter + 1
 
     def _showCitiesOfCountryInformationTravelC(self, country_name):
-        print(country_name)
+        """
+        
+        """
+        data = self.controller.getAllCitiesInTRavelCviaNameCountry(country_name)
+        self._showWindowWithText(country_name, data)
 
-        
-        
 
 
     def _showWindowWithText(self, title, text):

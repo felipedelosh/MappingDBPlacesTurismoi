@@ -253,7 +253,9 @@ class TurismoiDATA:
                         ext_external_data = external_data[int(i)]
                         ext_external_data = self._eraseLowerAllNumbersOfString(ext_external_data)
                         if ext_external_data in var_short_name_place and not found:
-                            #print("Encontreee...: ", external_data[int(i)], "*  En   ", key, " >> ", j)
+                            #geoA = self.getGeoLatLon(j)
+                            #geoB = allDATAofKey.split(delimiter)
+                            #geoB = str(geoB[3])+"|"+str(geoB[4])
                             self.machingDataKeys[j] = key
                             self.metadataMaching[str(self.count)] = "Found via short_name_place " + str(j) + " >> " + str(key)
                             self.count = self.count + 1
@@ -284,6 +286,24 @@ class TurismoiDATA:
         for i in ['0','1','2','3','4','5','6','7','8','9','-','á','é','í','ó','ú','ñ','n',',','_']:
             txt = txt.replace(i, '')
         return txt.strip().lower()
+
+    def _verifySimilarLatLon(self, geoA, geoB):
+        """
+        Enter 
+        geoA = Lat|Lon
+        geoB = Lat|Lon
+        """
+        try:
+            if "NULL" in geoA or "NULL" in geoB:
+                return False
+            else:
+                geoA = str(geoA).split("|")
+                geoB = str(geoB).split("|")
+                print(abs(geoA[0]-geoB[0]))
+                return True
+        except:
+            return False
+
                         
  
  
