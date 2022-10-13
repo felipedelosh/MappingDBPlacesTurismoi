@@ -237,6 +237,12 @@ class Controller:
 
                         found = True
                         break
+            for j in self.turismoiData.manualMachingDataKeys:
+                if str(iso)+":" in j:
+                    if i == self.turismoiData.manualMachingDataKeys[j]:
+
+                        found = True
+                        break
             if not found and str(iso)+":" in i:
                 data.append(i)
 
@@ -249,6 +255,7 @@ class Controller:
         """
         data = ["TravelC NOT MACTH"]
         t_iso = iso.split(":")[0]
+
         for i in self.travelCData.data:
             if t_iso+":" in i:
                 found = False
@@ -258,6 +265,13 @@ class Controller:
                         if tc_key == i:
                             found = True
                             break
+                for j in self.turismoiData.manualMachingDataKeys:
+                    if t_iso+":" in j:
+                        tc_key = self.turismoiData.manualMachingDataKeys[j]
+                        if tc_key == i:
+                            found = True
+                            break
+                
                 if not found:
                     data.append(i)
 
@@ -272,7 +286,7 @@ class Controller:
         data = ["Turismoi NOT MACTH"]
         for i in self.turismoiData.data:
             if str(iso)+":" in i:
-                if i not in self.turismoiData.machingDataKeys.keys():
+                if i not in self.turismoiData.machingDataKeys.keys() and i not in self.turismoiData.manualMachingDataKeys.keys():
                     data.append(i)
 
         return data
@@ -286,7 +300,7 @@ class Controller:
         t_iso = iso.split(":")[0]
         for i in self.turismoiData.data:
             if t_iso+":" in i:
-                if (iso in i or iso == i) and i not in self.turismoiData.machingDataKeys.keys():
+                if (iso in i or iso == i) and i not in self.turismoiData.machingDataKeys.keys() and i not in self.turismoiData.manualMachingDataKeys.keys():
                     data.append(i)
         return data
 
