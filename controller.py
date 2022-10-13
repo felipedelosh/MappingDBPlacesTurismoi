@@ -211,7 +211,11 @@ class Controller:
             for j in self.turismoiData.machingDataKeys:
                 if iso_country+":" in j:
                     if self.turismoiData.machingDataKeys[j] == i:
-                        macth_status =  "   MACTH   >> " + str(j)
+                        macth_status =  " Auto Macth >> " + str(j)
+            for j in self.turismoiData.manualMachingDataKeys:
+                if iso_country+":" in j:
+                    if self.turismoiData.manualMachingDataKeys[j] == i:
+                        macth_status =  " ManualMacth>> " + str(j)
 
 
 
