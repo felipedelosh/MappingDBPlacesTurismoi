@@ -1,6 +1,7 @@
 """
 FelipedelosH
 """
+from http.client import FOUND
 from turismoiData import *
 from travelCompositorData import *
 from netacticaData import *
@@ -171,6 +172,7 @@ class Controller:
     def getCountriesWithCitiesInTravelCompositor(self):
         return self.getCountriesOnlyWithMacthInTurismoi()
 
+
     def getCountriesOnlyWithMacthInTurismoi(self):
         data = self.travelCData.getCountriesWithCities()
         final_data = []
@@ -209,8 +211,74 @@ class Controller:
             data = data + info + macth_status + "\n" 
 
         return data
-        
-        
+
+    def getAllCitiesWithNoMacthInTravelCWithIsoCode(self, iso):
+        """
+        iso is only a code.
+        ejem : pe, co, es ...
+        """
+        data = ["TravelCompositor NOT MACTH"]
+        for i in self.travelCData.data:
+            found = False
+            for j in self.turismoiData.machingDataKeys:
+                if str(iso)+":" in j:
+                    if i == self.turismoiData.machingDataKeys[j]:
+
+                        found = True
+                        break
+            if not found and str(iso)+":" in i:
+                data.append(i)
+
+        return data
+
+    def getLikeCitiesWithCodeInTravelC(self, iso):
+        """
+        iso is only code.
+        ejem : pe:a, co:bog, es:madrid ...
+        """
+        data = ["TravelC NOT MACTH"]
+        t_iso = iso.split(":")[0]
+        for i in self.travelCData.data:
+            if t_iso+":" in i:
+                found = False
+                for j in self.turismoiData.machingDataKeys:
+                    if t_iso+":" in j:
+                        tc_key = self.turismoiData.machingDataKeys[j]
+                        if tc_key == i:
+                            found = True
+                            break
+                if not found:
+                    data.append(i)
+
+        return data
+
+
+    def getAllCitiesWithNoMacthInTurismoiWithIsoCode(self, iso):
+        """
+        iso is only a code.
+        ejem : pe, co, es ...
+        """
+        data = ["Turismoi NOT MACTH"]
+        for i in self.turismoiData.data:
+            if str(iso)+":" in i:
+                if i not in self.turismoiData.machingDataKeys.keys():
+                    data.append(i)
+
+        return data
+
+    def getLikeCitiesWithCodeInTurismoi(self, iso):
+        """
+        iso is only code.
+        ejem : pe:a, co:bog, es:madrid ...
+        """
+        data = ["Turismoi NOT MACTH"]
+        t_iso = iso.split(":")[0]
+        for i in self.turismoiData.data:
+            if t_iso+":" in i:
+                if (iso in i or iso == i) and i not in self.turismoiData.machingDataKeys.keys():
+                    data.append(i)
+        return data
+
 
     def getMacthStatus(self, key):
         return self.turismoiData.getmachingDataKeys(key)
@@ -233,6 +301,23 @@ class Controller:
         except:
             self.appendTextInConsoleText("Error write reject test")
 
+    def saveManualReg(self, regA, regB):
+        try:
+            if regA in self.travelCData.data.keys() and self.travelCData.data.keys():
+                data = ""
+                try:
+                    f = open("TEST/manual.txt", 'r', encoding="UTF-8")
+                    data = f.read()
+                    f.close()
+                except:
+                    pass
+                data = data + regA + "|" + regB + "\n"
+                g = open("TEST/manual.txt", 'w', encoding="UTF-8")
+                g.write(data)
+                g.close()
+        except:
+            print("Error insertando nuevo registro: ", str(regA), ":", str(regB))
+
 
     def theOutPutIsCretate(self):
         """
@@ -246,3 +331,9 @@ class Controller:
             return self.tempOutPutData != []
         except:
             return False
+
+    def existsTravelCKey(self, key):
+        return key in self.travelCData.data.keys()
+
+    def existsTurismoiKey(self, key):
+        return key in self.turismoiData.data.keys()

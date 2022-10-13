@@ -14,6 +14,8 @@ Note= view Logs and use tools
 
 
 """
+from cProfile import label
+from time import pthread_getcpuclockid
 from tkinter import *
 from controller import *
 
@@ -32,6 +34,8 @@ class Sofware:
 
         self.btnAddGeoLATLONViaNetacticaDB = Button(self.canvas, text="ADD LAT LON via Netactica", command=self.addGeoLatLonViaNectactica)
         self.btnMacthViaTravelCName = Button(self.canvas, text="Macth via TravelC Name", command=self.macthViaTravelCompositor)
+
+        self.btnManualSearch = Button(self.canvas, text=">< Manual", command=self.macthManual)
 
         self.btnTestRndOutput = Button(self.canvas, text="?Test OUTPUT", command=self.textOutputData)
         self.btnViewTusrismoiMacthStatus = Button(self.canvas, text="?Turismoi Macth Status", command=self.viewWindowStateTurismoiMacth)
@@ -57,6 +61,8 @@ class Sofware:
 
         self.btnAddGeoLATLONViaNetacticaDB.place(x=300, y=40)
         self.btnMacthViaTravelCName.place(x=300, y=70)
+
+        self.btnManualSearch.place(x=340, y=10)
 
         self.btnTestRndOutput.place(x=600, y=10)
         self.btnViewTusrismoiMacthStatus.place(x=600, y=40)
@@ -84,6 +90,103 @@ class Sofware:
         if self.controller.isTheDataLoad():
             self.controller.saveData()
         self.refreshConsole()
+
+    def macthManual(self):
+        if self.controller.isTheDataLoad():
+            text = "Hola"
+            t = Toplevel()
+            t.geometry("640x480")
+            t.title("Manual Serach")
+            canvas = Canvas(t, width=640, height=480, bg="snow")
+            textArea = Text(canvas, width=76, height=12)
+            canvas.place(x=0, y=0)
+            lblBarner = Label(canvas, text="TravelComp: ")
+            lblBarner.place(x=10, y=20)
+            lblOUTtravelCId = Label(canvas, text="ISO:NAME_COUNTRY")
+            lblOUTtravelCId.place(x=120, y=20)
+            txtTravelCId = Entry(canvas, width=12)
+            txtTravelCId.place(x=290, y=18)
+            
+            lblOUTTurismoi = Label(canvas, text="ISO:NAME_COUNTRY")
+            lblOUTTurismoi.place(x=120, y=60)
+            lblTxtTurismoiID = Label(canvas, text="Turismoi ID: ")
+            lblTxtTurismoiID.place(x=10, y=60)
+            txtTurismoiID = Entry(canvas, width=12)
+            txtTurismoiID.place(x=290, y=58)
+            textArea.place(x=10, y=220)
+            textArea.delete('1.0', END)
+            textArea.insert(END, text)
+
+            btnSerachTravelCId = Button(canvas, text="Search!", command=lambda:self._getTravelCID(txtTravelCId.get(), textArea))
+            btnSerachTravelCId.place(x=400, y=18)
+            btnSetTargetTravelC = Button(canvas, text="SET", command=lambda:self.setTargeTravelCToManualMacth(txtTravelCId.get(),lblOUTtravelCId))
+            btnSetTargetTravelC.place(x=500, y=18)
+            btnSerachTurismoiID = Button(canvas, text="Search!", command=lambda:self._getTurismoiID(txtTurismoiID.get(), textArea))
+            btnSerachTurismoiID.place(x=400, y=60)
+            btnSetTargetTurismoi = Button(canvas, text="SET", command=lambda:self.setTargetTurismoiToManualMacth(txtTurismoiID.get(), lblOUTTurismoi))
+            btnSetTargetTurismoi.place(x=500, y=60)
+
+            btnSAVEMacth = Button(canvas, text="SAVE", bg="green", command=lambda:self._asociateManualMacth(lblOUTTurismoi['text'],lblOUTtravelCId['text']))
+            btnSAVEMacth.place(x=100, y=100)
+            
+
+    def _getTravelCID(self, id, textArea):
+        """
+        id = iso:cityname or iso
+        textArea  = To utput the message
+        """
+        
+        if len(str(id)) == 3:
+            data = self.controller.getAllCitiesWithNoMacthInTravelCWithIsoCode(str(id).replace(':','').lower())
+            txt = ""
+            for i in data:
+                txt = txt + i + "\n"
+            textArea.delete('1.0', END)
+            textArea.insert(END, txt)
+        else:
+            data = self.controller.getLikeCitiesWithCodeInTravelC(str(id).lower())
+            txt = ""
+            for i in data:
+                txt = txt + i + "\n"
+            textArea.delete('1.0', END)
+            textArea.insert(END, txt)
+
+
+    def _getTurismoiID(self, id, textArea):
+        """
+        id = iso:cityname or iso
+        textArea  = To utput the message
+        """
+        
+        if len(str(id)) == 3:
+            data = self.controller.getAllCitiesWithNoMacthInTurismoiWithIsoCode(str(id).replace(':','').lower())
+            txt = ""
+            for i in data:
+                txt = txt + i + "\n"
+            textArea.delete('1.0', END)
+            textArea.insert(END, txt)
+        else:
+            data = self.controller.getLikeCitiesWithCodeInTurismoi(str(id).lower())
+            txt = ""
+            for i in data:
+                txt = txt + i + "\n"
+            textArea.delete('1.0', END)
+            textArea.insert(END, txt)    
+
+    def setTargetTurismoiToManualMacth(self,txt,lblOUT):
+        """
+        txt = iso+:+city_name
+        setIN lbl
+        """    
+        if self.controller.existsTurismoiKey(txt):
+            lblOUT['text'] = txt
+
+    def setTargeTravelCToManualMacth(self,txt,lblOUT):
+        if self.controller.existsTravelCKey(txt):
+            lblOUT['text'] = txt
+
+    def _asociateManualMacth(self, regA, regB):
+        self.controller.saveManualReg(regA, regB)
 
     def textOutputData(self):
         if self.controller.theOutPutIsCretate():

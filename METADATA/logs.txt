@@ -1,7 +1,3 @@
 Lading information.... Turismoi
 Lading information.... TravelCompositor
 Lading LAT N LON info via.... Netactica
-Macht DATA via TravelCompositor via Name....
-Total Macth:701
-No Macth:10962
-
