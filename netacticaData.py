@@ -5,9 +5,6 @@ This archive contain several information
 
 """
 
-from itertools import count
-
-
 class NetacticaData:
     def __init__(self) -> None:
         self.data = {}

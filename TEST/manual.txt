@@ -1,0 +1,3 @@
+turismoi_key|travelC_key
+co:cartagena|co:cartagena de indias
+co:bogota d c|co:bogota

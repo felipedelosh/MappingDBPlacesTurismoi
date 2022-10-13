@@ -14,8 +14,6 @@ Note= view Logs and use tools
 
 
 """
-from cProfile import label
-from time import pthread_getcpuclockid
 from tkinter import *
 from controller import *
 

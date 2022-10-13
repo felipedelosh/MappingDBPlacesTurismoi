@@ -1,7 +1,6 @@
 """
 FelipedelosH
 """
-from http.client import FOUND
 from turismoiData import *
 from travelCompositorData import *
 from netacticaData import *
