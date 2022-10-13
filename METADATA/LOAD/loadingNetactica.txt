@@ -1,2 +1,2 @@
-Total_Reg_Inserted >> 155392
+Total_Reg_Inserted >> 155388
 Counter_err >> 0

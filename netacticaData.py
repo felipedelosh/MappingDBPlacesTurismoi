@@ -19,7 +19,9 @@ class NetacticaData:
         for i in txt.split("\n")[1:-1]:
             data = i.split("|")
             iso_code = data[1].strip().lower()
-            city_name = data[2].lower().lstrip().rstrip().replace('-', ' ')
+            city_name = data[2].lower().lstrip().rstrip()
+            city_name = city_name.replace('-', ' ')
+            city_name = city_name.replace('\'', '')
 
             key = iso_code + ":" + city_name
 
@@ -150,7 +152,7 @@ class NetacticaData:
 
 
     def _eraseLowerAllNumbersOfString(self, txt):
-        for i in ['0','1','2','3','4','5','6','7','8','9','-','á','é','í','ó','ú','ñ','n',',','(provincia)','(',')','\'','.','_']:
+        for i in ['0','1','2','3','4','5','6','7','8','9','-','á','é','í','ó','ú','ñ','ä','ë','ï','ö','ü','n',',','(provincia)','(',')','\'','.','_']:
             txt = txt.replace(i, '')
         return txt.strip().lower()
 

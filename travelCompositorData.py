@@ -24,13 +24,17 @@ class TravelCompositorData:
                 count = count + 1
             else:
                 id_country = data[-1]
-                NAME_country = id_country.split("(")[0]
+                NAME_country = str(id_country).split("(")[0]
                 NAME_country = NAME_country.lstrip().rstrip()
-                iso_country = id_country.split("(")[-1]
+                iso_country = str(id_country).split("(")[-1]
                 iso_country = iso_country.replace(')', '')
                 iso_country = iso_country.strip().lower()
 
-                name_city = str(data[1]).lstrip().rstrip().lower().replace('-', ' ')
+                name_city = str(data[1]).lstrip().rstrip().lower()
+                name_city = name_city.replace('-', ' ')
+                name_city = name_city.replace(',', '')
+                name_city = name_city.replace('\'', '')
+                name_city = name_city.replace("(state)", '')
 
                 key = iso_country + ":" + name_city
 

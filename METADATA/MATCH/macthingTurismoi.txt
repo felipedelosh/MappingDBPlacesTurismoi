@@ -43,7 +43,7 @@
 42 >> Found via Key pe:cajamarca
 43 >> Found via Key cl:calama
 44 >> Found via Key co:cali
-45 >> Found via name_place cu:camaguey >> cu:camagüey
+45 >> Found via short_name_place cu:camaguey >> cu:camagüey
 46 >> Found via short_name_place ar:cordoba >> ar:córdoba
 47 >> Found via Key es:ciudad real
 48 >> Found via Key co:cucuta
@@ -576,7 +576,7 @@
 575 >> Found via Key bo:puerto quijarro
 576 >> Found via Key ec:puerto villamil
 577 >> Found via Key gt:retalhuleu
-578 >> Found via short_name_place pa:rio hato >> pa:río hato-36
+578 >> Found via short_name_place pa:rio hato >> pa:río hato-37
 579 >> Found via Key uy:rivera
 580 >> Found via Key gt:san marcos la laguna
 581 >> Found via Key uy:salto
@@ -646,7 +646,7 @@
 645 >> Found via Key co:sucre
 646 >> Found via Key do:las salinas
 647 >> Found via Key co:san luis
-648 >> Found via short_name_place ec:santa elena >> ec:santa elena-55
+648 >> Found via short_name_place ec:santa elena >> ec:santa elena-56
 649 >> Found via Key co:sasaima
 650 >> Found via short_name_place ar:olavarria >> ar:olavarría
 651 >> Found via Key bo:tahua

@@ -22,7 +22,3 @@ mx:ciudad lazaro cardenas|mx:lazaro cardenas
 mx:culiacan rosales|mx:culiacan
 mx:san luis potosi|mx:san luis de potosi
 mx:tuxtla gutierrez|mx:tuxtla guiterrez
-do:boca chica 25357|do:boca chica dominicana
-do:santiago de los caballeros|do:santiago de los caballeros dominicana
-do:sosua|do:sosúa dominicana
-do:higuey|do:higüey
