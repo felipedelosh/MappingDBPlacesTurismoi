@@ -36,6 +36,12 @@ class Controller:
             self.saveMetadata("LOAD/loadingNetactica.txt", self.netacticaData.metadata)
             self.appendTextInConsoleText("Lading LAT N LON info via.... Netactica:"+str(len(self.netacticaData.data)))
 
+            manualMacth = self.rtnArcheveInfo("TEST/manual.txt")
+            if manualMacth != None:
+                self.appendTextInConsoleText("Cargando macheos manuales: "+str(len(manualMacth.split("\n"))))
+                self.turismoiData.setManualMacth(manualMacth)
+            else:
+                self.appendTextInConsoleText("No hay macheos manuales :o")
 
             self.saveLogs()
         except:
@@ -70,6 +76,8 @@ class Controller:
 
     def machingDataViaTravelCName(self):
         try:
+
+
             # Search a travel compositor places in turismoi Via Names
             for i in self.travelCData.macthControl:
                 status = self.turismoiData.seachPlaceViaISOName(i, self.travelCData.getAllInfo(i), ";", [1])
@@ -280,6 +288,7 @@ class Controller:
 
 
     def getMacthStatus(self, key):
+        
         return self.turismoiData.getmachingDataKeys(key)
 
 
