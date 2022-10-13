@@ -30,7 +30,7 @@ class TravelCompositorData:
                 iso_country = iso_country.replace(')', '')
                 iso_country = iso_country.strip().lower()
 
-                name_city = str(data[1]).lstrip().rstrip().lower()
+                name_city = str(data[1]).lstrip().rstrip().lower().replace('-', ' ')
 
                 key = iso_country + ":" + name_city
 

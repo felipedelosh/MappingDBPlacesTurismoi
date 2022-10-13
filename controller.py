@@ -24,18 +24,18 @@ class Controller:
             dataTurismoi = self.rtnArcheveInfo("DATA/destinos_turismoi.csv")
             self.turismoiData.chargeData(dataTurismoi)
             self.saveMetadata("LOAD/loadingTurismoi.txt", self.turismoiData.metadata)
-            self.appendTextInConsoleText("Lading information.... Turismoi")
+            self.appendTextInConsoleText("Lading information.... Turismoi:"+str(len(self.turismoiData.data)))
 
             dataTravelCompositor = self.rtnArcheveInfo("DATA/destinos_travel_compositor.csv")
             self.travelCData.chargeData(dataTravelCompositor)
             self.saveMetadata("LOAD/loadingTravelCompositor.txt", self.travelCData.metadata)
-            self.appendTextInConsoleText("Lading information.... TravelCompositor")
+            self.appendTextInConsoleText("Lading information.... TravelCompositor:"+str(len(self.travelCData.data)))
 
             #This file contain a several places with lat and lon
             dataNetactica = self.rtnArcheveInfo("RESORCES/all_cities_with_lat_and_lon.csv")
             self.netacticaData.chargeData(dataNetactica)
             self.saveMetadata("LOAD/loadingNetactica.txt", self.netacticaData.metadata)
-            self.appendTextInConsoleText("Lading LAT N LON info via.... Netactica")
+            self.appendTextInConsoleText("Lading LAT N LON info via.... Netactica:"+str(len(self.netacticaData.data)))
 
 
             self.saveLogs()
@@ -303,18 +303,20 @@ class Controller:
 
     def saveManualReg(self, regA, regB):
         try:
-            if regA in self.travelCData.data.keys() and self.travelCData.data.keys():
+            if regA in self.turismoiData.data.keys() and self.travelCData.data.keys():
                 data = ""
                 try:
                     f = open("TEST/manual.txt", 'r', encoding="UTF-8")
                     data = f.read()
                     f.close()
                 except:
-                    pass
-                data = data + regA + "|" + regB + "\n"
+                    data = "turismoi_key|travelC_key\n"
+                data =  data + regA + "|" + regB + "\n"
                 g = open("TEST/manual.txt", 'w', encoding="UTF-8")
                 g.write(data)
                 g.close()
+            else:
+                print("Error Asociando: ", regA, ":", regB)
         except:
             print("Error insertando nuevo registro: ", str(regA), ":", str(regB))
 

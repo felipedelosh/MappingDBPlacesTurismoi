@@ -25,7 +25,7 @@ class TurismoiDATA:
             data = i.split("|")
             iso_country = str(data[1]).lower().strip()
             name_city = str(data[11])
-            key = iso_country + ":" + name_city.lower().lstrip().rstrip()
+            key = iso_country + ":" + name_city.lower().lstrip().rstrip().replace('-', ' ')
             
             name_country = data[2]
             

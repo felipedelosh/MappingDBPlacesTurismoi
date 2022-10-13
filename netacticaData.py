@@ -22,7 +22,7 @@ class NetacticaData:
         for i in txt.split("\n")[1:-1]:
             data = i.split("|")
             iso_code = data[1].strip().lower()
-            city_name = data[2].lower().lstrip().rstrip()
+            city_name = data[2].lower().lstrip().rstrip().replace('-', ' ')
 
             key = iso_code + ":" + city_name
 
