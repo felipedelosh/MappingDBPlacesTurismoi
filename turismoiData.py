@@ -11,6 +11,7 @@ class TurismoiDATA:
         self.control_countries_cities_create = {} # [country] = [[city:name="data.key"]]
         self.machingDataKeys = {} # TusimoiKEY = OtherKey >> Example [co:bogota] = "COLOMBIA:Bog"
         self.manualMachingDataKeys = {} # from the file TEST/manual.txt TusimoiKEY = OtherKey >> Example [co:bogota] = "COLOMBIA:Bog"
+        self._adan_argentina = {}
         self.country_iso_name = {} # [iso] = name_country
         self.country_name_iso = {} # [name_country] = iso
         self.city_macth_controller = {} # [iso:city_name] = [MacthID, status] >> Example1   [Colombia][Bogota] = ["co:bogota", "co:bogota", "Status0"] 
@@ -29,6 +30,9 @@ class TurismoiDATA:
             key = iso_country + ":" + name_city.lower().lstrip().rstrip().replace('-', ' ')
             
             name_country = data[2]
+
+            if iso_country == "ar":
+                self._adan_argentina[key] = i
             
             # Save all iso_country = "name country"
             if iso_country not in self.country_iso_name.keys():

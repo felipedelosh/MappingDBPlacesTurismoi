@@ -10,6 +10,7 @@ class NetacticaData:
         self.data = {}
         self.isTheDataLoad = False
         self.macthingTurismoi = {}
+        self._adan_argentina = {}
         self.metadata = {}
         self.metadataGEO = {}
         self.count = 0
@@ -25,6 +26,9 @@ class NetacticaData:
             city_name = city_name.replace('\'', '')
 
             key = iso_code + ":" + city_name
+
+            if iso_code == "ar":
+                self._adan_argentina[key] = i
 
             if key in self.data.keys():
                 key = key + "-" + str(duplicated_control)

@@ -56,6 +56,7 @@ class Controller:
         And save a report
         """
         try:
+            """
             count_netactica_macth = 0
             count_not_netactica_mach = 0
             count_modify_regs = 0
@@ -83,7 +84,37 @@ class Controller:
                     count_not_modify_regs = count_not_modify_regs + 1
                     info = info + "no MACTH TT|"
                 
-                self.netacticaData.macthingTurismoi[i] =  info
+                self.netacticaData.macthingTurismoi[i] =  info           
+            """
+            count_netactica_macth = 0
+            count_not_netactica_mach = 0
+            count_modify_regs = 0
+            count_not_modify_regs = 0
+            order_turismoi_keys = sorted(self.turismoiData.data.keys())
+            order_turismoi_keys = sorted(self.turismoiData._adan_argentina.keys())
+            for i in order_turismoi_keys:
+                data = i.split(":")
+                iso_code = data[0]
+                name_city = data[1]
+                geoDATA = self.turismoiData.getGeoLatLon(i) # Get turismoi lat long
+                result = self.netacticaData.searchPlace(iso_code, name_city, self.turismoiData.data[i], "|", [9,10,11]) # get Macth lat long
+
+                info =  "|" + str(iso_code).upper() + "|" + name_city + "|"
+                if result != "NULL|NULL":
+                    count_netactica_macth = count_netactica_macth + 1
+                    info = info + "ok MACTH TT|"
+                    if geoDATA == "NULL|NULL":
+                        self.turismoiData.setGeoLatLon(i, result)
+                        count_modify_regs = count_modify_regs + 1
+                    else:
+                        count_not_modify_regs = count_not_modify_regs + 1
+                else:
+                    count_not_netactica_mach = count_not_netactica_mach + 1
+                    count_not_modify_regs = count_not_modify_regs + 1
+                    info = info + "no MACTH TT|"
+                
+                self.netacticaData.macthingTurismoi[i] =  info   
+
 
             
 
