@@ -26,3 +26,12 @@ do:boca chica 25357|do:boca chica dominicana
 do:santiago de los caballeros|do:santiago de los caballeros dominicana
 do:sosua|do:sosúa dominicana
 do:higuey|do:higüey
+do:rio san juan|do:río san juan dominican republic
+do:san jose de ocoa|do:palmar de ocoa
+cu:la habana|cu:havana cuba
+cu:baracoa|cu:baracoa cuba
+cu:cienfuegos|cu:cienfuegos cuba
+cu:vinales|cu:viñales cuba
+cu:moron 25465|cu:moron
+cu:matanzas|cu:matanzas cuba
+pe:cusco|pe:cuzco/cusco

@@ -1,0 +1,68 @@
+Maching de paises Turismoi vs Travel Compositor:
+ARGENTINA >> Macth in travel compositor
+Total cities in Turismoi.ARGENTINA: 170
+Total cities in TravelCompositor.Argentina: 128
+
+BELIZE >> Macth in travel compositor
+Total cities in Turismoi.BELIZE: 122
+Total cities in TravelCompositor.Belize: 6
+
+SOUTH AFRICA >> Macth in travel compositor
+Total cities in Turismoi.SOUTH AFRICA: 2
+Total cities in TravelCompositor.South Africa: 155
+
+MEXICO >> Macth in travel compositor
+Total cities in Turismoi.MEXICO: 680
+Total cities in TravelCompositor.Mexico: 341
+
+PANAMA >> Macth in travel compositor
+Total cities in Turismoi.PANAMA: 542
+Total cities in TravelCompositor.Panama: 26
+
+COLOMBIA >> Macth in travel compositor
+Total cities in Turismoi.COLOMBIA: 1045
+Total cities in TravelCompositor.Colombia: 135
+
+ECUADOR >> Macth in travel compositor
+Total cities in Turismoi.ECUADOR: 164
+Total cities in TravelCompositor.Ecuador: 84
+
+SPAIN >> Macth in travel compositor
+Total cities in Turismoi.SPAIN: 142
+Total cities in TravelCompositor.Spain: 1124
+
+PERU >> Macth in travel compositor
+Total cities in Turismoi.PERU: 206
+Total cities in TravelCompositor.Peru: 47
+
+CHILE >> Macth in travel compositor
+Total cities in Turismoi.CHILE: 241
+Total cities in TravelCompositor.Chile: 45
+
+BOLIVIA >> Macth in travel compositor
+Total cities in Turismoi.BOLIVIA: 331
+Total cities in TravelCompositor.Bolivia: 39
+
+COSTA RICA >> Macth in travel compositor
+Total cities in Turismoi.COSTA RICA: 86
+Total cities in TravelCompositor.Costa Rica: 52
+
+CUBA >> Macth in travel compositor
+Total cities in Turismoi.CUBA: 168
+Total cities in TravelCompositor.Cuba: 29
+
+DOMINICAN REPUBLIC >> Macth in travel compositor
+Total cities in Turismoi.DOMINICAN REPUBLIC: 156
+Total cities in TravelCompositor.Dominican Republic: 26
+
+GUATEMALA >> Macth in travel compositor
+Total cities in Turismoi.GUATEMALA: 337
+Total cities in TravelCompositor.Guatemala: 31
+
+PARAGUAY >> Macth in travel compositor
+Total cities in Turismoi.PARAGUAY: 255
+Total cities in TravelCompositor.Paraguay: 6
+
+URUGUAY >> Macth in travel compositor
+Total cities in Turismoi.URUGUAY: 72
+Total cities in TravelCompositor.Uruguay: 20

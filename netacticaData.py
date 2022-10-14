@@ -9,6 +9,7 @@ class NetacticaData:
     def __init__(self) -> None:
         self.data = {}
         self.isTheDataLoad = False
+        self.macthingTurismoi = {}
         self.metadata = {}
         self.metadataGEO = {}
         self.count = 0
@@ -88,13 +89,13 @@ class NetacticaData:
         1 -> Search via id
         2 -> Seach Sequencial // Brute force
         
-
         """
         data = "NULL|NULL"
         found = False
         # First search via key
         key = iso_code+":"+city_name
         if key in self.data.keys():
+            found = True
             self.metadataGEO[str(self.count)] = " >> Macth via id " + str(key)
             self.count = self.count + 1
             data = self.getLatLonViaID(key)
@@ -152,9 +153,16 @@ class NetacticaData:
 
 
     def _eraseLowerAllNumbersOfString(self, txt):
-        for i in ['0','1','2','3','4','5','6','7','8','9','-','á','é','í','ó','ú','ñ','ä','ë','ï','ö','ü','n',',','(provincia)','(',')','\'','.','_']:
+        txt = txt.lower()
+        # Delete stranger characters
+        for i in ['0','1','2','3','4','5','6','7','8','9','-',',','(provincia)','(',')','\'','.','_']:
             txt = txt.replace(i, '')
-        return txt.strip().lower()
+        # Replace
+        dataReplace = [('á','a'),('é','e'),('í','i'),('ó','o'),('ú','u'),('ä','a'),('ë','e'),('ï','i'),('ö','o'),('ü','u'),('ñ','n')]
+        for i in dataReplace:
+            txt = txt.replace(i[0], i[1])
+        
+        return txt.strip()
 
 
 

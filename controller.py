@@ -49,27 +49,54 @@ class Controller:
             self.saveLogs()
 
     def addGeolatLonViaNetactica(self):
+        """
+        Macth via turismoi.names and netactica.names
+        if someName == someName 
+        the LAT LONG is update
+        And save a report
+        """
         try:
-            count = 0
+            count_netactica_macth = 0
+            count_not_netactica_mach = 0
+            count_modify_regs = 0
+            count_not_modify_regs = 0
+
             for i in self.turismoiData.data:
-                geoDATA = self.turismoiData.getGeoLatLon(i)
-                if geoDATA == "NULL|NULL":
-                    data = i.split(":")
-                    iso_code = data[0]
-                    name_city = data[1]
-                    
-                    result = self.netacticaData.searchPlace(iso_code, name_city, self.turismoiData.data[i], "|", [9,10,11])
-                    
-                    if result != "NULL|NULL":
+                
+                data = i.split(":")
+                iso_code = data[0]
+                name_city = data[1]
+                geoDATA = self.turismoiData.getGeoLatLon(i) # Get turismoi lat long
+                result = self.netacticaData.searchPlace(iso_code, name_city, self.turismoiData.data[i], "|", [9,10,11]) # get Macth lat long
+
+                info =  "|" + str(iso_code).upper() + "|" + name_city + "|"
+                if result != "NULL|NULL":
+                    count_netactica_macth = count_netactica_macth + 1
+                    info = info + "ok MACTH TT|"
+                    if geoDATA == "NULL|NULL":
                         self.turismoiData.setGeoLatLon(i, result)
-                        count = count + 1
+                        count_modify_regs = count_modify_regs + 1
+                    else:
+                        count_not_modify_regs = count_not_modify_regs + 1
+                else:
+                    count_not_netactica_mach = count_not_netactica_mach + 1
+                    count_not_modify_regs = count_not_modify_regs + 1
+                    info = info + "no MACTH TT|"
+                
+                self.netacticaData.macthingTurismoi[i] =  info
 
-                    
+            
 
-            self.appendTextInConsoleText("Adding GEO LAT LON via netactica....\nTotal GEO ADD: "+str(count))
-            self.saveLogs()
+            txtoutp = "Adding GEO data via Netactica\n"
+            txtoutp = txtoutp + "Total reg MACTH: " + str(count_netactica_macth) + "\n"
+            txtoutp = txtoutp + "Toral reg NOT MACTH: " + str(count_not_netactica_mach) + "\n"
+            txtoutp = txtoutp + "Total reg Modify: " + str(count_modify_regs) + "\n"
+            txtoutp = txtoutp + "Total reg not Modify: " + str(count_not_modify_regs) + "\n"
+            self.appendTextInConsoleText(txtoutp)
+            self.saveMetadata("MATCH/turimoi.join.netactica.csv", self.netacticaData.macthingTurismoi)
             self.saveMetadata("GEO/statusTruismoiNetacticaGEOLATLON.txt", self.netacticaData.metadataGEO)
-            self.saveMetadata("GEO/addTurismoiViaNectactica.txt", self.turismoiData.metadataGeo)
+            self.saveMetadata("GEO/addTurismoiViaNectactica.txt", self.turismoiData.metadataGeo)   
+            self.saveLogs()
         except:
             self.appendTextInConsoleText("Error to ADD LAT LON via netactica....")
             self.saveLogs()
@@ -121,6 +148,10 @@ class Controller:
             for i in self.turismoiData.machingDataKeys:
                 data = data + self.turismoiData.getReportInfo(i) + "|" + self.travelCData.getReportInfo(self.turismoiData.machingDataKeys[i]) + "\n"
             
+            for i in self.turismoiData.manualMachingDataKeys:
+                data = data + self.turismoiData.getReportInfo(i) + "|" + self.travelCData.getReportInfo(self.turismoiData.manualMachingDataKeys[i]) + "\n"
+
+
             f = open("OUTPUT/informe_full_headers.csv", "w", encoding="UTF-8")
             f.write(data)
             f.close()

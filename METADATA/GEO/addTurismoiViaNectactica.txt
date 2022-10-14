@@ -229,7 +229,7 @@
 228 >> Modify lat lon to mx:ciudad altamirano >> 18.357815|-100.668625
 229 >> Modify lat lon to mx:tepecoacuilco de trujano >> 18.291924|-99.455154
 230 >> Modify lat lon to mx:zihuatanejo >> 17.643211|-101.55699
-231 >> Modify lat lon to mx:actopan >> 19.59997|-96.49817
+231 >> Modify lat lon to mx:actopan >> 20.275148|-98.94287
 232 >> Modify lat lon to mx:huejutla de reyes >> 21.127245|-98.451675
 233 >> Modify lat lon to mx:ixmiquilpan >> 20.52299|-99.20839
 234 >> Modify lat lon to mx:tula de allende >> 20.055357|-99.344086
@@ -403,189 +403,189 @@
 402 >> Modify lat lon to mx:alvarado >> 18.798668|-95.84922
 403 >> Modify lat lon to mx:atoyac >> 19.996437|-103.47047
 404 >> Modify lat lon to mx:banderilla >> 19.586786|-96.94294
-405 >> Modify lat lon to mx:carlos a carrillo >> 18.326778|-95.71865
-406 >> Modify lat lon to mx:catemaco >> 18.491076|-95.05555
-407 >> Modify lat lon to mx:coatepec >> 19.462683|-96.955246
-408 >> Modify lat lon to mx:coatzacoalcos >> 18.13256|-94.39736
-409 >> Modify lat lon to mx:coatzintla >> 20.428892|-97.464355
-410 >> Modify lat lon to mx:cordoba >> 18.8942|-96.93511
-411 >> Modify lat lon to mx:fortin de las flores >> 18.906153|-97.0008
-412 >> Modify lat lon to mx:gutierrez zamora >> 20.439676|-97.09778
-413 >> Modify lat lon to mx:jose cardel >> 19.365826|-96.35346
-414 >> Modify lat lon to mx:lerdo de tejada >> 18.656588|-95.50059
-415 >> Modify lat lon to mx:minatitlan >> 19.372025|-104.03108
-416 >> Modify lat lon to mx:nogales >> 31.317806|-110.94683
-417 >> Modify lat lon to mx:orizaba >> 18.849121|-97.105225
-418 >> Modify lat lon to mx:papantla de olarte >> 20.413773|-97.28407
-419 >> Modify lat lon to mx:rio blanco >> 18.844498|-97.150925
-420 >> Modify lat lon to mx:san andres tuxtla >> 18.426804|-95.205124
-421 >> Modify lat lon to mx:san rafael >> 19.437923|-99.16233
-422 >> Modify lat lon to mx:santiago tuxtla >> 18.399319|-95.399826
-423 >> Modify lat lon to mx:tantoyuca >> 21.388971|-98.17125
-424 >> Modify lat lon to mx:tlapacoyan >> 19.945335|-97.12354
-425 >> Modify lat lon to mx:veracruz >> 19.193975|-96.13552
-426 >> Modify lat lon to mx:merida >> 20.966888|-89.623375
-427 >> Modify lat lon to mx:ticul >> 20.360388|-89.56129
-428 >> Modify lat lon to mx:tizimin >> 21.130892|-88.152885
-429 >> Modify lat lon to mx:valladolid >> 20.638388|-88.10842
-430 >> Modify lat lon to mx:ciudad cuauhtemoc >> 15.664706|-92.001076
-431 >> Modify lat lon to mx:fresnillo >> 23.174759|-102.86789
-432 >> Modify lat lon to mx:jalpa >> 20.872309|-101.986946
-433 >> Modify lat lon to mx:jerez de garcia salinas >> 22.683578|-103.051414
-434 >> Modify lat lon to mx:ojocaliente >> 21.876587|-102.65528
-435 >> Modify lat lon to mx:rio grande >> 16.001467|-97.45008
-436 >> Modify lat lon to mx:sombrerete >> 23.621231|-103.63561
-437 >> Modify lat lon to mx:villanueva >> 22.298306|-102.85153
-438 >> Modify lat lon to mx:zacatecas >> 22.774755|-102.57299
-439 >> Modify lat lon to mx:aculco >> 19.373745|-99.1043
-440 >> Modify lat lon to mx:valle de bravo >> 19.17777|-100.121956
-441 >> Modify lat lon to mx:tequisquiapan >> 20.551172|-99.95256
-442 >> Modify lat lon to mx:tequesquitengo >> 18.604275|-99.25598
-443 >> Modify lat lon to mx:malinalco >> 18.881918|-99.48564
-444 >> Modify lat lon to mx:tepoztlan >> 18.98552|-99.10045
-445 >> Modify lat lon to mx:puerto escondido >> 15.902024|-97.03848
-446 >> Modify lat lon to mx:tolantongo >> 20.639347|-98.98826
-447 >> Modify lat lon to mx:el fuerte >> 26.408466|-108.62523
-448 >> Modify lat lon to mx:san carlos >> 21.0667|-101.55
-449 >> Modify lat lon to mx:xilitla >> 21.386644|-98.9812
-450 >> Modify lat lon to mx:tulum >> 20.210398|-87.46582
-451 >> Modify lat lon to mx:holbox >> 21.544477|-87.19335
-452 >> Modify lat lon to mx:creel >> 27.753008|-107.63434
-453 >> Modify lat lon to mx:mapimi >> 26.145967|-104.131325
-454 >> Modify lat lon to mx:san juan chamula >> 16.786787|-92.68853
-455 >> Modify lat lon to mx:tlacotalpan >> 18.533705|-95.622986
-456 >> Modify lat lon to mx:jalcomulco >> 19.33953|-96.7558
-457 >> Modify lat lon to mx:chichen itza >> 20.67322|-88.559326
-458 >> Modify lat lon to mx:coba >> 20.547388|-87.684235
-459 >> Modify lat lon to mx:mahahual >> 18.715727|-87.707855
-460 >> Modify lat lon to mx:progreso >> 21.772732|-89.671074
-461 >> Modify lat lon to mx:xcalak >> 18.3396|-87.85109
-462 >> Modify lat lon to mx:xpu ha >> 20.481174|-87.257706
-463 >> Modify lat lon to mx:talpa de allende 53290a00 3fdd 452b a1ad 885b9846df33 >> 20.299444|-104.95348
-464 >> Modify lat lon to mx:sayulita >> 20.856325|-105.43668
-465 >> Modify lat lon to mx:cocoyoc >> 18.884525|-98.98253
-466 >> Modify lat lon to mx:nuevo vallarta >> 20.693174|-105.29485
-467 >> Modify lat lon to mx:puerto aventuras >> 20.506016|-87.22947
-468 >> Modify lat lon to pa:almirante >> 9.304587|-82.4122
-469 >> Modify lat lon to pa:bocas del toro >> 9.339858|-82.24077
-470 >> Modify lat lon to pa:punta laurel >> 9.186574|-82.125984
-471 >> Modify lat lon to pa:changuinola >> 9.459883|-82.50938
-472 >> Modify lat lon to pa:las delicias >> 9.41146|-82.854485
-473 >> Modify lat lon to pa:las tablas >> 7.785878|-80.2334
-474 >> Modify lat lon to pa:miramar >> 9.575097|-79.33312
-475 >> Modify lat lon to pa:guarumal >> 8.337683|-82.54165
-476 >> Modify lat lon to pa:palo grande >> 8.343061|-82.58533
-477 >> Modify lat lon to pa:limones >> 8.07928|-82.8734
-478 >> Modify lat lon to pa:puerto armuelles >> 8.276859|-82.91
-479 >> Modify lat lon to pa:boqueron >> 8.625609|-82.57503
-480 >> Modify lat lon to pa:paraiso 24257 >> 9.044122|-79.636
-481 >> Modify lat lon to pa:alto boquete >> 8.67407|-82.423515
-482 >> Modify lat lon to pa:caldera >> 8.707439|-82.346725
-483 >> Modify lat lon to pa:jaramillo >> 8.769186|-82.38136
-484 >> Modify lat lon to pa:los naranjos >> 8.809898|-82.45423
-485 >> Modify lat lon to pa:santo domingo 24275 >> 7.745094|-80.21634
-486 >> Modify lat lon to pa:chiriqui >> 8.364551|-82.29328
-487 >> Modify lat lon to pa:san carlos 24285 >> 8.495808|-80.00655
-488 >> Modify lat lon to pa:david >> 8.407179|-82.42865
-489 >> Modify lat lon to pa:dolega >> 8.574134|-82.426544
-490 >> Modify lat lon to pa:los algarrobos >> 8.524347|-82.43281
-491 >> Modify lat lon to pa:los anastacios >> 8.532729|-82.41473
-492 >> Modify lat lon to pa:el porvenir >> 9.556455|-78.9475
-493 >> Modify lat lon to pa:santa clara >> 9.065531|-79.724335
-494 >> Modify lat lon to pa:las lajas >> 8.542154|-79.91118
-495 >> Modify lat lon to pa:boca chica >> 8.16615|-82.24805
-496 >> Modify lat lon to pa:horconcitos >> 8.306953|-82.169334
-497 >> Modify lat lon to pa:volcan >> 8.734522|-82.66493
-498 >> Modify lat lon to pa:cerro punta >> 8.870676|-82.58269
-499 >> Modify lat lon to pa:paso ancho >> 8.823104|-82.60253
-500 >> Modify lat lon to pa:tole >> 8.223258|-81.70586
-501 >> Modify lat lon to pa:aguadulce >> 8.403906|-80.0567
-502 >> Modify lat lon to pa:el roble >> 8.165688|-80.63471
-503 >> Modify lat lon to pa:anton >> 8.398951|-80.26851
-504 >> Modify lat lon to pa:cabuya >> 9.1|-79.3667
-505 >> Modify lat lon to pa:el chiru >> 8.365658|-80.2179
-506 >> Modify lat lon to pa:juan diaz >> 9.032463|-79.43581
-507 >> Modify lat lon to pa:rio hato >> 8.417179|-80.11536
-508 >> Modify lat lon to pa:nata >> 8.309223|-80.47506
-509 >> Modify lat lon to pa:el cope >> 8.647592|-80.58977
-510 >> Modify lat lon to pa:penonome >> 8.528634|-80.35872
-511 >> Modify lat lon to pa:cativa >> 9.36823|-79.83196
-512 >> Modify lat lon to pa:cristobal >> 9.352451|-79.90283
-513 >> Modify lat lon to pa:nuevo chagres >> 9.235526|-80.07964
-514 >> Modify lat lon to pa:isla grande >> 9.633708|-79.563934
-515 >> Modify lat lon to pa:maria chiquita >> 9.441298|-79.75489
-516 >> Modify lat lon to pa:portobelo >> 9.544981|-79.662315
-517 >> Modify lat lon to pa:miramar 24423 >> 9.575097|-79.33312
-518 >> Modify lat lon to pa:palenque >> 9.575954|-79.36643
-519 >> Modify lat lon to pa:santa isabel >> 9.532214|-79.16578
-520 >> Modify lat lon to pa:la palma >> 7.703573|-80.19503
-521 >> Modify lat lon to pa:santa fe 24458 >> 8.653509|-78.15315
-522 >> Modify lat lon to pa:chitre >> 7.952979|-80.43849
-523 >> Modify lat lon to pa:la arena >> 7.961905|-80.482285
-524 >> Modify lat lon to pa:chepo >> 9.164903|-79.097275
-525 >> Modify lat lon to pa:las minas >> 7.800017|-80.745476
-526 >> Modify lat lon to pa:la arena 24476 >> 7.961905|-80.482285
-527 >> Modify lat lon to pa:cabuya 24490 >> 9.1|-79.3667
-528 >> Modify lat lon to pa:pese >> 7.906941|-80.612816
-529 >> Modify lat lon to pa:guarare >> 7.816606|-80.28025
-530 >> Modify lat lon to pa:la palma 24531 >> 7.703573|-80.19503
-531 >> Modify lat lon to pa:san jose 24539 >> 8.535704|-79.9462
-532 >> Modify lat lon to pa:san miguel 24540 >> 8.450243|-78.956436
-533 >> Modify lat lon to pa:las tablas 24541 >> 7.785878|-80.2334
-534 >> Modify lat lon to pa:santo domingo 24542 >> 7.745094|-80.21634
-535 >> Modify lat lon to pa:la villa de los santos >> 7.934664|-80.41694
-536 >> Modify lat lon to pa:santa ana 24556 >> 8.956329|-79.541336
-537 >> Modify lat lon to pa:pedasi >> 7.528869|-80.04008
-538 >> Modify lat lon to pa:paraiso 24578 >> 9.044122|-79.636
-539 >> Modify lat lon to pa:cambutal >> 7.257506|-80.48119
-540 >> Modify lat lon to pa:canas 24583 >> 7.434608|-80.28479
-541 >> Modify lat lon to pa:san miguel 24598 >> 8.450243|-78.956436
-542 >> Modify lat lon to pa:chepo 24603 >> 9.164903|-79.097275
-543 >> Modify lat lon to pa:chilibre >> 9.162947|-79.617485
-544 >> Modify lat lon to pa:curundu >> 8.97831|-79.539474
-545 >> Modify lat lon to pa:el chorrillo >> 8.949369|-79.545685
-546 >> Modify lat lon to pa:juan diaz 24624 >> 9.032463|-79.43581
-547 >> Modify lat lon to pa:las cumbres >> 9.089773|-79.5537
-548 >> Modify lat lon to pa:parque lefevre >> 9.013321|-79.48546
-549 >> Modify lat lon to pa:pueblo nuevo >> 9.01179|-79.51373
-550 >> Modify lat lon to pa:rio abajo >> 9.023939|-79.49371
-551 >> Modify lat lon to pa:san francisco 24634 >> 8.992082|-79.50834
-552 >> Modify lat lon to pa:santa ana 24636 >> 8.956329|-79.541336
-553 >> Modify lat lon to pa:tocumen >> 9.078479|-79.38079
-554 >> Modify lat lon to pa:mateo iturralde >> 9.033828|-79.49625
-555 >> Modify lat lon to pa:taboga >> 8.789171|-79.55691
-556 >> Modify lat lon to pa:santa clara 24656 >> 9.065531|-79.724335
-557 >> Modify lat lon to pa:veracruz >> 8.892026|-79.62849
-558 >> Modify lat lon to pa:vista alegre >> 8.931604|-79.70013
-559 >> Modify lat lon to pa:bejuco >> 8.60419|-79.88675
-560 >> Modify lat lon to pa:cabuya 24674 >> 9.1|-79.3667
-561 >> Modify lat lon to pa:chame >> 8.581257|-79.88386
-562 >> Modify lat lon to pa:chica >> 8.656668|-79.94365
-563 >> Modify lat lon to pa:las lajas 24678 >> 8.542154|-79.91118
-564 >> Modify lat lon to pa:nueva gorgona >> 8.556546|-79.87664
-565 >> Modify lat lon to pa:punta chame >> 8.611535|-79.75797
-566 >> Modify lat lon to pa:puerto caimito >> 8.872634|-79.71623
-567 >> Modify lat lon to pa:el espino >> 8.486241|-80.01731
-568 >> Modify lat lon to pa:el higo >> 8.58333|-82.3833
-569 >> Modify lat lon to pa:la laguna >> 8.607979|-80.050026
-570 >> Modify lat lon to pa:las uvas >> 8.451671|-79.998405
-571 >> Modify lat lon to pa:san carlos 24708 >> 8.495808|-80.00655
-572 >> Modify lat lon to pa:san jose 24709 >> 8.535704|-79.9462
-573 >> Modify lat lon to pa:atalaya >> 8.035666|-80.9291
-574 >> Modify lat lon to pa:san antonio >> 9.062486|-79.44318
-575 >> Modify lat lon to pa:calobre >> 8.320034|-80.837364
-576 >> Modify lat lon to pa:la laguna 24721 >> 8.607979|-80.050026
-577 >> Modify lat lon to pa:san jose 24727 >> 8.535704|-79.9462
-578 >> Modify lat lon to pa:san jose 24734 >> 8.535704|-79.9462
-579 >> Modify lat lon to pa:el higo 24738 >> 8.58333|-82.3833
-580 >> Modify lat lon to pa:mariato >> 7.638008|-80.991554
-581 >> Modify lat lon to pa:san francisco 24777 >> 8.992082|-79.50834
-582 >> Modify lat lon to pa:san jose 24779 >> 8.535704|-79.9462
-583 >> Modify lat lon to pa:santa fe 24787 >> 8.653509|-78.15315
-584 >> Modify lat lon to pa:la pena >> 8.178906|-81.0497
-585 >> Modify lat lon to pa:los algarrobos 24794 >> 8.524347|-82.43281
-586 >> Modify lat lon to pa:santiago >> 8.088386|-80.96043
-587 >> Modify lat lon to pa:cative >> 9.36823|-79.83196
+405 >> Modify lat lon to mx:boca del rio >> 19.100891|-96.10634
+406 >> Modify lat lon to mx:carlos a carrillo >> 18.326778|-95.71865
+407 >> Modify lat lon to mx:catemaco >> 18.491076|-95.05555
+408 >> Modify lat lon to mx:coatepec >> 19.462683|-96.955246
+409 >> Modify lat lon to mx:coatzacoalcos >> 18.13256|-94.39736
+410 >> Modify lat lon to mx:coatzintla >> 20.428892|-97.464355
+411 >> Modify lat lon to mx:cordoba >> 18.8942|-96.93511
+412 >> Modify lat lon to mx:fortin de las flores >> 18.906153|-97.0008
+413 >> Modify lat lon to mx:gutierrez zamora >> 20.439676|-97.09778
+414 >> Modify lat lon to mx:jose cardel >> 19.365826|-96.35346
+415 >> Modify lat lon to mx:lerdo de tejada >> 18.656588|-95.50059
+416 >> Modify lat lon to mx:minatitlan >> 19.372025|-104.03108
+417 >> Modify lat lon to mx:nogales >> 31.317806|-110.94683
+418 >> Modify lat lon to mx:orizaba >> 18.849121|-97.105225
+419 >> Modify lat lon to mx:papantla de olarte >> 20.413773|-97.28407
+420 >> Modify lat lon to mx:rio blanco >> 18.844498|-97.150925
+421 >> Modify lat lon to mx:san andres tuxtla >> 18.426804|-95.205124
+422 >> Modify lat lon to mx:san rafael >> 19.437923|-99.16233
+423 >> Modify lat lon to mx:santiago tuxtla >> 18.399319|-95.399826
+424 >> Modify lat lon to mx:tantoyuca >> 21.388971|-98.17125
+425 >> Modify lat lon to mx:tlapacoyan >> 19.945335|-97.12354
+426 >> Modify lat lon to mx:veracruz >> 19.193975|-96.13552
+427 >> Modify lat lon to mx:merida >> 20.966888|-89.623375
+428 >> Modify lat lon to mx:ticul >> 20.360388|-89.56129
+429 >> Modify lat lon to mx:tizimin >> 21.130892|-88.152885
+430 >> Modify lat lon to mx:valladolid >> 20.638388|-88.10842
+431 >> Modify lat lon to mx:ciudad cuauhtemoc >> 15.664706|-92.001076
+432 >> Modify lat lon to mx:fresnillo >> 23.174759|-102.86789
+433 >> Modify lat lon to mx:jalpa >> 20.872309|-101.986946
+434 >> Modify lat lon to mx:jerez de garcia salinas >> 22.683578|-103.051414
+435 >> Modify lat lon to mx:ojocaliente >> 21.876587|-102.65528
+436 >> Modify lat lon to mx:rio grande >> 16.001467|-97.45008
+437 >> Modify lat lon to mx:sombrerete >> 23.621231|-103.63561
+438 >> Modify lat lon to mx:villanueva >> 22.298306|-102.85153
+439 >> Modify lat lon to mx:zacatecas >> 22.774755|-102.57299
+440 >> Modify lat lon to mx:aculco >> 19.373745|-99.1043
+441 >> Modify lat lon to mx:valle de bravo >> 19.17777|-100.121956
+442 >> Modify lat lon to mx:tequisquiapan >> 20.551172|-99.95256
+443 >> Modify lat lon to mx:tequesquitengo >> 18.604275|-99.25598
+444 >> Modify lat lon to mx:malinalco >> 18.881918|-99.48564
+445 >> Modify lat lon to mx:tepoztlan >> 18.98552|-99.10045
+446 >> Modify lat lon to mx:puerto escondido >> 15.902024|-97.03848
+447 >> Modify lat lon to mx:tolantongo >> 20.639347|-98.98826
+448 >> Modify lat lon to mx:el fuerte >> 26.408466|-108.62523
+449 >> Modify lat lon to mx:san carlos >> 21.0667|-101.55
+450 >> Modify lat lon to mx:xilitla >> 21.386644|-98.9812
+451 >> Modify lat lon to mx:tulum >> 20.210398|-87.46582
+452 >> Modify lat lon to mx:holbox >> 21.544477|-87.19335
+453 >> Modify lat lon to mx:creel >> 27.753008|-107.63434
+454 >> Modify lat lon to mx:mapimi >> 26.145967|-104.131325
+455 >> Modify lat lon to mx:san juan chamula >> 16.786787|-92.68853
+456 >> Modify lat lon to mx:tlacotalpan >> 18.533705|-95.622986
+457 >> Modify lat lon to mx:jalcomulco >> 19.33953|-96.7558
+458 >> Modify lat lon to mx:chichen itza >> 20.67322|-88.559326
+459 >> Modify lat lon to mx:coba >> 20.547388|-87.684235
+460 >> Modify lat lon to mx:mahahual >> 18.715727|-87.707855
+461 >> Modify lat lon to mx:progreso >> 21.772732|-89.671074
+462 >> Modify lat lon to mx:xcalak >> 18.3396|-87.85109
+463 >> Modify lat lon to mx:xpu ha >> 20.481174|-87.257706
+464 >> Modify lat lon to mx:talpa de allende 53290a00 3fdd 452b a1ad 885b9846df33 >> 20.299444|-104.95348
+465 >> Modify lat lon to mx:sayulita >> 20.856325|-105.43668
+466 >> Modify lat lon to mx:cocoyoc >> 18.884525|-98.98253
+467 >> Modify lat lon to mx:nuevo vallarta >> 20.693174|-105.29485
+468 >> Modify lat lon to mx:puerto aventuras >> 20.506016|-87.22947
+469 >> Modify lat lon to pa:almirante >> 9.304587|-82.4122
+470 >> Modify lat lon to pa:bocas del toro >> 9.339858|-82.24077
+471 >> Modify lat lon to pa:punta laurel >> 9.186574|-82.125984
+472 >> Modify lat lon to pa:changuinola >> 9.459883|-82.50938
+473 >> Modify lat lon to pa:las delicias >> 9.41146|-82.854485
+474 >> Modify lat lon to pa:las tablas >> 7.785878|-80.2334
+475 >> Modify lat lon to pa:miramar >> 9.575097|-79.33312
+476 >> Modify lat lon to pa:guarumal >> 8.337683|-82.54165
+477 >> Modify lat lon to pa:palo grande >> 8.343061|-82.58533
+478 >> Modify lat lon to pa:limones >> 8.07928|-82.8734
+479 >> Modify lat lon to pa:puerto armuelles >> 8.276859|-82.91
+480 >> Modify lat lon to pa:boqueron >> 8.625609|-82.57503
+481 >> Modify lat lon to pa:paraiso 24257 >> 9.044122|-79.636
+482 >> Modify lat lon to pa:alto boquete >> 8.67407|-82.423515
+483 >> Modify lat lon to pa:caldera >> 8.707439|-82.346725
+484 >> Modify lat lon to pa:jaramillo >> 8.769186|-82.38136
+485 >> Modify lat lon to pa:los naranjos >> 8.809898|-82.45423
+486 >> Modify lat lon to pa:santo domingo 24275 >> 7.745094|-80.21634
+487 >> Modify lat lon to pa:chiriqui >> 8.364551|-82.29328
+488 >> Modify lat lon to pa:san carlos 24285 >> 8.495808|-80.00655
+489 >> Modify lat lon to pa:david >> 8.407179|-82.42865
+490 >> Modify lat lon to pa:dolega >> 8.574134|-82.426544
+491 >> Modify lat lon to pa:los algarrobos >> 8.524347|-82.43281
+492 >> Modify lat lon to pa:los anastacios >> 8.532729|-82.41473
+493 >> Modify lat lon to pa:el porvenir >> 9.556455|-78.9475
+494 >> Modify lat lon to pa:santa clara >> 9.065531|-79.724335
+495 >> Modify lat lon to pa:las lajas >> 8.542154|-79.91118
+496 >> Modify lat lon to pa:boca chica >> 8.16615|-82.24805
+497 >> Modify lat lon to pa:horconcitos >> 8.306953|-82.169334
+498 >> Modify lat lon to pa:volcan >> 8.734522|-82.66493
+499 >> Modify lat lon to pa:cerro punta >> 8.870676|-82.58269
+500 >> Modify lat lon to pa:paso ancho >> 8.823104|-82.60253
+501 >> Modify lat lon to pa:tole >> 8.223258|-81.70586
+502 >> Modify lat lon to pa:aguadulce >> 8.403906|-80.0567
+503 >> Modify lat lon to pa:el roble >> 8.165688|-80.63471
+504 >> Modify lat lon to pa:anton >> 8.398951|-80.26851
+505 >> Modify lat lon to pa:cabuya >> 9.1|-79.3667
+506 >> Modify lat lon to pa:el chiru >> 8.365658|-80.2179
+507 >> Modify lat lon to pa:juan diaz >> 9.032463|-79.43581
+508 >> Modify lat lon to pa:rio hato >> 8.417179|-80.11536
+509 >> Modify lat lon to pa:nata >> 8.309223|-80.47506
+510 >> Modify lat lon to pa:el cope >> 8.647592|-80.58977
+511 >> Modify lat lon to pa:penonome >> 8.528634|-80.35872
+512 >> Modify lat lon to pa:cativa >> 9.36823|-79.83196
+513 >> Modify lat lon to pa:cristobal >> 9.352451|-79.90283
+514 >> Modify lat lon to pa:nuevo chagres >> 9.235526|-80.07964
+515 >> Modify lat lon to pa:isla grande >> 9.633708|-79.563934
+516 >> Modify lat lon to pa:maria chiquita >> 9.441298|-79.75489
+517 >> Modify lat lon to pa:portobelo >> 9.544981|-79.662315
+518 >> Modify lat lon to pa:miramar 24423 >> 9.575097|-79.33312
+519 >> Modify lat lon to pa:palenque >> 9.575954|-79.36643
+520 >> Modify lat lon to pa:santa isabel >> 9.532214|-79.16578
+521 >> Modify lat lon to pa:la palma >> 7.703573|-80.19503
+522 >> Modify lat lon to pa:santa fe 24458 >> 8.653509|-78.15315
+523 >> Modify lat lon to pa:chitre >> 7.952979|-80.43849
+524 >> Modify lat lon to pa:la arena >> 7.961905|-80.482285
+525 >> Modify lat lon to pa:chepo >> 9.164903|-79.097275
+526 >> Modify lat lon to pa:las minas >> 7.800017|-80.745476
+527 >> Modify lat lon to pa:la arena 24476 >> 7.961905|-80.482285
+528 >> Modify lat lon to pa:cabuya 24490 >> 9.1|-79.3667
+529 >> Modify lat lon to pa:pese >> 7.906941|-80.612816
+530 >> Modify lat lon to pa:guarare >> 7.816606|-80.28025
+531 >> Modify lat lon to pa:la palma 24531 >> 7.703573|-80.19503
+532 >> Modify lat lon to pa:san jose 24539 >> 8.535704|-79.9462
+533 >> Modify lat lon to pa:san miguel 24540 >> 8.450243|-78.956436
+534 >> Modify lat lon to pa:las tablas 24541 >> 7.785878|-80.2334
+535 >> Modify lat lon to pa:santo domingo 24542 >> 7.745094|-80.21634
+536 >> Modify lat lon to pa:la villa de los santos >> 7.934664|-80.41694
+537 >> Modify lat lon to pa:santa ana 24556 >> 8.956329|-79.541336
+538 >> Modify lat lon to pa:pedasi >> 7.528869|-80.04008
+539 >> Modify lat lon to pa:paraiso 24578 >> 9.044122|-79.636
+540 >> Modify lat lon to pa:cambutal >> 7.257506|-80.48119
+541 >> Modify lat lon to pa:canas 24583 >> 7.434608|-80.28479
+542 >> Modify lat lon to pa:san miguel 24598 >> 8.450243|-78.956436
+543 >> Modify lat lon to pa:chepo 24603 >> 9.164903|-79.097275
+544 >> Modify lat lon to pa:chilibre >> 9.162947|-79.617485
+545 >> Modify lat lon to pa:curundu >> 8.97831|-79.539474
+546 >> Modify lat lon to pa:el chorrillo >> 8.949369|-79.545685
+547 >> Modify lat lon to pa:juan diaz 24624 >> 9.032463|-79.43581
+548 >> Modify lat lon to pa:las cumbres >> 9.089773|-79.5537
+549 >> Modify lat lon to pa:parque lefevre >> 9.013321|-79.48546
+550 >> Modify lat lon to pa:pueblo nuevo >> 9.01179|-79.51373
+551 >> Modify lat lon to pa:rio abajo >> 9.023939|-79.49371
+552 >> Modify lat lon to pa:san francisco 24634 >> 8.992082|-79.50834
+553 >> Modify lat lon to pa:santa ana 24636 >> 8.956329|-79.541336
+554 >> Modify lat lon to pa:tocumen >> 9.078479|-79.38079
+555 >> Modify lat lon to pa:mateo iturralde >> 9.033828|-79.49625
+556 >> Modify lat lon to pa:taboga >> 8.789171|-79.55691
+557 >> Modify lat lon to pa:santa clara 24656 >> 9.065531|-79.724335
+558 >> Modify lat lon to pa:veracruz >> 8.892026|-79.62849
+559 >> Modify lat lon to pa:vista alegre >> 8.931604|-79.70013
+560 >> Modify lat lon to pa:bejuco >> 8.60419|-79.88675
+561 >> Modify lat lon to pa:cabuya 24674 >> 9.1|-79.3667
+562 >> Modify lat lon to pa:chame >> 8.581257|-79.88386
+563 >> Modify lat lon to pa:chica >> 8.656668|-79.94365
+564 >> Modify lat lon to pa:las lajas 24678 >> 8.542154|-79.91118
+565 >> Modify lat lon to pa:nueva gorgona >> 8.556546|-79.87664
+566 >> Modify lat lon to pa:punta chame >> 8.611535|-79.75797
+567 >> Modify lat lon to pa:puerto caimito >> 8.872634|-79.71623
+568 >> Modify lat lon to pa:el espino >> 8.486241|-80.01731
+569 >> Modify lat lon to pa:el higo >> 8.58333|-82.3833
+570 >> Modify lat lon to pa:la laguna >> 8.607979|-80.050026
+571 >> Modify lat lon to pa:las uvas >> 8.451671|-79.998405
+572 >> Modify lat lon to pa:san carlos 24708 >> 8.495808|-80.00655
+573 >> Modify lat lon to pa:san jose 24709 >> 8.535704|-79.9462
+574 >> Modify lat lon to pa:atalaya >> 8.035666|-80.9291
+575 >> Modify lat lon to pa:san antonio >> 9.062486|-79.44318
+576 >> Modify lat lon to pa:calobre >> 8.320034|-80.837364
+577 >> Modify lat lon to pa:la laguna 24721 >> 8.607979|-80.050026
+578 >> Modify lat lon to pa:san jose 24727 >> 8.535704|-79.9462
+579 >> Modify lat lon to pa:san jose 24734 >> 8.535704|-79.9462
+580 >> Modify lat lon to pa:el higo 24738 >> 8.58333|-82.3833
+581 >> Modify lat lon to pa:mariato >> 7.638008|-80.991554
+582 >> Modify lat lon to pa:san francisco 24777 >> 8.992082|-79.50834
+583 >> Modify lat lon to pa:san jose 24779 >> 8.535704|-79.9462
+584 >> Modify lat lon to pa:santa fe 24787 >> 8.653509|-78.15315
+585 >> Modify lat lon to pa:la pena >> 8.178906|-81.0497
+586 >> Modify lat lon to pa:los algarrobos 24794 >> 8.524347|-82.43281
+587 >> Modify lat lon to pa:santiago >> 8.088386|-80.96043
 588 >> Modify lat lon to pa:guarumal 24808 >> 8.337683|-82.54165
 589 >> Modify lat lon to pa:boquete >> 8.807488|-82.466324
 590 >> Modify lat lon to co:leticia >> -3.52318|-70.03605
@@ -597,968 +597,974 @@
 596 >> Modify lat lon to co:apartado >> 7.902519|-76.5785
 597 >> Modify lat lon to co:carepa >> 7.799112|-76.63791
 598 >> Modify lat lon to co:chigorodo >> 7.633779|-76.638535
-599 >> Modify lat lon to co:turbo >> 7.955686|-76.73712
-600 >> Modify lat lon to co:bello >> 6.358918|-75.5897
-601 >> Modify lat lon to co:caldas >> 6.055516|-75.62687
-602 >> Modify lat lon to co:copacabana >> 6.352372|-75.500694
-603 >> Modify lat lon to co:envigado >> 6.153635|-75.546875
-604 >> Modify lat lon to co:girardota >> 6.379922|-75.44795
-605 >> Modify lat lon to co:itagui >> 6.179325|-75.61573
-606 >> Modify lat lon to co:medellin >> 6.246186|-75.57513
-607 >> Modify lat lon to co:sabaneta >> 6.138038|-75.608505
-608 >> Modify lat lon to co:arauca >> 6.791585|-70.47192
-609 >> Modify lat lon to co:barranquilla >> 11.006632|-74.81318
-610 >> Modify lat lon to co:malambo >> 10.85953|-74.77386
-611 >> Modify lat lon to co:soledad >> 10.90282|-74.772
-612 >> Modify lat lon to co:sabanalarga >> 10.62962|-74.92063
-613 >> Modify lat lon to co:cartagena >> 10.391048|-75.47942
-614 >> Modify lat lon to co:turbaco >> 10.334789|-75.38241
-615 >> Modify lat lon to co:magangue >> 9.24202|-74.75467
-616 >> Modify lat lon to co:tunja >> 8.180702|-73.23687
-617 >> Modify lat lon to co:sogamoso >> 5.671058|-72.887085
-618 >> Modify lat lon to co:duitama >> 5.890724|-73.06725
-619 >> Modify lat lon to co:chinchina >> 4.986398|-75.667114
-620 >> Modify lat lon to co:manizales >> 5.078494|-75.49424
-621 >> Modify lat lon to co:villamaria >> 4.940439|-75.43673
-622 >> Modify lat lon to co:la dorada >> 5.544719|-74.70767
-623 >> Modify lat lon to co:florencia >> 1.742024|-75.62069
-624 >> Modify lat lon to co:yopal >> 5.251512|-72.26816
-625 >> Modify lat lon to co:popayan >> 2.44153|-76.60695
-626 >> Modify lat lon to co:valledupar >> 10.373765|-73.509964
-627 >> Modify lat lon to co:aguachica >> 8.307912|-73.59051
-628 >> Modify lat lon to co:quibdo >> 5.942569|-76.76021
-629 >> Modify lat lon to co:monteria >> 8.590348|-75.967354
-630 >> Modify lat lon to co:cerete >> 8.88556|-75.7967
-631 >> Modify lat lon to co:girardot >> 4.339422|-74.81033
-632 >> Modify lat lon to co:cajica >> 4.91667|-74.0333
-633 >> Modify lat lon to co:chia >> 4.865445|-74.03738
-634 >> Modify lat lon to co:zipaquira >> 5.026847|-74.04258
-635 >> Modify lat lon to co:facatativa >> 4.799104|-74.35488
-636 >> Modify lat lon to co:mosquera >> 4.670508|-74.23272
-637 >> Modify lat lon to co:soacha >> 4.530046|-74.26936
-638 >> Modify lat lon to co:fusagasuga >> 4.2924|-74.38333
-639 >> Modify lat lon to co:inirida >> 3.360882|-68.40707
-640 >> Modify lat lon to co:garzon >> 2.195446|-75.57238
-641 >> Modify lat lon to co:neiva >> 3.011458|-75.33997
-642 >> Modify lat lon to co:la plata >> 2.392184|-75.89035
-643 >> Modify lat lon to co:pitalito >> 1.819997|-76.12134
-644 >> Modify lat lon to co:maicao >> 11.322037|-72.35203
-645 >> Modify lat lon to co:manaure >> 11.605454|-72.57141
-646 >> Modify lat lon to co:riohacha >> 11.243345|-72.95841
-647 >> Modify lat lon to co:uribia >> 11.7167|-72.2694
-648 >> Modify lat lon to co:cienaga >> 10.844883|-74.10022
-649 >> Modify lat lon to co:fundacion >> 10.458785|-73.8841
-650 >> Modify lat lon to co:santa marta >> 4.76667|-74.5333
-651 >> Modify lat lon to co:villavicencio >> 4.14938|-73.63519
-652 >> Modify lat lon to co:acacias >> 4.00333|-73.69224
-653 >> Modify lat lon to co:san juan de pasto >> 1.061886|-77.22296
-654 >> Modify lat lon to co:ipiales >> 0.577059|-77.375854
-655 >> Modify lat lon to co:ocana >> 8.219106|-73.3503
-656 >> Modify lat lon to co:villa del rosario >> 7.840555|-72.46968
-657 >> Modify lat lon to co:pamplona >> 7.376876|-72.6742
-658 >> Modify lat lon to co:armenia >> 4.498677|-75.72508
-659 >> Modify lat lon to co:calarca >> 4.469145|-75.65575
-660 >> Modify lat lon to co:dosquebradas >> 4.848383|-75.67336
-661 >> Modify lat lon to co:pereira >> 4.815725|-75.70425
-662 >> Modify lat lon to co:santa rosa de cabal >> 4.814918|-75.52977
-663 >> Modify lat lon to co:san andres >> 10.7833|-74.7333
-664 >> Modify lat lon to co:barrancabermeja >> 7.044182|-73.78313
-665 >> Modify lat lon to co:bucaramanga >> 7.137159|-73.13279
-666 >> Modify lat lon to co:floridablanca >> 7.063173|-73.08583
-667 >> Modify lat lon to co:piedecuesta >> 6.979184|-73.01021
-668 >> Modify lat lon to co:sincelejo >> 9.311229|-75.42837
-669 >> Modify lat lon to co:espinal >> 4.167084|-74.89436
-670 >> Modify lat lon to co:ibague >> 4.452523|-75.25345
-671 >> Modify lat lon to co:guadalajara de buga >> 3.874774|-76.118546
-672 >> Modify lat lon to co:tulua >> 4.027011|-76.03438
-673 >> Modify lat lon to co:cartago >> 4.705412|-75.916756
-674 >> Modify lat lon to co:buenaventura >> 3.624204|-77.12156
-675 >> Modify lat lon to co:cali >> 3.396812|-76.57563
-676 >> Modify lat lon to co:jamundi >> 3.211401|-76.62214
-677 >> Modify lat lon to co:palmira >> 3.55852|-76.22797
-678 >> Modify lat lon to co:yumbo >> 3.596391|-76.51141
-679 >> Modify lat lon to co:la victoria >> 3.351195|-75.172165
-680 >> Modify lat lon to co:puerto narino >> -3.631478|-70.462975
-681 >> Modify lat lon to co:el bagre >> 7.684744|-74.65697
-682 >> Modify lat lon to co:puerto nare >> 6.142658|-74.66805
-683 >> Modify lat lon to co:puerto triunfo >> 5.953666|-74.68945
-684 >> Modify lat lon to co:angostura >> 6.858287|-75.361015
-685 >> Modify lat lon to co:ituango >> 7.256722|-75.87051
-686 >> Modify lat lon to co:san andres 22872 >> 10.7833|-74.7333
-687 >> Modify lat lon to co:san jose de la montana >> 6.822048|-75.69756
-688 >> Modify lat lon to co:san pedro >> 6.45974|-75.56016
-689 >> Modify lat lon to co:santa rosa de osos >> 6.64889|-75.4633
-690 >> Modify lat lon to co:valdivia >> 7.28889|-75.39778
-691 >> Modify lat lon to co:armenia 22881 >> 4.498677|-75.72508
-692 >> Modify lat lon to co:olaya >> 6.606882|-75.773674
-693 >> Modify lat lon to co:sabanalarga 22892 >> 10.62962|-74.92063
-694 >> Modify lat lon to co:san jeronimo >> 6.436577|-75.706955
-695 >> Modify lat lon to co:santa fe de antioquia >> 6.537811|-75.90626
-696 >> Modify lat lon to co:sopetran >> 6.525608|-75.74301
-697 >> Modify lat lon to co:alejandria >> 6.362247|-75.09129
-698 >> Modify lat lon to co:cocorna >> 6.019577|-75.165634
-699 >> Modify lat lon to co:guarne >> 6.268346|-75.4341
-700 >> Modify lat lon to co:guatape >> 6.231003|-75.15373
-701 >> Modify lat lon to co:la union >> 4.53911|-76.10313
-702 >> Modify lat lon to co:retiro >> 6.055676|-75.51347
-703 >> Modify lat lon to co:san francisco >> 4.943052|-74.2847
-704 >> Modify lat lon to co:san luis >> 7.9|-72.4833
-705 >> Modify lat lon to co:sonson >> 5.762939|-75.063385
-706 >> Modify lat lon to co:betania >> 5.713901|-76.03046
-707 >> Modify lat lon to co:jardin >> 5.573277|-75.83246
-708 >> Modify lat lon to co:jerico >> 5.770126|-75.76537
-709 >> Modify lat lon to co:la pintada >> 5.755308|-75.60483
-710 >> Modify lat lon to co:montebello >> 4.326475|-73.45778
-711 >> Modify lat lon to co:pueblorrico >> 5.794971|-75.87616
-712 >> Modify lat lon to co:santa barbara >> 5.878485|-75.58466
-713 >> Modify lat lon to co:urrao >> 6.342302|-76.26583
-714 >> Modify lat lon to co:valparaiso >> 5.645084|-75.64509
-715 >> Modify lat lon to co:arboletes >> 8.635686|-76.42305
-716 >> Modify lat lon to co:barbosa >> 6.445963|-75.332535
-717 >> Modify lat lon to co:puerto rondon >> 6.561108|-71.09216
-718 >> Modify lat lon to co:san andres 22955 >> 10.7833|-74.7333
-719 >> Modify lat lon to co:puerto colombia >> 11.012909|-74.91984
-720 >> Modify lat lon to co:santa lucia >> 2.18528|-75.6186
-721 >> Modify lat lon to co:mompos >> 9.131808|-74.57972
-722 >> Modify lat lon to co:san fernando >> 9.080958|-74.41167
-723 >> Modify lat lon to co:santa catalina >> 13.387623|-81.37574
-724 >> Modify lat lon to co:villanueva >> 6.654502|-73.15761
-725 >> Modify lat lon to co:arenal >> 8.46667|-73.95
-726 >> Modify lat lon to co:santa rosa del sur >> 7.697618|-74.27588
-727 >> Modify lat lon to co:cucaita >> 5.515532|-73.49011
-728 >> Modify lat lon to co:toca >> 5.581721|-73.164665
-729 >> Modify lat lon to co:chiscas >> 6.654568|-72.44231
-730 >> Modify lat lon to co:cubara >> 6.860053|-72.20704
-731 >> Modify lat lon to co:el cocuy >> 6.356474|-72.41639
-732 >> Modify lat lon to co:guican >> 6.567545|-72.26435
-733 >> Modify lat lon to co:jenesano >> 5.35181|-73.40873
-734 >> Modify lat lon to co:tibana >> 5.32056|-73.4006
-735 >> Modify lat lon to co:santa maria >> 4.7617|-73.23076
-736 >> Modify lat lon to co:san mateo >> 6.40629|-72.56094
-737 >> Modify lat lon to co:susacon >> 6.23306|-72.6933
-738 >> Modify lat lon to co:buenavista >> 4.362949|-75.742455
-739 >> Modify lat lon to co:caldas 23072 >> 6.055516|-75.62687
-740 >> Modify lat lon to co:la victoria 23074 >> 3.351195|-75.172165
-741 >> Modify lat lon to co:pauna >> 5.65861|-73.9825
-742 >> Modify lat lon to co:arcabuco >> 5.723896|-73.46782
-743 >> Modify lat lon to co:moniquira >> 5.88056|-73.5747
-744 >> Modify lat lon to co:sachica >> 5.544324|-73.56587
-745 >> Modify lat lon to co:santa sofia >> 5.702127|-73.62975
-746 >> Modify lat lon to co:tinjaca >> 5.566378|-73.710526
-747 >> Modify lat lon to co:villa de leyva >> 5.633748|-73.52364
-748 >> Modify lat lon to co:aquitania >> 5.433792|-72.889595
-749 >> Modify lat lon to co:cuitiva >> 5.590351|-72.93922
-750 >> Modify lat lon to co:firavitoba >> 5.674074|-73.018394
-751 >> Modify lat lon to co:iza >> 5.617001|-72.970345
-752 >> Modify lat lon to co:nobsa >> 5.747331|-72.95604
-753 >> Modify lat lon to co:pesca >> 5.495868|-73.084496
-754 >> Modify lat lon to co:tibasosa >> 5.717748|-73.02978
-755 >> Modify lat lon to co:belen >> 5.990027|-72.91163
-756 >> Modify lat lon to co:paipa >> 5.808499|-73.183945
-757 >> Modify lat lon to co:jerico 23127 >> 5.770126|-75.76537
-758 >> Modify lat lon to co:la merced >> 4.618122|-74.06601
-759 >> Modify lat lon to co:supia >> 5.43497|-75.672806
-760 >> Modify lat lon to co:risaralda >> 5.117688|-75.76414
-761 >> Modify lat lon to co:viterbo >> 5.047195|-75.88001
-762 >> Modify lat lon to co:neira >> 5.181716|-75.51262
-763 >> Modify lat lon to co:palestina >> 1.617525|-76.11632
-764 >> Modify lat lon to co:salamina >> 5.378025|-75.41914
-765 >> Modify lat lon to co:albania >> 11.221365|-72.53853
-766 >> Modify lat lon to co:valparaiso 23168 >> 5.645084|-75.64509
-767 >> Modify lat lon to co:aguazul >> 5.124754|-72.54086
-768 >> Modify lat lon to co:monterrey >> 4.820158|-72.879005
-769 >> Modify lat lon to co:orocue >> 4.916544|-71.609245
-770 >> Modify lat lon to co:paz de ariporo >> 5.781671|-70.878685
-771 >> Modify lat lon to co:sabanalarga 23180 >> 10.62962|-74.92063
-772 >> Modify lat lon to co:villanueva 23186 >> 6.654502|-73.15761
-773 >> Modify lat lon to co:el tambo >> 1.47789|-77.438675
-774 >> Modify lat lon to co:padilla >> 3.195007|-76.33903
-775 >> Modify lat lon to co:guapi >> 2.424188|-77.65867
-776 >> Modify lat lon to co:inza >> 5.617001|-72.970345
-777 >> Modify lat lon to co:silvia >> 2.667774|-76.37643
-778 >> Modify lat lon to co:florencia 23218 >> 1.742024|-75.62069
-779 >> Modify lat lon to co:la vega >> 4.68333|-74.5167
-780 >> Modify lat lon to co:santa rosa >> 11.0167|-74.8667
-781 >> Modify lat lon to co:manaure 23238 >> 11.605454|-72.57141
-782 >> Modify lat lon to co:san diego >> 6.230899|-75.567566
-783 >> Modify lat lon to co:gamarra >> 8.342409|-73.70434
-784 >> Modify lat lon to co:san martin >> 7.970036|-73.57247
-785 >> Modify lat lon to co:acandi >> 8.446742|-77.279564
-786 >> Modify lat lon to co:bahia solano >> 6.326244|-77.3606
-787 >> Modify lat lon to co:nuqui >> 5.703822|-77.31211
-788 >> Modify lat lon to co:condoto >> 5.100818|-76.48779
-789 >> Modify lat lon to co:san antero >> 9.362259|-75.78364
-790 >> Modify lat lon to co:san bernardo del viento >> 9.326064|-75.9717
-791 >> Modify lat lon to co:buenavista 23292 >> 4.362949|-75.742455
-792 >> Modify lat lon to co:choconta >> 5.15|-73.68333
-793 >> Modify lat lon to co:suesca >> 5.126134|-73.80358
-794 >> Modify lat lon to co:nilo >> 4.282872|-74.63777
-795 >> Modify lat lon to co:ricaurte >> 4.307435|-74.72967
-796 >> Modify lat lon to co:guaduas >> 5.159924|-74.65951
-797 >> Modify lat lon to co:puerto salgar >> 5.618361|-74.58613
-798 >> Modify lat lon to co:la vega 23317 >> 4.68333|-74.5167
-799 >> Modify lat lon to co:nimaima >> 5.11742|-74.4134
-800 >> Modify lat lon to co:nocaima >> 5.047677|-74.40464
-801 >> Modify lat lon to co:san francisco 23321 >> 4.943052|-74.2847
-802 >> Modify lat lon to co:sasaima >> 4.928911|-74.42797
-803 >> Modify lat lon to co:utica >> 5.169777|-74.501335
-804 >> Modify lat lon to co:villeta >> 5.000199|-74.504974
-805 >> Modify lat lon to co:guasca >> 4.791952|-73.863884
-806 >> Modify lat lon to co:guatavita >> 4.911214|-73.83989
-807 >> Modify lat lon to co:la calera >> 4.713509|-73.962456
-808 >> Modify lat lon to co:san juan de rio seco >> 4.847129|-74.62223
-809 >> Modify lat lon to co:viani >> 4.881491|-74.57538
-810 >> Modify lat lon to co:medina >> 4.48139|-73.413956
-811 >> Modify lat lon to co:chipaque >> 4.431848|-74.05782
-812 >> Modify lat lon to co:choachi >> 4.585013|-73.912964
-813 >> Modify lat lon to co:fomeque >> 4.519293|-73.790054
-814 >> Modify lat lon to co:la palma >> 5.324925|-74.41141
-815 >> Modify lat lon to co:pacho >> 5.164813|-74.16007
-816 >> Modify lat lon to co:sopo >> 4.906938|-73.9405
-817 >> Modify lat lon to co:tabio >> 4.915516|-74.0982
-818 >> Modify lat lon to co:tocancipa >> 4.957064|-73.93456
-819 >> Modify lat lon to co:bojaca >> 4.73333|-74.35
-820 >> Modify lat lon to co:cota >> 4.788215|-74.12355
-821 >> Modify lat lon to co:subachoque >> 4.93167|-74.1764
-822 >> Modify lat lon to co:tenjo >> 4.872039|-74.14501
-823 >> Modify lat lon to co:cabrera >> 3.921617|-74.44513
-824 >> Modify lat lon to co:granada 23377 >> 7.120144|-73.13862
-825 >> Modify lat lon to co:san bernardo >> 4.152991|-74.34431
-826 >> Modify lat lon to co:silvania >> 4.425134|-74.38427
-827 >> Modify lat lon to co:tibacuy >> 4.306063|-74.516396
-828 >> Modify lat lon to co:anapoima >> 4.559623|-74.52514
-829 >> Modify lat lon to co:apulo >> 4.522309|-74.578384
-830 >> Modify lat lon to co:el colegio >> 4.58472|-74.9494
-831 >> Modify lat lon to co:la mesa >> 4.651203|-74.47347
-832 >> Modify lat lon to co:carmen de carupa >> 5.332255|-73.9533
-833 >> Modify lat lon to co:cucunuba >> 5.25306|-73.7714
-834 >> Modify lat lon to co:susa >> 5.438137|-73.82692
-835 >> Modify lat lon to co:la guadalupe >> 1.399686|-67.00083
-836 >> Modify lat lon to co:puerto colombia 23410 >> 11.012909|-74.91984
-837 >> Modify lat lon to co:altamira >> 10.6|-75.45
-838 >> Modify lat lon to co:campoalegre >> 2.653074|-75.3172
-839 >> Modify lat lon to co:colombia >> 5.16667|-75.6667
-840 >> Modify lat lon to co:rivera >> 2.777151|-75.19411
-841 >> Modify lat lon to co:santa maria 23431 >> 4.7617|-73.23076
-842 >> Modify lat lon to co:villavieja >> 3.265072|-75.16192
-843 >> Modify lat lon to co:nataga >> 2.663773|-75.851906
-844 >> Modify lat lon to co:paicol >> 2.400465|-75.77094
-845 >> Modify lat lon to co:palestina 23444 >> 1.617525|-76.11632
-846 >> Modify lat lon to co:san agustin >> 1.923722|-76.416084
-847 >> Modify lat lon to co:albania 23448 >> 11.221365|-72.53853
-848 >> Modify lat lon to co:dibulla >> 11.090056|-73.43502
-849 >> Modify lat lon to co:san juan del cesar >> 10.808725|-73.08662
-850 >> Modify lat lon to co:villanueva 23458 >> 6.654502|-73.15761
-851 >> Modify lat lon to co:algarrobo >> 5.0725|-75.5842
-852 >> Modify lat lon to co:aracataca >> 10.628093|-73.96216
-853 >> Modify lat lon to co:salamina 23474 >> 5.378025|-75.41914
-854 >> Modify lat lon to co:guamal >> 3.947585|-73.959145
-855 >> Modify lat lon to co:santa ana >> 4.44722|-75.1556
-856 >> Modify lat lon to co:el dorado >> 3.713535|-73.838554
-857 >> Modify lat lon to co:granada 23486 >> 7.120144|-73.13862
-858 >> Modify lat lon to co:la macarena >> 4.6123|-74.06731
-859 >> Modify lat lon to co:puerto lleras >> 3.21794|-73.23215
-860 >> Modify lat lon to co:vista hermosa >> 2.811411|-73.67848
-861 >> Modify lat lon to co:castilla la nueva >> 3.812787|-73.55252
-862 >> Modify lat lon to co:guamal 23501 >> 3.947585|-73.959145
-863 >> Modify lat lon to co:restrepo >> 4.248263|-73.490524
-864 >> Modify lat lon to co:san martin 23506 >> 7.970036|-73.57247
-865 >> Modify lat lon to co:puerto gaitan >> 3.993826|-71.63701
-866 >> Modify lat lon to co:puerto lopez >> 4.039268|-72.61633
-867 >> Modify lat lon to co:chanchagui >> 1.437543|-77.31678
-868 >> Modify lat lon to co:el penol >> 6.246384|-75.22097
-869 >> Modify lat lon to co:el tambo 23513 >> 1.47789|-77.438675
-870 >> Modify lat lon to co:la florida >> 4.759048|-75.618385
-871 >> Modify lat lon to co:los andes >> 4.73643|-73.536194
-872 >> Modify lat lon to co:providencia >> 13.353275|-81.37396
-873 >> Modify lat lon to co:ricaurte 23528 >> 4.307435|-74.72967
-874 >> Modify lat lon to co:el charco >> 2.255458|-77.87112
-875 >> Modify lat lon to co:mosquera 23538 >> 4.670508|-74.23272
-876 >> Modify lat lon to co:santa barbara 23541 >> 5.878485|-75.58466
-877 >> Modify lat lon to co:tumaco >> 1.58387|-78.663765
-878 >> Modify lat lon to co:belen 23545 >> 5.990027|-72.91163
-879 >> Modify lat lon to co:el rosario >> 6.247046|-75.51259
-880 >> Modify lat lon to co:la union 23552 >> 4.53911|-76.10313
-881 >> Modify lat lon to co:san bernardo 23555 >> 4.152991|-74.34431
-882 >> Modify lat lon to co:potosi >> 4.568952|-74.17045
-883 >> Modify lat lon to co:pupiales >> 0.93645|-77.67004
-884 >> Modify lat lon to co:arboledas >> 7.590502|-72.896736
-885 >> Modify lat lon to co:santiago >> 1.053633|-77.038925
-886 >> Modify lat lon to co:el carmen >> 5.03333|-73.9833
-887 >> Modify lat lon to co:chinacota >> 7.555449|-72.60413
-888 >> Modify lat lon to co:durania >> 1.26667|-70.1833
-889 >> Modify lat lon to co:herran >> 7.480699|-72.500595
-890 >> Modify lat lon to co:ragonvalia >> 7.577952|-72.524605
-891 >> Modify lat lon to co:puerto asis >> 0.458635|-76.34114
-892 >> Modify lat lon to co:san miguel >> 0.306252|-76.85727
-893 >> Modify lat lon to co:sann francisco >> 4.943052|-74.2847
-894 >> Modify lat lon to co:santiago 23617 >> 1.053633|-77.038925
-895 >> Modify lat lon to co:buenavista 23621 >> 4.362949|-75.742455
-896 >> Modify lat lon to co:pijao >> 4.301943|-75.68121
-897 >> Modify lat lon to co:filandia >> 4.669141|-75.675606
-898 >> Modify lat lon to co:salento >> 4.611373|-75.53081
-899 >> Modify lat lon to co:circasia >> 4.610542|-75.66295
-900 >> Modify lat lon to co:la tebaida >> 4.436149|-75.81683
-901 >> Modify lat lon to co:montenegro >> 4.522207|-75.81779
-902 >> Modify lat lon to co:quimbaya >> 4.6103|-75.79169
-903 >> Modify lat lon to co:belen de umbria >> 5.201448|-75.86795
-904 >> Modify lat lon to co:la virginia >> 4.895382|-75.88906
-905 >> Modify lat lon to co:marsella >> 4.065799|-73.48108
-906 >> Modify lat lon to co:confines >> 4.099653|-75.60136
-907 >> Modify lat lon to co:socorro >> 6.462513|-73.243835
-908 >> Modify lat lon to co:cepita >> 6.733754|-72.94909
-909 >> Modify lat lon to co:san miguel 23669 >> 0.306252|-76.85727
-910 >> Modify lat lon to co:barichara >> 6.645126|-73.21573
-911 >> Modify lat lon to co:cabrera 23672 >> 3.921617|-74.44513
-912 >> Modify lat lon to co:curiti >> 6.619823|-73.01353
-913 >> Modify lat lon to co:paramo >> 6.416299|-73.17161
-914 >> Modify lat lon to co:san gil >> 6.550896|-73.118195
-915 >> Modify lat lon to co:valle de san jose >> 6.434687|-73.10984
-916 >> Modify lat lon to co:villanueva 23686 >> 6.654502|-73.15761
-917 >> Modify lat lon to co:puerto wilches >> 7.536627|-73.80505
-918 >> Modify lat lon to co:san vicente de chucuri >> 6.868161|-73.522446
-919 >> Modify lat lon to co:zapatoca >> 6.812657|-73.26232
-920 >> Modify lat lon to ec:cuenca >> -2.898429|-79.00612
-921 >> Modify lat lon to ec:gualaceo >> -2.907218|-78.76031
-922 >> Modify lat lon to ec:nabon >> -3.277553|-79.15023
-923 >> Modify lat lon to ec:paute >> -2.753321|-78.74818
-924 >> Modify lat lon to ec:santa isabel >> -3.14645|-79.42081
-925 >> Modify lat lon to ec:sigsig >> -3.124973|-78.884094
-926 >> Modify lat lon to ec:guaranda >> -1.415639|-79.047714
-927 >> Modify lat lon to ec:san miguel >> -1.797895|-79.10946
-928 >> Modify lat lon to ec:azogues >> -2.624635|-78.748276
-929 >> Modify lat lon to ec:canar >> -2.511173|-79.10249
-930 >> Modify lat lon to ec:la troncal >> -2.44756|-79.37628
-931 >> Modify lat lon to ec:el angel >> 0.685302|-78.0082
-932 >> Modify lat lon to ec:tulcan >> 0.908012|-78.15695
-933 >> Modify lat lon to ec:alausi >> -2.30043|-78.737495
-934 >> Modify lat lon to ec:chambo >> -1.731028|-78.596756
-935 >> Modify lat lon to ec:chunchi >> -2.345087|-78.900764
-936 >> Modify lat lon to ec:guamote >> -2.028432|-78.65128
-937 >> Modify lat lon to ec:guano >> -1.537453|-78.67187
-938 >> Modify lat lon to ec:pallatanga >> -2.00214|-78.935745
-939 >> Modify lat lon to ec:riobamba >> -1.725905|-78.65271
-940 >> Modify lat lon to ec:latacunga >> -0.782489|-78.58245
-941 >> Modify lat lon to ec:pujili >> -0.997268|-78.8809
-942 >> Modify lat lon to ec:saquisili >> -0.819817|-78.740585
-943 >> Modify lat lon to ec:arenillas >> -3.560618|-80.06058
-944 >> Modify lat lon to ec:el guabo >> -3.162261|-79.79005
-945 >> Modify lat lon to ec:huaquillas >> -3.48333|-80.2333
-946 >> Modify lat lon to ec:machala >> -3.249661|-79.95928
-947 >> Modify lat lon to ec:pinas >> -3.659646|-79.72931
-948 >> Modify lat lon to ec:santa rosa >> -0.652271|-90.40648
-949 >> Modify lat lon to ec:zaruma >> -3.540301|-79.50982
-950 >> Modify lat lon to ec:puerto ayora >> -0.707657|-90.31231
-951 >> Modify lat lon to ec:puerto baquerizo moreno >> -0.899221|-89.59971
-952 >> Modify lat lon to ec:puerto villamil >> -0.956067|-90.97242
-953 >> Modify lat lon to ec:balzar >> -1.366338|-79.896324
-954 >> Modify lat lon to ec:daule >> -1.86218|-79.97767
-955 >> Modify lat lon to ec:duran >> -2.1882|-79.80487
-956 >> Modify lat lon to ec:el empalme >> -1.049736|-79.60792
-957 >> Modify lat lon to ec:guayaquil >> -2.160198|-79.94082
-958 >> Modify lat lon to ec:milagro >> -2.138305|-79.59426
-959 >> Modify lat lon to ec:naranjal >> -2.681517|-79.61476
-960 >> Modify lat lon to ec:playas >> -2.63899|-80.38275
-961 >> Modify lat lon to ec:samborondon >> -2.107852|-79.86916
-962 >> Modify lat lon to ec:atuntaqui >> 0.344153|-78.221756
-963 >> Modify lat lon to ec:cotacachi >> 0.29998|-78.26428
-964 >> Modify lat lon to ec:ibarra >> 0.363453|-78.12413
-965 >> Modify lat lon to ec:otavalo >> 0.215181|-78.26677
-966 >> Modify lat lon to ec:pimampiro >> 0.298141|-77.93667
-967 >> Modify lat lon to ec:urcuqui >> 0.420588|-78.19429
-968 >> Modify lat lon to ec:alamor >> -4.016575|-80.02253
-969 >> Modify lat lon to ec:catamayo >> -3.909722|-79.41909
-970 >> Modify lat lon to ec:loja >> -3.998196|-79.20203
-971 >> Modify lat lon to ec:macara >> -4.328526|-79.92122
-972 >> Modify lat lon to ec:saraguro >> -3.534187|-79.31007
-973 >> Modify lat lon to ec:quevedo >> -1.042705|-79.46445
-974 >> Modify lat lon to ec:vinces >> -1.55|-79.7333
-975 >> Modify lat lon to ec:atahualpa >> -2.311959|-80.77257
-976 >> Modify lat lon to ec:jipijapa >> -1.33487|-80.54025
-977 >> Modify lat lon to ec:manta >> -0.95376|-80.71753
-978 >> Modify lat lon to ec:montecristi >> -1.054488|-80.65385
-979 >> Modify lat lon to ec:pedernales >> 0.151738|-79.94859
-980 >> Modify lat lon to ec:tosagua >> -0.782754|-80.237175
-981 >> Modify lat lon to ec:macas >> -2.355969|-78.02202
-982 >> Modify lat lon to ec:sucua >> -2.45866|-78.17171
-983 >> Modify lat lon to ec:archidona >> -0.917446|-77.79429
-984 >> Modify lat lon to ec:el chaco >> -0.346552|-77.794266
-985 >> Modify lat lon to ec:tena >> -1.042977|-77.83642
-986 >> Modify lat lon to ec:la joya de los sachas >> -0.309879|-76.84219
-987 >> Modify lat lon to ec:mera >> -1.411878|-78.076706
-988 >> Modify lat lon to ec:puyo >> -1.458511|-77.992584
-989 >> Modify lat lon to ec:aloag >> -0.470195|-78.58047
-990 >> Modify lat lon to ec:cayambe >> 0.002176|-78.0648
-991 >> Modify lat lon to ec:machachi >> -0.563936|-78.51166
-992 >> Modify lat lon to ec:quito >> -0.220299|-78.51171
-993 >> Modify lat lon to ec:san miguel de los bancos >> -0.027964|-78.963875
-994 >> Modify lat lon to ec:sangolqui >> -0.355506|-78.43591
-995 >> Modify lat lon to ec:tabacundo >> 0.055847|-78.20401
-996 >> Modify lat lon to ec:salinas >> -2.203656|-80.92278
-997 >> Modify lat lon to ec:shushufindi >> -0.303587|-76.47093
-998 >> Modify lat lon to ec:ambato >> -1.274578|-78.751144
-999 >> Modify lat lon to ec:banos >> -2.922394|-79.06767
-1000 >> Modify lat lon to ec:cevallos >> -1.354633|-78.616066
-1001 >> Modify lat lon to ec:patate >> -1.278934|-78.493515
-1002 >> Modify lat lon to ec:pelileo >> -1.351453|-78.54119
-1003 >> Modify lat lon to ec:pillaro >> -1.112071|-78.44016
-1004 >> Modify lat lon to ec:yantzaza >> -3.82778|-78.7594
-1005 >> Modify lat lon to ec:zamora >> -4.157505|-79.00206
-1006 >> Modify lat lon to ec:puerto lopez >> -1.560037|-80.811165
-1007 >> Modify lat lon to es:santiago de compostela >> 42.87713|-8.54521
-1008 >> Modify lat lon to es:vigo >> 42.13676|-6.690038
-1009 >> Modify lat lon to es:gijon >> 43.54216|-5.66386
-1010 >> Modify lat lon to es:aviles >> 43.55563|-5.92217
-1011 >> Modify lat lon to es:llanes >> 43.421246|-4.754211
-1012 >> Modify lat lon to es:sitges >> 41.23655|1.80954
-1013 >> Modify lat lon to es:lloret de mar >> 41.69979|2.84741
-1014 >> Modify lat lon to es:rosas >> 42.26246|3.17648
-1015 >> Modify lat lon to es:tossa de mar >> 41.71998|2.93202
-1016 >> Modify lat lon to es:salou >> 41.07634|1.13176
-1017 >> Modify lat lon to es:cambrils >> 41.06643|1.06123
-1018 >> Modify lat lon to es:calvia >> 39.543903|2.508345
-1019 >> Modify lat lon to es:pollensa >> 39.877502|3.01589
-1020 >> Modify lat lon to es:alcudia >> 39.8532|3.12166
-1021 >> Modify lat lon to es:ciudadela >> 43.08579|-8.028826
-1022 >> Modify lat lon to es:sant antoni de portmany >> 38.98017|1.30325
-1023 >> Modify lat lon to es:santa eulalia del rio >> 38.98473|1.53373
-1024 >> Modify lat lon to es:ibiza >> 38.90884|1.43237
-1025 >> Modify lat lon to es:formentera >> 38.71101|1.469704
-1026 >> Modify lat lon to es:adeje >> 28.136366|-16.730856
-1027 >> Modify lat lon to es:puerto de la cruz >> 28.077206|-14.49784
-1028 >> Modify lat lon to es:maspalomas >> 27.753382|-15.586434
-1029 >> Modify lat lon to es:la oliva >> 28.665606|-13.915914
-1030 >> Modify lat lon to es:benidorm >> 38.536713|-0.12945
-1031 >> Modify lat lon to es:javea >> 38.767513|0.171648
-1032 >> Modify lat lon to es:denia >> 38.83996|0.10704
-1033 >> Modify lat lon to es:calpe >> 38.644753|0.0445
-1034 >> Modify lat lon to es:torrevieja >> 37.97733|-0.68045
-1035 >> Modify lat lon to es:moraira >> 38.689026|0.132259
-1036 >> Modify lat lon to es:altea >> 38.623142|-0.045181
-1037 >> Modify lat lon to es:guardamar del segura >> 38.080624|-0.665766
-1038 >> Modify lat lon to es:peniscola >> 40.35963|0.40318
-1039 >> Modify lat lon to es:oliva >> 38.897697|-0.102647
-1040 >> Modify lat lon to es:gandia >> 38.96601|-0.1852
-1041 >> Modify lat lon to es:marbella >> 36.50996|-4.88413
-1042 >> Modify lat lon to es:nerja >> 36.74746|-3.87637
-1043 >> Modify lat lon to es:benalmadena >> 36.5953|-4.57333
-1044 >> Modify lat lon to es:estepona >> 36.42548|-5.14489
-1045 >> Modify lat lon to es:fuengirola >> 36.539192|-4.62433
-1046 >> Modify lat lon to es:torremolinos >> 36.621887|-4.49993
-1047 >> Modify lat lon to es:mijas >> 36.59557|-4.63771
-1048 >> Modify lat lon to es:ronda >> 36.74268|-5.16536
-1049 >> Modify lat lon to es:sanlucar de barrameda >> 36.776546|-6.349798
-1050 >> Modify lat lon to es:conil de la frontera >> 36.276066|-6.087532
-1051 >> Modify lat lon to es:tarifa >> 37.58677|-2.418713
-1052 >> Modify lat lon to es:jerez de la frontera >> 36.682472|-6.13665
-1053 >> Modify lat lon to es:chiclana de la frontera >> 36.399654|-6.110114
-1054 >> Modify lat lon to es:chipiona >> 36.728893|-6.409672
-1055 >> Modify lat lon to es:el puerto de santa maria >> 36.59906|-6.22427
-1056 >> Modify lat lon to es:algeciras >> 36.12912|-5.44664
-1057 >> Modify lat lon to es:mojacar >> 37.13993|-1.85131
-1058 >> Modify lat lon to es:vera >> 37.22527|-1.856161
-1059 >> Modify lat lon to es:roquetas de mar >> 36.76386|-2.615263
-1060 >> Modify lat lon to es:almunecar >> 36.7337|-3.691178
-1061 >> Modify lat lon to es:motril >> 36.738537|-3.485211
-1062 >> Modify lat lon to es:ayamonte >> 37.270603|-7.383234
-1063 >> Modify lat lon to es:punta umbria >> 37.180813|-6.967303
-1064 >> Modify lat lon to es:isla cristina >> 37.222473|-7.286357
-1065 >> Modify lat lon to es:islantilla >> 37.21031|-7.217119
-1066 >> Modify lat lon to es:merida >> 38.9168|-6.34495
-1067 >> Modify lat lon to es:villacarrillo >> 38.086018|-3.039567
-1068 >> Modify lat lon to es:baeza >> 37.945347|-3.490764
-1069 >> Modify lat lon to es:ubeda >> 37.99272|-3.306885
-1070 >> Modify lat lon to es:cazorla >> 37.913292|-3.00256
-1071 >> Modify lat lon to es:haro >> 42.57668|-2.84669
-1072 >> Modify lat lon to pe:mancora >> -4.106057|-81.046135
-1073 >> Modify lat lon to pe:vichayito >> -4.142398|-81.09772
-1074 >> Modify lat lon to pe:zorritos  2 >> -3.685203|-80.648094
-1075 >> Modify lat lon to cl:antofagasta >> -23.651777|-70.396736
-1076 >> Modify lat lon to cl:taltal >> -25.368431|-70.137665
-1077 >> Modify lat lon to cl:mejillones >> -22.976957|-70.25418
-1078 >> Modify lat lon to cl:calama >> -22.541021|-68.82425
-1079 >> Modify lat lon to cl:tocopilla >> -22.019964|-70.028336
-1080 >> Modify lat lon to cl:caldera >> -27.141506|-70.68246
-1081 >> Modify lat lon to cl:copiapo >> -27.31988|-69.827805
-1082 >> Modify lat lon to cl:tierra amarilla >> -27.8636|-69.671776
-1083 >> Modify lat lon to cl:chanaral >> -26.373123|-70.33782
-1084 >> Modify lat lon to cl:el salvador >> -26.148949|-69.62051
-1085 >> Modify lat lon to cl:huasco >> -28.257727|-71.01688
-1086 >> Modify lat lon to cl:vallenar >> -28.594856|-70.60265
-1087 >> Modify lat lon to cl:arauco >> -37.245872|-73.31416
-1088 >> Modify lat lon to cl:curanilahue >> -37.4667|-73.35
-1089 >> Modify lat lon to cl:lebu >> -37.674213|-73.58898
-1090 >> Modify lat lon to cl:cabrero >> -37.06172|-72.381355
-1091 >> Modify lat lon to cl:los angeles >> -37.407177|-72.327255
-1092 >> Modify lat lon to cl:yumbel >> -37.0833|-72.5667
-1093 >> Modify lat lon to cl:concepcion >> -36.834324|-72.951614
-1094 >> Modify lat lon to cl:coronel >> -37.0167|-73.1333
-1095 >> Modify lat lon to cl:lota >> -37.092346|-73.15557
-1096 >> Modify lat lon to cl:san pedro de la paz >> -36.838005|-73.10965
-1097 >> Modify lat lon to cl:tome >> -36.579|-72.93086
-1098 >> Modify lat lon to cl:bulnes >> -36.7333|-72.3
-1099 >> Modify lat lon to cl:chillan >> -36.59208|-72.10689
-1100 >> Modify lat lon to cl:quillon >> -36.7333|-72.4667
-1101 >> Modify lat lon to cl:san carlos >> -36.385895|-72.01844
-1102 >> Modify lat lon to cl:andacollo >> -30.220839|-71.07701
-1103 >> Modify lat lon to cl:illapel >> -31.6308|-71.1653
-1104 >> Modify lat lon to cl:los vilos >> -31.974613|-71.34223
-1105 >> Modify lat lon to cl:combarbala >> -31.1756|-71.0006
-1106 >> Modify lat lon to cl:coquimbo >> -30.081457|-71.33624
-1107 >> Modify lat lon to cl:vicuna >> -29.846485|-70.60025
-1108 >> Modify lat lon to cl:ovalle >> -30.59863|-71.19879
-1109 >> Modify lat lon to cl:monte patria >> -30.779732|-70.9133
-1110 >> Modify lat lon to cl:codegua >> -34.057117|-70.54728
-1111 >> Modify lat lon to cl:las cabras >> -34.3|-71.3167
-1112 >> Modify lat lon to cl:machali >> -34.17611|-70.66048
-1113 >> Modify lat lon to cl:pichilemu >> -34.38393|-71.91078
-1114 >> Modify lat lon to cl:rancagua >> -34.125664|-70.81693
-1115 >> Modify lat lon to cl:rengo >> -34.4167|-70.8667
-1116 >> Modify lat lon to cl:nancagua >> -34.6667|-71.2167
-1117 >> Modify lat lon to cl:palmilla >> -34.527905|-71.35291
-1118 >> Modify lat lon to cl:san fernando >> -34.583862|-70.98906
-1119 >> Modify lat lon to cl:santa cruz >> -34.640343|-71.366
-1120 >> Modify lat lon to cl:pitrufquen >> -39.06782|-72.71983
-1121 >> Modify lat lon to cl:temuco >> -38.683083|-72.67313
-1122 >> Modify lat lon to cl:angol >> -37.767548|-72.79561
-1123 >> Modify lat lon to cl:collipulli >> -38.02208|-72.130844
-1124 >> Modify lat lon to cl:curacautin >> -38.427967|-71.77352
-1125 >> Modify lat lon to cl:puren >> -38.0167|-73.0833
-1126 >> Modify lat lon to cl:renaico >> -37.71733|-72.57547
-1127 >> Modify lat lon to cl:victoria >> -38.234474|-72.336815
-1128 >> Modify lat lon to cl:ancud >> -41.915462|-73.79246
-1129 >> Modify lat lon to cl:castro >> -42.475304|-73.75514
-1130 >> Modify lat lon to cl:frutillar >> -41.08392|-73.114624
-1131 >> Modify lat lon to cl:llanquihue >> -41.2308|-73.1533
-1132 >> Modify lat lon to cl:puerto montt >> -41.47248|-72.93568
-1133 >> Modify lat lon to cl:puerto varas >> -41.32069|-72.98645
-1134 >> Modify lat lon to cl:osorno >> -40.613823|-73.10409
-1135 >> Modify lat lon to cl:futrono >> -40.110916|-72.11524
-1136 >> Modify lat lon to cl:la union >> -40.201874|-73.22035
-1137 >> Modify lat lon to cl:los lagos >> -39.85818|-72.589134
-1138 >> Modify lat lon to cl:paillaco >> -40.074318|-72.84327
-1139 >> Modify lat lon to cl:panguipulli >> -39.67103|-72.101715
-1140 >> Modify lat lon to cl:valdivia >> -39.81117|-73.18916
-1141 >> Modify lat lon to cl:puerto natales >> -51.659286|-72.49074
-1142 >> Modify lat lon to cl:curico >> -35.19931|-70.89491
-1143 >> Modify lat lon to cl:molina >> -35.1167|-71.2833
-1144 >> Modify lat lon to cl:linares >> -35.958435|-71.3317
-1145 >> Modify lat lon to cl:parral >> -36.251842|-71.68808
-1146 >> Modify lat lon to cl:san javier >> -35.629147|-71.92832
-1147 >> Modify lat lon to cl:villa alegre >> -35.68612|-71.68409
-1148 >> Modify lat lon to cl:constitucion >> -35.363426|-72.276115
-1149 >> Modify lat lon to cl:talca >> -35.42776|-71.60246
-1150 >> Modify lat lon to cl:colina >> -33.13164|-70.61936
-1151 >> Modify lat lon to cl:tiltil >> -33.0833|-70.9333
-1152 >> Modify lat lon to cl:pirque >> -33.677593|-70.5276
-1153 >> Modify lat lon to cl:puente alto >> -33.610542|-70.581024
-1154 >> Modify lat lon to cl:san jose de maipo >> -33.704403|-70.096596
-1155 >> Modify lat lon to cl:buin >> -33.74785|-70.738846
-1156 >> Modify lat lon to cl:paine >> -33.86126|-70.76556
-1157 >> Modify lat lon to cl:san bernardo >> -33.62912|-70.72398
-1158 >> Modify lat lon to cl:melipilla >> -33.7|-71.2167
-1159 >> Modify lat lon to cl:conchali >> -33.37649|-70.62975
-1160 >> Modify lat lon to cl:el bosque >> -33.56274|-70.67612
-1161 >> Modify lat lon to cl:independencia >> -33.41457|-70.665
-1162 >> Modify lat lon to cl:la cisterna >> -33.530067|-70.663826
-1163 >> Modify lat lon to cl:la florida >> -36.82231|-72.71781
-1164 >> Modify lat lon to cl:la granja >> -33.535477|-70.62246
-1165 >> Modify lat lon to cl:la reina >> -33.446217|-70.52546
-1166 >> Modify lat lon to cl:las condes >> -33.40504|-70.5205
-1167 >> Modify lat lon to cl:lo prado >> -33.44681|-70.722916
-1168 >> Modify lat lon to cl:maipu >> -33.506744|-70.80934
-1169 >> Modify lat lon to cl:nunoa >> -33.457813|-70.598656
-1170 >> Modify lat lon to cl:providencia >> -33.431747|-70.60968
-1171 >> Modify lat lon to cl:quinta normal >> -33.427555|-70.70105
-1172 >> Modify lat lon to cl:recoleta >> -33.40576|-70.63926
-1173 >> Modify lat lon to cl:renca >> -33.401733|-70.727554
-1174 >> Modify lat lon to cl:san miguel >> -33.49901|-70.6515
-1175 >> Modify lat lon to cl:vitacura >> -33.38011|-70.571884
-1176 >> Modify lat lon to cl:el monte >> -33.67818|-70.99158
-1177 >> Modify lat lon to cl:isla de maipo >> -33.750782|-70.87791
-1178 >> Modify lat lon to cl:padre hurtado >> -33.5667|-70.8333
-1179 >> Modify lat lon to cl:penaflor >> -33.60452|-70.87732
-1180 >> Modify lat lon to cl:talangate >> -33.68193|-70.89536
-1181 >> Modify lat lon to cl:pozo almonte >> -20.223274|-69.773834
-1182 >> Modify lat lon to cl:hanga roa >> -27.147999|-109.427284
-1183 >> Modify lat lon to cl:calle larga >> -32.947906|-70.54737
-1184 >> Modify lat lon to cl:los andes >> -32.840405|-70.57883
-1185 >> Modify lat lon to cl:rinconada >> -32.877464|-70.706345
-1186 >> Modify lat lon to cl:san esteban >> -32.727436|-70.51311
-1187 >> Modify lat lon to cl:la ligua >> -32.346855|-71.28939
-1188 >> Modify lat lon to cl:limache >> -32.99327|-71.2761
-1189 >> Modify lat lon to cl:olmue >> -33.028996|-71.116
-1190 >> Modify lat lon to cl:quillota >> -32.908466|-71.24824
-1191 >> Modify lat lon to cl:algarrobo >> -33.330173|-71.60475
-1192 >> Modify lat lon to cl:cartagena >> -33.537712|-71.54753
-1193 >> Modify lat lon to cl:el quisco >> -33.40292|-71.661736
-1194 >> Modify lat lon to cl:el tabo >> -33.47766|-71.60245
-1195 >> Modify lat lon to cl:san antonio >> -33.667015|-71.48683
-1196 >> Modify lat lon to cl:santo domingo >> -33.800156|-71.687294
-1197 >> Modify lat lon to cl:santa maria >> -32.718685|-70.626015
-1198 >> Modify lat lon to cl:concon >> -32.93499|-71.53496
-1199 >> Modify lat lon to cl:quilpue >> -33.147194|-71.253334
-1200 >> Modify lat lon to cl:quintero >> -32.836884|-71.48155
-1201 >> Modify lat lon to cl:villa alemana >> -33.054123|-71.34994
-1202 >> Modify lat lon to cl:arica 0b1d435e 695d 40d5 853b d399b683b3f7 >> -18.614136|-70.21739
-1203 >> Modify lat lon to cl:chile chico >> -46.542767|-71.76453
-1204 >> Modify lat lon to cl:san pedro de atacama >> -22.911015|-68.193726
-1205 >> Modify lat lon to cl:coyhaique >> -45.571213|-72.06847
-1206 >> Modify lat lon to cl:puerto rio tranquilo >> -46.63953|-72.67236
-1207 >> Modify lat lon to bo:trinidad 25917 >> -14.854517|-64.8829
-1208 >> Modify lat lon to bo:san javier >> -16.269234|-62.507595
-1209 >> Modify lat lon to bo:riberalta >> -11.032274|-66.03182
-1210 >> Modify lat lon to bo:guayaramerin >> -10.851137|-65.39087
-1211 >> Modify lat lon to bo:rurrenabaque >> -14.432679|-67.51094
-1212 >> Modify lat lon to bo:santa ana del yacuma >> -13.783221|-65.528984
-1213 >> Modify lat lon to bo:san ignacio de moxos >> -14.991289|-65.65279
-1214 >> Modify lat lon to bo:sucre >> -19.048325|-65.25827
-1215 >> Modify lat lon to bo:yotala >> -19.152|-65.27001
-1216 >> Modify lat lon to bo:cochabamba >> -17.388485|-66.15469
-1217 >> Modify lat lon to bo:villa tunari >> -16.987167|-65.432724
-1218 >> Modify lat lon to bo:tiquipaya >> -17.338095|-66.216736
-1219 >> Modify lat lon to bo:el alto 26015 >> -16.54202|-68.204636
-1220 >> Modify lat lon to bo:la paz 26016 >> -16.502998|-68.130684
-1221 >> Modify lat lon to bo:achacachi >> -16.031052|-68.700455
-1222 >> Modify lat lon to bo:sorata >> -15.792257|-68.601166
-1223 >> Modify lat lon to bo:apolo >> -14.643369|-68.23684
-1224 >> Modify lat lon to bo:coroico >> -16.209442|-67.73281
-1225 >> Modify lat lon to bo:chulumani >> -16.408646|-67.52891
-1226 >> Modify lat lon to bo:palca >> -16.547676|-68.00566
-1227 >> Modify lat lon to bo:mecapaca >> -16.650475|-68.029755
-1228 >> Modify lat lon to bo:copacabana >> -16.166046|-69.08633
-1229 >> Modify lat lon to bo:san buenaventura >> -14.428944|-67.55001
-1230 >> Modify lat lon to bo:yanacachi >> -16.382315|-67.764015
-1231 >> Modify lat lon to bo:huatajata >> -16.201302|-68.692955
-1232 >> Modify lat lon to bo:sabaya >> -19.01667|-68.38333
-1233 >> Modify lat lon to bo:oruro >> -17.967299|-67.095856
-1234 >> Modify lat lon to bo:todos santos >> -15.8833|-63.0667
-1235 >> Modify lat lon to bo:cobija >> -11.036361|-68.78563
-1236 >> Modify lat lon to bo:uyuni >> -20.404022|-66.858536
-1237 >> Modify lat lon to bo:toro toro >> -18.136015|-65.76044
-1238 >> Modify lat lon to bo:colcha k >> -20.941269|-67.35588
-1239 >> Modify lat lon to bo:san pedro de quemes >> -20.74848|-68.05018
-1240 >> Modify lat lon to bo:tupiza >> -21.450335|-65.71739
-1241 >> Modify lat lon to bo:potosi >> -19.537031|-65.7629
-1242 >> Modify lat lon to bo:la guardia >> -17.901564|-63.330498
-1243 >> Modify lat lon to bo:san jose de chiquitos >> -17.830942|-60.760803
-1244 >> Modify lat lon to bo:camiri >> -20.032408|-63.526505
-1245 >> Modify lat lon to bo:samaipata >> -18.17989|-63.866795
-1246 >> Modify lat lon to bo:san ignacio de velasco >> -16.381474|-60.936893
-1247 >> Modify lat lon to bo:concepcion 26231 >> -16.135372|-62.007442
-1248 >> Modify lat lon to bo:portachuelo >> -17.352533|-63.396473
-1249 >> Modify lat lon to bo:vallegrande >> -18.485516|-64.097176
-1250 >> Modify lat lon to bo:bermejo >> -22.731789|-64.339355
-1251 >> Modify lat lon to bo:tarija >> -21.53453|-64.732475
-1252 >> Modify lat lon to cr:alajuela >> 10.016696|-84.224434
-1253 >> Modify lat lon to cr:san ramon >> 10.119021|-84.4599
-1254 >> Modify lat lon to cr:upala >> 10.884242|-85.05814
-1255 >> Modify lat lon to cr:naranjo >> 10.103591|-84.38046
-1256 >> Modify lat lon to cr:palmares >> 10.064229|-84.434364
-1257 >> Modify lat lon to cr:atenas >> 9.984212|-84.38639
-1258 >> Modify lat lon to cr:los chiles >> 10.962063|-84.604324
-1259 >> Modify lat lon to cr:orotina >> 9.914056|-84.52421
-1260 >> Modify lat lon to cr:san mateo >> 9.966877|-84.53137
-1261 >> Modify lat lon to cr:cartago >> 9.85935|-83.92349
-1262 >> Modify lat lon to cr:turrialba >> 9.90431|-83.68332
-1263 >> Modify lat lon to cr:paraiso >> 10.359992|-85.86126
-1264 >> Modify lat lon to cr:liberia >> 10.585932|-85.45078
-1265 >> Modify lat lon to cr:santa cruz 24145 >> 10.23916|-85.59929
-1266 >> Modify lat lon to cr:nicoya >> 10.118469|-85.50483
-1267 >> Modify lat lon to cr:canas >> 10.450101|-85.09029
-1268 >> Modify lat lon to cr:tilaran >> 10.457504|-84.93353
-1269 >> Modify lat lon to cr:bagaces >> 10.464512|-85.28283
-1270 >> Modify lat lon to cr:la cruz >> 11.069106|-85.62227
-1271 >> Modify lat lon to cr:abangares >> 10.155619|-85.04296
-1272 >> Modify lat lon to cr:heredia >> 9.9985|-84.11728
-1273 >> Modify lat lon to cr:sarapiqui >> 10.47058|-84.07386
-1274 >> Modify lat lon to cr:san rafael 24158 >> 9.98333|-84.6167
-1275 >> Modify lat lon to cr:santo domingo >> 10.11309|-84.14817
-1276 >> Modify lat lon to cr:san isidro 24164 >> 9.975717|-84.00741
-1277 >> Modify lat lon to cr:limon >> 9.992055|-83.027725
-1278 >> Modify lat lon to cr:siquirres >> 10.13797|-83.41793
-1279 >> Modify lat lon to cr:guacimo >> 10.173866|-83.702446
-1280 >> Modify lat lon to cr:puntarenas >> 9.968638|-84.80772
-1281 >> Modify lat lon to cr:buenos aires 24175 >> 9.205627|-83.277405
-1282 >> Modify lat lon to cr:golfito >> 8.640285|-83.16741
-1283 >> Modify lat lon to cr:quepos >> 9.43089|-84.16396
-1284 >> Modify lat lon to cr:parrita >> 9.535018|-84.294136
-1285 >> Modify lat lon to cr:san jose >> 9.93286|-84.07956
-1286 >> Modify lat lon to cr:desamparados >> 9.899227|-84.06278
-1287 >> Modify lat lon to cr:alajuelita >> 9.888376|-84.1116
-1288 >> Modify lat lon to cr:curridabat >> 9.911158|-84.02837
-1289 >> Modify lat lon to cr:aserri >> 9.854964|-84.10853
-1290 >> Modify lat lon to cr:escazu >> 9.920195|-84.139015
-1291 >> Modify lat lon to cr:santa ana >> 9.938707|-84.20031
-1292 >> Modify lat lon to cr:jaco >> 9.627272|-84.60138
-1293 >> Modify lat lon to cr:monteverde >> 10.306625|-84.81133
-1294 >> Modify lat lon to cu:pinar del rio >> 22.39749|-83.67931
-1295 >> Modify lat lon to cu:mantua >> 22.365847|-84.27252
-1296 >> Modify lat lon to cu:san juan y martinez >> 22.294146|-83.87178
-1297 >> Modify lat lon to cu:sandino >> 22.083832|-84.18863
-1298 >> Modify lat lon to cu:vinales >> 22.616243|-83.70909
-1299 >> Modify lat lon to cu:artemisa >> 22.781416|-82.81483
-1300 >> Modify lat lon to cu:san antonio de los banos >> 22.907396|-82.48937
-1301 >> Modify lat lon to cu:bauta >> 22.9769|-82.54395
-1302 >> Modify lat lon to cu:caimito 25384 >> 22.930712|-82.62284
-1303 >> Modify lat lon to cu:la habana >> 23.0774|-82.3092
-1304 >> Modify lat lon to cu:playa >> 23.112366|-82.43901
-1305 >> Modify lat lon to cu:san jose de las lajas >> 22.99315|-82.148094
-1306 >> Modify lat lon to cu:bejucal >> 22.912363|-82.344315
-1307 >> Modify lat lon to cu:jaruco >> 23.042612|-82.00666
-1308 >> Modify lat lon to cu:melena del sur >> 22.782015|-82.157364
-1309 >> Modify lat lon to cu:santa cruz del norte >> 23.150007|-81.97629
-1310 >> Modify lat lon to cu:matanzas >> 23.058264|-81.58099
-1311 >> Modify lat lon to cu:cardenas >> 23.036251|-81.21307
-1312 >> Modify lat lon to cu:calimete >> 22.430662|-80.91467
-1313 >> Modify lat lon to cu:jaguey grande >> 22.589066|-81.12153
-1314 >> Modify lat lon to cu:cienfuegos >> 22.134521|-80.42456
-1315 >> Modify lat lon to cu:cumanayagua >> 22.03488|-80.19568
-1316 >> Modify lat lon to cu:palmira 25439 >> 22.287497|-80.38037
-1317 >> Modify lat lon to cu:santa clara 25442 >> 22.426838|-79.92332
-1318 >> Modify lat lon to cu:sagua la grande >> 22.813805|-80.05739
-1319 >> Modify lat lon to cu:caibarien >> 22.53159|-79.520164
-1320 >> Modify lat lon to cu:corralillo >> 22.9458|-80.56577
-1321 >> Modify lat lon to cu:trinidad >> 21.8023|-79.99778
-1322 >> Modify lat lon to cu:fomento >> 22.067957|-79.71008
-1323 >> Modify lat lon to cu:jatibonico >> 21.940834|-79.16642
-1324 >> Modify lat lon to cu:moron 25465 >> 22.192257|-78.5867
-1325 >> Modify lat lon to cu:ciego de avila >> 21.861744|-78.7597
-1326 >> Modify lat lon to cu:camaguey >> 21.425703|-77.92532
-1327 >> Modify lat lon to cu:ciego de avila 25477 >> 21.861744|-78.7597
-1328 >> Modify lat lon to cu:nuevitas >> 21.53621|-77.30792
-1329 >> Modify lat lon to cu:guaimaro >> 21.161976|-77.34547
-1330 >> Modify lat lon to cu:jimaguayu >> 21.226372|-77.84858
-1331 >> Modify lat lon to cu:las tunas >> 20.961185|-76.9492
-1332 >> Modify lat lon to cu:puerto padre >> 21.233107|-76.66346
-1333 >> Modify lat lon to cu:colombia >> 20.979042|-77.425674
-1334 >> Modify lat lon to cu:bayamo >> 20.393532|-76.62797
-1335 >> Modify lat lon to cu:manzanillo >> 20.303003|-77.09467
-1336 >> Modify lat lon to cu:niquero >> 20.037516|-77.54093
-1337 >> Modify lat lon to cu:bartolome maso >> 20.103142|-76.927895
-1338 >> Modify lat lon to cu:buey arriba >> 20.114538|-76.716286
-1339 >> Modify lat lon to cu:pilon 25510 >> 19.904331|-77.34332
-1340 >> Modify lat lon to cu:yara >> 20.333443|-76.95895
-1341 >> Modify lat lon to cu:holguin >> 20.871063|-76.276276
-1342 >> Modify lat lon to cu:moa >> 20.640026|-74.97565
-1343 >> Modify lat lon to cu:banes >> 20.969568|-75.70957
-1344 >> Modify lat lon to cu:mayari >> 20.661642|-75.67495
-1345 >> Modify lat lon to cu:antilla >> 20.846684|-75.67007
-1346 >> Modify lat lon to cu:gibara >> 21.107277|-76.10603
-1347 >> Modify lat lon to cu:rafael freyre >> 21.010618|-75.988014
-1348 >> Modify lat lon to cu:santiago de cuba >> 20.011501|-75.709625
-1349 >> Modify lat lon to cu:palma soriano >> 20.21542|-75.99164
-1350 >> Modify lat lon to cu:guama >> 19.975033|-76.49353
-1351 >> Modify lat lon to cu:guantanamo >> 20.104542|-75.16238
-1352 >> Modify lat lon to cu:baracoa >> 20.365126|-74.51994
-1353 >> Modify lat lon to cu:caimanera >> 19.95728|-75.14417
-1354 >> Modify lat lon to cu:nueva gerona >> 21.860432|-82.786354
-1355 >> Modify lat lon to do:las salinas >> 18.213047|-70.547005
-1356 >> Modify lat lon to do:paraiso 25205 >> 18.02653|-71.20899
-1357 >> Modify lat lon to do:san francisco de macoris >> 19.3|-70.25
-1358 >> Modify lat lon to do:arenoso >> 19.191008|-69.76817
-1359 >> Modify lat lon to do:las guaranas >> 19.200983|-70.22393
-1360 >> Modify lat lon to do:villa riva >> 19.150478|-69.88369
-1361 >> Modify lat lon to do:gaspar hernandez >> 19.596178|-70.268814
-1362 >> Modify lat lon to do:sabana de la mar >> 19.010374|-69.41188
-1363 >> Modify lat lon to do:la descubierta >> 18.60796|-71.75162
-1364 >> Modify lat lon to do:higuey >> 18.68197|-68.68916
-1365 >> Modify lat lon to do:la romana >> 18.454342|-68.937065
-1366 >> Modify lat lon to do:jarabacoa >> 19.086012|-70.720276
-1367 >> Modify lat lon to do:constanza >> 18.876925|-70.67525
-1368 >> Modify lat lon to do:nagua >> 19.37635|-69.93635
-1369 >> Modify lat lon to do:cabrera >> 19.580109|-69.96021
-1370 >> Modify lat lon to do:el factor >> 19.292654|-69.91559
-1371 >> Modify lat lon to do:rio san juan >> 19.644045|-70.07802
-1372 >> Modify lat lon to do:bonao >> 18.939302|-70.45712
-1373 >> Modify lat lon to do:maimon >> 18.908434|-70.277794
-1374 >> Modify lat lon to do:pedernales >> 18.061556|-71.60084
-1375 >> Modify lat lon to do:bani >> 18.337723|-70.38157
-1376 >> Modify lat lon to do:luperon >> 19.856798|-70.974434
-1377 >> Modify lat lon to do:sosua >> 19.751194|-70.52055
-1378 >> Modify lat lon to do:las terrenas >> 19.285824|-69.55469
-1379 >> Modify lat lon to do:san cristobal >> 18.433607|-70.12566
-1380 >> Modify lat lon to do:los cacaos >> 18.593136|-70.32508
-1381 >> Modify lat lon to do:villa altagracia >> 18.66667|-70.16667
-1382 >> Modify lat lon to do:san jose de ocoa >> 18.57038|-70.49805
-1383 >> Modify lat lon to do:san juan de la maguana >> 18.892914|-71.24108
-1384 >> Modify lat lon to do:san pedro de macoris >> 18.45486|-69.30674
-1385 >> Modify lat lon to do:la mata >> 19.101053|-70.16929
-1386 >> Modify lat lon to do:santiago de los caballeros >> 19.480635|-70.73146
-1387 >> Modify lat lon to do:santo domingo este >> 18.51236|-69.79419
-1388 >> Modify lat lon to do:santo domingo norte >> 18.609833|-69.912895
-1389 >> Modify lat lon to do:santo domingo oeste >> 18.474382|-70.0135
-1390 >> Modify lat lon to do:boca chica 25357 >> 18.451765|-69.608345
-1391 >> Modify lat lon to do:punta cana >> 18.59386|-68.38268
-1392 >> Modify lat lon to do:puerto plata >> 19.749388|-70.4101
-1393 >> Modify lat lon to gt:coban >> 15.462929|-90.38392
-1394 >> Modify lat lon to gt:san juan chamelco >> 15.417645|-90.33443
-1395 >> Modify lat lon to gt:lanquin >> 15.576199|-89.979965
-1396 >> Modify lat lon to gt:chisec >> 15.812986|-90.290924
-1397 >> Modify lat lon to gt:santa cruz verapaz >> 15.378348|-90.41678
-1398 >> Modify lat lon to gt:purulha >> 15.194269|-90.209984
-1399 >> Modify lat lon to gt:rabinal >> 15.086696|-90.50239
-1400 >> Modify lat lon to gt:salama >> 15.105212|-90.31603
-1401 >> Modify lat lon to gt:san jeronimo >> 15.062466|-90.25086
-1402 >> Modify lat lon to gt:chimaltenango >> 14.67015|-90.81077
-1403 >> Modify lat lon to gt:tecpan guatemala >> 14.759477|-90.98873
-1404 >> Modify lat lon to gt:acatenango >> 14.5519|-90.9422
-1405 >> Modify lat lon to gt:chiquimula >> 14.787237|-89.54259
-1406 >> Modify lat lon to gt:esquipulas >> 14.577425|-89.34294
-1407 >> Modify lat lon to gt:ipala >> 14.612098|-89.63342
-1408 >> Modify lat lon to gt:san cristobal acasaguastlan >> 15.004504|-89.87256
-1409 >> Modify lat lon to gt:iztapa >> 13.93797|-90.683716
-1410 >> Modify lat lon to gt:la gomera >> 14.08333|-91.05
-1411 >> Modify lat lon to gt:masagua >> 14.2031|-90.8481
-1412 >> Modify lat lon to gt:santa lucia cotzumalguapa >> 14.304068|-91.057686
-1413 >> Modify lat lon to gt:sipacate >> 13.93491|-91.13949
-1414 >> Modify lat lon to gt:tiquisate >> 14.285137|-91.36381
-1415 >> Modify lat lon to gt:mixco >> 14.640654|-90.60076
-1416 >> Modify lat lon to gt:san jose pinula >> 14.542641|-90.407646
-1417 >> Modify lat lon to gt:fraijanes >> 14.471419|-90.44186
-1418 >> Modify lat lon to gt:amatitlan >> 14.475081|-90.62234
-1419 >> Modify lat lon to gt:villa canales >> 14.470466|-90.51169
-1420 >> Modify lat lon to gt:puerto barrios >> 15.724726|-88.601425
-1421 >> Modify lat lon to gt:livingston >> 15.753923|-89.03859
-1422 >> Modify lat lon to gt:el estor >> 15.537274|-89.33317
-1423 >> Modify lat lon to gt:morales >> 15.471175|-88.8431
-1424 >> Modify lat lon to gt:moyuta >> 14.039147|-90.08169
-1425 >> Modify lat lon to gt:dolores >> 15.0833|-90.3333
-1426 >> Modify lat lon to gt:flores 24982 >> 16.93003|-89.89165
-1427 >> Modify lat lon to gt:melchor de mencos >> 17.062672|-89.15731
-1428 >> Modify lat lon to gt:poptun >> 16.338661|-89.52263
-1429 >> Modify lat lon to gt:san andres 24986 >> 16.970835|-89.92324
-1430 >> Modify lat lon to gt:san benito >> 16.906824|-89.923584
-1431 >> Modify lat lon to gt:las cruces 24993 >> 16.661875|-90.29028
-1432 >> Modify lat lon to gt:el chal >> 16.647915|-89.653435
-1433 >> Modify lat lon to gt:olintepeque >> 14.8833|-91.5167
-1434 >> Modify lat lon to gt:quetzaltenango >> 14.834272|-91.51838
-1435 >> Modify lat lon to gt:san martin sacatepequez >> 14.809353|-91.65246
-1436 >> Modify lat lon to gt:chajul >> 15.4853|-91.0342
-1437 >> Modify lat lon to gt:chichicastenango >> 14.9414|-91.107635
-1438 >> Modify lat lon to gt:nebaj >> 15.4058|-91.1461
-1439 >> Modify lat lon to gt:sacapulas >> 15.2867|-91.0872
-1440 >> Modify lat lon to gt:santa cruz del quiche >> 15.031281|-91.14902
-1441 >> Modify lat lon to gt:el asintal >> 14.620647|-91.73009
-1442 >> Modify lat lon to gt:retalhuleu >> 14.529981|-91.68435
-1443 >> Modify lat lon to gt:santa cruz mulua >> 14.583602|-91.623344
-1444 >> Modify lat lon to gt:alotenango >> 14.453504|-90.81294
-1445 >> Modify lat lon to gt:antigua guatemala >> 14.556826|-90.7337
-1446 >> Modify lat lon to gt:ciudad vieja >> 14.5264|-90.7597
-1447 >> Modify lat lon to gt:santa lucia milpas altas >> 14.57146|-90.66546
-1448 >> Modify lat lon to gt:catarina >> 14.839716|-92.076164
-1449 >> Modify lat lon to gt:tacana >> 15.236335|-92.06897
-1450 >> Modify lat lon to gt:barberena >> 14.301754|-90.35309
-1451 >> Modify lat lon to gt:monterrico >> 13.910703|-90.55724
-1452 >> Modify lat lon to gt:santa rosa de lima >> 14.389089|-90.29809
-1453 >> Modify lat lon to gt:taxisco >> 14.069026|-90.463585
-1454 >> Modify lat lon to gt:solola >> 14.772711|-91.17185
-1455 >> Modify lat lon to gt:concepcion 25118 >> 14.194099|-90.36891
-1456 >> Modify lat lon to gt:panajachel >> 14.737735|-91.15695
-1457 >> Modify lat lon to gt:san antonio palopo >> 14.676679|-91.112564
-1458 >> Modify lat lon to gt:san juan la laguna >> 14.694263|-91.287865
-1459 >> Modify lat lon to gt:san lucas toliman >> 14.637105|-91.145195
-1460 >> Modify lat lon to gt:san marcos la laguna >> 14.726427|-91.25853
-1461 >> Modify lat lon to gt:san pablo la laguna >> 14.72139|-91.27342
-1462 >> Modify lat lon to gt:san pedro la laguna >> 14.690421|-91.26983
-1463 >> Modify lat lon to gt:santa catarina palopo >> 14.720587|-91.13368
-1464 >> Modify lat lon to gt:santa cruz la laguna >> 14.740238|-91.209694
-1465 >> Modify lat lon to gt:santiago atitlan >> 14.642252|-91.22791
-1466 >> Modify lat lon to gt:zunilito >> 14.624873|-91.50497
-1467 >> Modify lat lon to gt:estanzuela >> 15.0|-89.56667
-1468 >> Modify lat lon to gt:rio hondo 25173 >> 15.098215|-89.59815
-1469 >> Modify lat lon to gt:teculutan >> 14.988364|-89.716866
-1470 >> Modify lat lon to py:ciudad del este >> -25.506836|-54.63889
-1471 >> Modify lat lon to py:presidente franco >> -25.600863|-54.634876
-1472 >> Modify lat lon to py:hernandarias >> -25.315763|-54.726864
-1473 >> Modify lat lon to py:doctor juan leon mallorquin >> -25.471935|-55.254356
-1474 >> Modify lat lon to py:los cedrales >> -25.677645|-54.745403
-1475 >> Modify lat lon to py:naranjal >> -25.973127|-55.18764
-1476 >> Modify lat lon to py:pedro juan caballero >> -22.561237|-55.739777
-1477 >> Modify lat lon to py:filadelfia >> -22.213842|-60.086098
-1478 >> Modify lat lon to py:salto del guaira >> -24.078718|-54.371357
-1479 >> Modify lat lon to py:luque >> -25.251978|-57.45063
-1480 >> Modify lat lon to py:san lorenzo 25734 >> -25.352545|-57.50957
-1481 >> Modify lat lon to py:lambare >> -25.353916|-57.615894
-1482 >> Modify lat lon to py:fernando de la mora >> -25.328165|-57.551117
-1483 >> Modify lat lon to py:limpio >> -25.157555|-57.464554
-1484 >> Modify lat lon to py:nemby >> -25.400284|-57.53688
-1485 >> Modify lat lon to py:itaugua >> -25.402805|-57.361015
-1486 >> Modify lat lon to py:mariano roque alonso >> -25.194511|-57.53007
-1487 >> Modify lat lon to py:aregua >> -25.30618|-57.40436
-1488 >> Modify lat lon to py:villeta >> -25.523558|-57.547123
-1489 >> Modify lat lon to py:guarambare >> -25.487816|-57.451122
-1490 >> Modify lat lon to py:ypacarai >> -25.399769|-57.285374
-1491 >> Modify lat lon to py:concepcion 25753 >> -23.381245|-57.40526
-1492 >> Modify lat lon to py:caacupe >> -25.385216|-57.145817
-1493 >> Modify lat lon to py:piribebuy >> -25.469711|-57.04727
-1494 >> Modify lat lon to py:arroyos y esteros >> -25.081621|-57.113503
-1495 >> Modify lat lon to py:atyra >> -25.278273|-57.17252
-1496 >> Modify lat lon to py:altos >> -25.257265|-57.24741
-1497 >> Modify lat lon to py:caraguatay >> -25.23575|-56.825073
-1498 >> Modify lat lon to py:san bernardino 25775 >> -25.328539|-57.27533
-1499 >> Modify lat lon to py:itacurubi de la cordillera >> -25.45|-56.85
-1500 >> Modify lat lon to py:nueva colombia >> -25.179243|-57.309704
-1501 >> Modify lat lon to py:villarrica >> -25.781918|-56.450886
-1502 >> Modify lat lon to py:independencia >> -25.699024|-56.277393
-1503 >> Modify lat lon to py:encarnacion >> -27.262743|-55.8942
-1504 >> Modify lat lon to py:obligado >> -27.062685|-55.634705
-1505 >> Modify lat lon to py:bella vista 25821 >> -26.9733|-55.45811
-1506 >> Modify lat lon to py:san cosme y damian >> -27.28143|-56.34446
-1507 >> Modify lat lon to py:trinidad 25828 >> -27.143955|-55.73178
-1508 >> Modify lat lon to py:jesus >> -27.072693|-55.807205
-1509 >> Modify lat lon to py:villa florida >> -26.3833|-57.15
-1510 >> Modify lat lon to py:yaguaron >> -25.545189|-57.29389
-1511 >> Modify lat lon to py:ybycui >> -26.027002|-57.017097
-1512 >> Modify lat lon to py:paraguari >> -25.592377|-57.09174
-1513 >> Modify lat lon to py:asuncion >> -25.279572|-57.645187
-1514 >> Modify lat lon to uy:artigas >> -30.407206|-56.47695
-1515 >> Modify lat lon to uy:ciudad de la costa >> -34.827152|-55.952175
-1516 >> Modify lat lon to uy:las piedras >> -30.246132|-57.583584
-1517 >> Modify lat lon to uy:barros blancos >> -34.759052|-56.001682
-1518 >> Modify lat lon to uy:pando >> -34.70963|-55.96835
-1519 >> Modify lat lon to uy:la paz >> -34.74912|-56.229443
-1520 >> Modify lat lon to uy:canelones >> -34.5273|-56.286476
-1521 >> Modify lat lon to uy:santa lucia 25561 >> -34.45678|-56.388214
-1522 >> Modify lat lon to uy:progreso 25562 >> -34.662563|-56.22334
-1523 >> Modify lat lon to uy:salinas >> -34.773796|-55.840572
-1524 >> Modify lat lon to uy:parque del plata >> -34.757538|-55.723186
-1525 >> Modify lat lon to uy:atlantida >> -34.697746|-55.77101
-1526 >> Modify lat lon to uy:san jacinto 25570 >> -34.535545|-55.860924
-1527 >> Modify lat lon to uy:toledo >> -34.739716|-56.087673
-1528 >> Modify lat lon to uy:melo >> -32.369408|-54.164284
-1529 >> Modify lat lon to uy:colonia del sacramento >> -34.469906|-57.844765
-1530 >> Modify lat lon to uy:carmelo >> -33.972305|-58.272446
-1531 >> Modify lat lon to uy:juan lacaze >> -34.424557|-57.433453
-1532 >> Modify lat lon to uy:nueva helvecia >> -34.292053|-57.23583
-1533 >> Modify lat lon to uy:rosario 25584 >> -34.31971|-57.3597
-1534 >> Modify lat lon to uy:nueva palmira >> -33.87061|-58.404266
-1535 >> Modify lat lon to uy:tarariras >> -34.268368|-57.6104
-1536 >> Modify lat lon to uy:colonia valdense >> -34.330673|-57.22713
-1537 >> Modify lat lon to uy:durazno >> -33.388218|-56.529064
-1538 >> Modify lat lon to uy:trinidad 25594 >> -33.496906|-56.940838
-1539 >> Modify lat lon to uy:florida 25598 >> -34.098682|-56.22126
-1540 >> Modify lat lon to uy:minas 25600 >> -34.117046|-55.212543
-1541 >> Modify lat lon to uy:jose pedro varela >> -33.457935|-54.53875
-1542 >> Modify lat lon to uy:maldonado >> -34.819622|-54.9802
-1543 >> Modify lat lon to uy:san carlos 25604 >> -34.791336|-54.92055
-1544 >> Modify lat lon to uy:punta del este >> -34.963028|-54.943764
-1545 >> Modify lat lon to uy:piriapolis >> -34.837456|-55.276184
-1546 >> Modify lat lon to uy:aigua >> -34.204796|-54.758854
-1547 >> Modify lat lon to uy:montevideo >> -34.9065|-56.19976
-1548 >> Modify lat lon to uy:paysandu >> -32.389027|-57.994312
-1549 >> Modify lat lon to uy:guichon >> -32.35769|-57.22216
-1550 >> Modify lat lon to uy:fray bentos >> -33.12494|-58.299175
-1551 >> Modify lat lon to uy:rivera >> -31.071568|-55.656685
-1552 >> Modify lat lon to uy:chuy >> -33.70544|-53.540424
-1553 >> Modify lat lon to uy:lascano >> -33.6763|-54.20833
-1554 >> Modify lat lon to uy:castillos >> -34.194653|-53.855072
-1555 >> Modify lat lon to uy:la paloma >> -34.66816|-54.18573
-1556 >> Modify lat lon to uy:salto >> -31.378193|-57.948532
-1557 >> Modify lat lon to uy:san jose de mayo >> -34.341106|-56.719448
-1558 >> Modify lat lon to uy:ciudad del plata >> -34.752502|-56.417282
-1559 >> Modify lat lon to uy:mercedes 25633 >> -33.230186|-57.985035
-1560 >> Modify lat lon to uy:dolores 25634 >> -33.533375|-58.213383
-1561 >> Modify lat lon to uy:tacuarembo >> -31.720032|-55.98834
-1562 >> Modify lat lon to uy:san gregorio de polanco >> -32.609467|-55.839794
-1563 >> Modify lat lon to uy:treinta y tres >> -33.09019|-54.372013
+599 >> Modify lat lon to co:necocli >> 8.5059|-76.70432
+600 >> Modify lat lon to co:turbo >> 7.955686|-76.73712
+601 >> Modify lat lon to co:bello >> 6.358918|-75.5897
+602 >> Modify lat lon to co:caldas >> 6.055516|-75.62687
+603 >> Modify lat lon to co:copacabana >> 6.352372|-75.500694
+604 >> Modify lat lon to co:envigado >> 6.153635|-75.546875
+605 >> Modify lat lon to co:girardota >> 6.379922|-75.44795
+606 >> Modify lat lon to co:itagui >> 6.179325|-75.61573
+607 >> Modify lat lon to co:medellin >> 6.246186|-75.57513
+608 >> Modify lat lon to co:sabaneta >> 6.138038|-75.608505
+609 >> Modify lat lon to co:arauca >> 6.791585|-70.47192
+610 >> Modify lat lon to co:barranquilla >> 11.006632|-74.81318
+611 >> Modify lat lon to co:malambo >> 10.85953|-74.77386
+612 >> Modify lat lon to co:soledad >> 10.90282|-74.772
+613 >> Modify lat lon to co:sabanalarga >> 10.62962|-74.92063
+614 >> Modify lat lon to co:cartagena >> 10.423437|-75.54946
+615 >> Modify lat lon to co:turbaco >> 10.334789|-75.38241
+616 >> Modify lat lon to co:magangue >> 9.24202|-74.75467
+617 >> Modify lat lon to co:tunja >> 8.180702|-73.23687
+618 >> Modify lat lon to co:sogamoso >> 5.671058|-72.887085
+619 >> Modify lat lon to co:duitama >> 5.890724|-73.06725
+620 >> Modify lat lon to co:chinchina >> 4.986398|-75.667114
+621 >> Modify lat lon to co:manizales >> 5.078494|-75.49424
+622 >> Modify lat lon to co:villamaria >> 4.940439|-75.43673
+623 >> Modify lat lon to co:la dorada >> 5.544719|-74.70767
+624 >> Modify lat lon to co:florencia >> 1.742024|-75.62069
+625 >> Modify lat lon to co:yopal >> 5.251512|-72.26816
+626 >> Modify lat lon to co:popayan >> 2.44153|-76.60695
+627 >> Modify lat lon to co:valledupar >> 10.373765|-73.509964
+628 >> Modify lat lon to co:aguachica >> 8.307912|-73.59051
+629 >> Modify lat lon to co:quibdo >> 5.942569|-76.76021
+630 >> Modify lat lon to co:monteria >> 8.590348|-75.967354
+631 >> Modify lat lon to co:cerete >> 8.88556|-75.7967
+632 >> Modify lat lon to co:girardot >> 4.339422|-74.81033
+633 >> Modify lat lon to co:cajica >> 4.91667|-74.0333
+634 >> Modify lat lon to co:chia >> 4.865445|-74.03738
+635 >> Modify lat lon to co:zipaquira >> 5.026847|-74.04258
+636 >> Modify lat lon to co:facatativa >> 4.799104|-74.35488
+637 >> Modify lat lon to co:mosquera >> 4.670508|-74.23272
+638 >> Modify lat lon to co:soacha >> 4.530046|-74.26936
+639 >> Modify lat lon to co:fusagasuga >> 4.2924|-74.38333
+640 >> Modify lat lon to co:inirida >> 3.360882|-68.40707
+641 >> Modify lat lon to co:garzon >> 2.195446|-75.57238
+642 >> Modify lat lon to co:neiva >> 3.011458|-75.33997
+643 >> Modify lat lon to co:la plata >> 2.392184|-75.89035
+644 >> Modify lat lon to co:pitalito >> 1.819997|-76.12134
+645 >> Modify lat lon to co:maicao >> 11.322037|-72.35203
+646 >> Modify lat lon to co:manaure >> 11.605454|-72.57141
+647 >> Modify lat lon to co:riohacha >> 11.243345|-72.95841
+648 >> Modify lat lon to co:uribia >> 11.7167|-72.2694
+649 >> Modify lat lon to co:cienaga >> 10.844883|-74.10022
+650 >> Modify lat lon to co:fundacion >> 10.458785|-73.8841
+651 >> Modify lat lon to co:santa marta >> 4.76667|-74.5333
+652 >> Modify lat lon to co:villavicencio >> 4.14938|-73.63519
+653 >> Modify lat lon to co:acacias >> 4.00333|-73.69224
+654 >> Modify lat lon to co:san juan de pasto >> 1.061886|-77.22296
+655 >> Modify lat lon to co:ipiales >> 0.577059|-77.375854
+656 >> Modify lat lon to co:ocana >> 8.219106|-73.3503
+657 >> Modify lat lon to co:villa del rosario >> 7.840555|-72.46968
+658 >> Modify lat lon to co:pamplona >> 7.376876|-72.6742
+659 >> Modify lat lon to co:armenia >> 4.498677|-75.72508
+660 >> Modify lat lon to co:calarca >> 4.469145|-75.65575
+661 >> Modify lat lon to co:dosquebradas >> 4.848383|-75.67336
+662 >> Modify lat lon to co:pereira >> 4.815725|-75.70425
+663 >> Modify lat lon to co:santa rosa de cabal >> 4.814918|-75.52977
+664 >> Modify lat lon to co:san andres >> 10.7833|-74.7333
+665 >> Modify lat lon to co:barrancabermeja >> 7.044182|-73.78313
+666 >> Modify lat lon to co:bucaramanga >> 7.137159|-73.13279
+667 >> Modify lat lon to co:floridablanca >> 7.063173|-73.08583
+668 >> Modify lat lon to co:piedecuesta >> 6.979184|-73.01021
+669 >> Modify lat lon to co:sincelejo >> 9.311229|-75.42837
+670 >> Modify lat lon to co:espinal >> 4.167084|-74.89436
+671 >> Modify lat lon to co:ibague >> 4.452523|-75.25345
+672 >> Modify lat lon to co:guadalajara de buga >> 3.874774|-76.118546
+673 >> Modify lat lon to co:tulua >> 4.027011|-76.03438
+674 >> Modify lat lon to co:cartago >> 4.705412|-75.916756
+675 >> Modify lat lon to co:buenaventura >> 3.624204|-77.12156
+676 >> Modify lat lon to co:cali >> 3.396812|-76.57563
+677 >> Modify lat lon to co:jamundi >> 3.211401|-76.62214
+678 >> Modify lat lon to co:palmira >> 3.55852|-76.22797
+679 >> Modify lat lon to co:yumbo >> 3.596391|-76.51141
+680 >> Modify lat lon to co:la victoria >> 3.351195|-75.172165
+681 >> Modify lat lon to co:puerto narino >> -3.631478|-70.462975
+682 >> Modify lat lon to co:el bagre >> 7.684744|-74.65697
+683 >> Modify lat lon to co:puerto berrio >> 6.481843|-74.52787
+684 >> Modify lat lon to co:puerto nare >> 6.142658|-74.66805
+685 >> Modify lat lon to co:puerto triunfo >> 5.953666|-74.68945
+686 >> Modify lat lon to co:angostura >> 6.858287|-75.361015
+687 >> Modify lat lon to co:ituango >> 7.256722|-75.87051
+688 >> Modify lat lon to co:san andres 22872 >> 10.7833|-74.7333
+689 >> Modify lat lon to co:san jose de la montana >> 6.822048|-75.69756
+690 >> Modify lat lon to co:san pedro >> 6.45974|-75.56016
+691 >> Modify lat lon to co:santa rosa de osos >> 6.64889|-75.4633
+692 >> Modify lat lon to co:valdivia >> 7.28889|-75.39778
+693 >> Modify lat lon to co:armenia 22881 >> 4.498677|-75.72508
+694 >> Modify lat lon to co:olaya >> 6.606882|-75.773674
+695 >> Modify lat lon to co:sabanalarga 22892 >> 10.62962|-74.92063
+696 >> Modify lat lon to co:san jeronimo >> 6.436577|-75.706955
+697 >> Modify lat lon to co:santa fe de antioquia >> 6.537811|-75.90626
+698 >> Modify lat lon to co:sopetran >> 6.525608|-75.74301
+699 >> Modify lat lon to co:alejandria >> 6.362247|-75.09129
+700 >> Modify lat lon to co:cocorna >> 6.019577|-75.165634
+701 >> Modify lat lon to co:guarne >> 6.268346|-75.4341
+702 >> Modify lat lon to co:guatape >> 6.231003|-75.15373
+703 >> Modify lat lon to co:la union >> 4.53911|-76.10313
+704 >> Modify lat lon to co:retiro >> 6.055676|-75.51347
+705 >> Modify lat lon to co:san francisco >> 4.943052|-74.2847
+706 >> Modify lat lon to co:san luis >> 7.9|-72.4833
+707 >> Modify lat lon to co:sonson >> 5.762939|-75.063385
+708 >> Modify lat lon to co:betania >> 5.713901|-76.03046
+709 >> Modify lat lon to co:jardin >> 5.573277|-75.83246
+710 >> Modify lat lon to co:jerico >> 5.770126|-75.76537
+711 >> Modify lat lon to co:la pintada >> 5.755308|-75.60483
+712 >> Modify lat lon to co:montebello >> 4.326475|-73.45778
+713 >> Modify lat lon to co:pueblorrico >> 5.794971|-75.87616
+714 >> Modify lat lon to co:santa barbara >> 5.878485|-75.58466
+715 >> Modify lat lon to co:urrao >> 6.342302|-76.26583
+716 >> Modify lat lon to co:valparaiso >> 5.645084|-75.64509
+717 >> Modify lat lon to co:arboletes >> 8.635686|-76.42305
+718 >> Modify lat lon to co:mutata >> 7.323315|-76.45267
+719 >> Modify lat lon to co:barbosa >> 5.951606|-73.63726
+720 >> Modify lat lon to co:puerto rondon >> 6.561108|-71.09216
+721 >> Modify lat lon to co:san andres 22955 >> 10.7833|-74.7333
+722 >> Modify lat lon to co:puerto colombia >> 11.012909|-74.91984
+723 >> Modify lat lon to co:santa lucia >> 2.18528|-75.6186
+724 >> Modify lat lon to co:mompos >> 9.131808|-74.57972
+725 >> Modify lat lon to co:san fernando >> 9.080958|-74.41167
+726 >> Modify lat lon to co:santa catalina >> 13.387623|-81.37574
+727 >> Modify lat lon to co:villanueva >> 6.654502|-73.15761
+728 >> Modify lat lon to co:arenal >> 8.46667|-73.95
+729 >> Modify lat lon to co:santa rosa del sur >> 7.697618|-74.27588
+730 >> Modify lat lon to co:chivata >> 5.540846|-73.2847
+731 >> Modify lat lon to co:cucaita >> 5.515532|-73.49011
+732 >> Modify lat lon to co:toca >> 5.581721|-73.164665
+733 >> Modify lat lon to co:chiscas >> 6.654568|-72.44231
+734 >> Modify lat lon to co:cubara >> 6.860053|-72.20704
+735 >> Modify lat lon to co:el cocuy >> 6.356474|-72.41639
+736 >> Modify lat lon to co:guican >> 6.567545|-72.26435
+737 >> Modify lat lon to co:jenesano >> 5.35181|-73.40873
+738 >> Modify lat lon to co:tibana >> 5.32056|-73.4006
+739 >> Modify lat lon to co:santa maria >> 4.7617|-73.23076
+740 >> Modify lat lon to co:san mateo >> 6.40629|-72.56094
+741 >> Modify lat lon to co:susacon >> 6.23306|-72.6933
+742 >> Modify lat lon to co:buenavista >> 4.362949|-75.742455
+743 >> Modify lat lon to co:caldas 23072 >> 6.055516|-75.62687
+744 >> Modify lat lon to co:la victoria 23074 >> 3.351195|-75.172165
+745 >> Modify lat lon to co:pauna >> 5.65861|-73.9825
+746 >> Modify lat lon to co:arcabuco >> 5.723896|-73.46782
+747 >> Modify lat lon to co:gachantiva >> 5.751704|-73.549416
+748 >> Modify lat lon to co:moniquira >> 5.88056|-73.5747
+749 >> Modify lat lon to co:sachica >> 5.544324|-73.56587
+750 >> Modify lat lon to co:santa sofia >> 5.702127|-73.62975
+751 >> Modify lat lon to co:tinjaca >> 5.566378|-73.710526
+752 >> Modify lat lon to co:villa de leyva >> 5.633748|-73.52364
+753 >> Modify lat lon to co:aquitania >> 5.433792|-72.889595
+754 >> Modify lat lon to co:cuitiva >> 5.590351|-72.93922
+755 >> Modify lat lon to co:firavitoba >> 5.674074|-73.018394
+756 >> Modify lat lon to co:iza >> 5.617001|-72.970345
+757 >> Modify lat lon to co:nobsa >> 5.747331|-72.95604
+758 >> Modify lat lon to co:pesca >> 5.495868|-73.084496
+759 >> Modify lat lon to co:tibasosa >> 5.717748|-73.02978
+760 >> Modify lat lon to co:belen >> 5.990027|-72.91163
+761 >> Modify lat lon to co:paipa >> 5.808499|-73.183945
+762 >> Modify lat lon to co:jerico 23127 >> 5.770126|-75.76537
+763 >> Modify lat lon to co:la merced >> 4.618122|-74.06601
+764 >> Modify lat lon to co:supia >> 5.43497|-75.672806
+765 >> Modify lat lon to co:risaralda >> 5.117688|-75.76414
+766 >> Modify lat lon to co:viterbo >> 5.047195|-75.88001
+767 >> Modify lat lon to co:neira >> 5.181716|-75.51262
+768 >> Modify lat lon to co:palestina >> 1.617525|-76.11632
+769 >> Modify lat lon to co:salamina >> 5.378025|-75.41914
+770 >> Modify lat lon to co:albania >> 11.221365|-72.53853
+771 >> Modify lat lon to co:valparaiso 23168 >> 5.645084|-75.64509
+772 >> Modify lat lon to co:aguazul >> 5.124754|-72.54086
+773 >> Modify lat lon to co:monterrey >> 4.820158|-72.879005
+774 >> Modify lat lon to co:orocue >> 4.916544|-71.609245
+775 >> Modify lat lon to co:paz de ariporo >> 5.781671|-70.878685
+776 >> Modify lat lon to co:sabanalarga 23180 >> 10.62962|-74.92063
+777 >> Modify lat lon to co:villanueva 23186 >> 6.654502|-73.15761
+778 >> Modify lat lon to co:el tambo >> 1.47789|-77.438675
+779 >> Modify lat lon to co:padilla >> 3.195007|-76.33903
+780 >> Modify lat lon to co:guapi >> 2.424188|-77.65867
+781 >> Modify lat lon to co:silvia >> 2.667774|-76.37643
+782 >> Modify lat lon to co:florencia 23218 >> 1.742024|-75.62069
+783 >> Modify lat lon to co:la vega >> 4.68333|-74.5167
+784 >> Modify lat lon to co:santa rosa >> 11.0167|-74.8667
+785 >> Modify lat lon to co:manaure 23238 >> 11.605454|-72.57141
+786 >> Modify lat lon to co:san diego >> 6.230899|-75.567566
+787 >> Modify lat lon to co:gamarra >> 8.342409|-73.70434
+788 >> Modify lat lon to co:san martin >> 7.970036|-73.57247
+789 >> Modify lat lon to co:acandi >> 8.446742|-77.279564
+790 >> Modify lat lon to co:bahia solano >> 6.326244|-77.3606
+791 >> Modify lat lon to co:nuqui >> 5.703822|-77.31211
+792 >> Modify lat lon to co:condoto >> 5.100818|-76.48779
+793 >> Modify lat lon to co:san antero >> 9.362259|-75.78364
+794 >> Modify lat lon to co:san bernardo del viento >> 9.326064|-75.9717
+795 >> Modify lat lon to co:buenavista 23292 >> 4.362949|-75.742455
+796 >> Modify lat lon to co:choconta >> 5.15|-73.68333
+797 >> Modify lat lon to co:suesca >> 5.126134|-73.80358
+798 >> Modify lat lon to co:tibirita >> 5.059929|-73.540016
+799 >> Modify lat lon to co:nilo >> 4.282872|-74.63777
+800 >> Modify lat lon to co:ricaurte >> 4.307435|-74.72967
+801 >> Modify lat lon to co:guaduas >> 5.159924|-74.65951
+802 >> Modify lat lon to co:puerto salgar >> 5.618361|-74.58613
+803 >> Modify lat lon to co:la vega 23317 >> 4.68333|-74.5167
+804 >> Modify lat lon to co:nimaima >> 5.11742|-74.4134
+805 >> Modify lat lon to co:nocaima >> 5.047677|-74.40464
+806 >> Modify lat lon to co:san francisco 23321 >> 4.943052|-74.2847
+807 >> Modify lat lon to co:sasaima >> 4.928911|-74.42797
+808 >> Modify lat lon to co:utica >> 5.169777|-74.501335
+809 >> Modify lat lon to co:villeta >> 5.000199|-74.504974
+810 >> Modify lat lon to co:guasca >> 4.791952|-73.863884
+811 >> Modify lat lon to co:guatavita >> 4.911214|-73.83989
+812 >> Modify lat lon to co:la calera >> 4.713509|-73.962456
+813 >> Modify lat lon to co:san juan de rio seco >> 4.847129|-74.62223
+814 >> Modify lat lon to co:viani >> 4.881491|-74.57538
+815 >> Modify lat lon to co:medina >> 4.48139|-73.413956
+816 >> Modify lat lon to co:chipaque >> 4.431848|-74.05782
+817 >> Modify lat lon to co:choachi >> 4.585013|-73.912964
+818 >> Modify lat lon to co:fomeque >> 4.519293|-73.790054
+819 >> Modify lat lon to co:la palma >> 5.324925|-74.41141
+820 >> Modify lat lon to co:pacho >> 5.164813|-74.16007
+821 >> Modify lat lon to co:sopo >> 4.906938|-73.9405
+822 >> Modify lat lon to co:tabio >> 4.915516|-74.0982
+823 >> Modify lat lon to co:tocancipa >> 4.957064|-73.93456
+824 >> Modify lat lon to co:bojaca >> 4.73333|-74.35
+825 >> Modify lat lon to co:cota >> 4.788215|-74.12355
+826 >> Modify lat lon to co:subachoque >> 4.93167|-74.1764
+827 >> Modify lat lon to co:tenjo >> 4.872039|-74.14501
+828 >> Modify lat lon to co:cabrera >> 3.921617|-74.44513
+829 >> Modify lat lon to co:granada 23377 >> 7.120144|-73.13862
+830 >> Modify lat lon to co:san bernardo >> 4.152991|-74.34431
+831 >> Modify lat lon to co:silvania >> 4.425134|-74.38427
+832 >> Modify lat lon to co:tibacuy >> 4.306063|-74.516396
+833 >> Modify lat lon to co:anapoima >> 4.559623|-74.52514
+834 >> Modify lat lon to co:apulo >> 4.522309|-74.578384
+835 >> Modify lat lon to co:el colegio >> 4.58472|-74.9494
+836 >> Modify lat lon to co:la mesa >> 4.651203|-74.47347
+837 >> Modify lat lon to co:carmen de carupa >> 5.332255|-73.9533
+838 >> Modify lat lon to co:cucunuba >> 5.25306|-73.7714
+839 >> Modify lat lon to co:susa >> 5.438137|-73.82692
+840 >> Modify lat lon to co:ubate >> 5.31222|-73.8192
+841 >> Modify lat lon to co:la guadalupe >> 1.399686|-67.00083
+842 >> Modify lat lon to co:puerto colombia 23410 >> 11.012909|-74.91984
+843 >> Modify lat lon to co:altamira >> 10.6|-75.45
+844 >> Modify lat lon to co:campoalegre >> 2.653074|-75.3172
+845 >> Modify lat lon to co:colombia >> 5.16667|-75.6667
+846 >> Modify lat lon to co:rivera >> 2.777151|-75.19411
+847 >> Modify lat lon to co:santa maria 23431 >> 4.7617|-73.23076
+848 >> Modify lat lon to co:villavieja >> 3.265072|-75.16192
+849 >> Modify lat lon to co:nataga >> 2.663773|-75.851906
+850 >> Modify lat lon to co:paicol >> 2.400465|-75.77094
+851 >> Modify lat lon to co:palestina 23444 >> 1.617525|-76.11632
+852 >> Modify lat lon to co:san agustin >> 1.923722|-76.416084
+853 >> Modify lat lon to co:albania 23448 >> 11.221365|-72.53853
+854 >> Modify lat lon to co:dibulla >> 11.090056|-73.43502
+855 >> Modify lat lon to co:san juan del cesar >> 10.808725|-73.08662
+856 >> Modify lat lon to co:villanueva 23458 >> 6.654502|-73.15761
+857 >> Modify lat lon to co:algarrobo >> 5.0725|-75.5842
+858 >> Modify lat lon to co:aracataca >> 10.628093|-73.96216
+859 >> Modify lat lon to co:salamina 23474 >> 5.378025|-75.41914
+860 >> Modify lat lon to co:guamal >> 3.947585|-73.959145
+861 >> Modify lat lon to co:santa ana >> 4.44722|-75.1556
+862 >> Modify lat lon to co:el dorado >> 3.713535|-73.838554
+863 >> Modify lat lon to co:granada 23486 >> 7.120144|-73.13862
+864 >> Modify lat lon to co:la macarena >> 4.6123|-74.06731
+865 >> Modify lat lon to co:puerto lleras >> 3.21794|-73.23215
+866 >> Modify lat lon to co:vista hermosa >> 2.811411|-73.67848
+867 >> Modify lat lon to co:castilla la nueva >> 3.812787|-73.55252
+868 >> Modify lat lon to co:guamal 23501 >> 3.947585|-73.959145
+869 >> Modify lat lon to co:restrepo >> 4.248263|-73.490524
+870 >> Modify lat lon to co:san martin 23506 >> 7.970036|-73.57247
+871 >> Modify lat lon to co:puerto gaitan >> 3.993826|-71.63701
+872 >> Modify lat lon to co:puerto lopez >> 4.039268|-72.61633
+873 >> Modify lat lon to co:el penol >> 6.246384|-75.22097
+874 >> Modify lat lon to co:el tambo 23513 >> 1.47789|-77.438675
+875 >> Modify lat lon to co:la florida >> 4.759048|-75.618385
+876 >> Modify lat lon to co:los andes >> 4.73643|-73.536194
+877 >> Modify lat lon to co:providencia >> 13.353275|-81.37396
+878 >> Modify lat lon to co:ricaurte 23528 >> 4.307435|-74.72967
+879 >> Modify lat lon to co:el charco >> 2.255458|-77.87112
+880 >> Modify lat lon to co:mosquera 23538 >> 4.670508|-74.23272
+881 >> Modify lat lon to co:santa barbara 23541 >> 5.878485|-75.58466
+882 >> Modify lat lon to co:tumaco >> 1.58387|-78.663765
+883 >> Modify lat lon to co:belen 23545 >> 5.990027|-72.91163
+884 >> Modify lat lon to co:el rosario >> 6.247046|-75.51259
+885 >> Modify lat lon to co:la union 23552 >> 4.53911|-76.10313
+886 >> Modify lat lon to co:san bernardo 23555 >> 4.152991|-74.34431
+887 >> Modify lat lon to co:potosi >> 4.568952|-74.17045
+888 >> Modify lat lon to co:pupiales >> 0.93645|-77.67004
+889 >> Modify lat lon to co:arboledas >> 7.590502|-72.896736
+890 >> Modify lat lon to co:santiago >> 1.053633|-77.038925
+891 >> Modify lat lon to co:el carmen >> 5.03333|-73.9833
+892 >> Modify lat lon to co:chinacota >> 7.555449|-72.60413
+893 >> Modify lat lon to co:durania >> 1.26667|-70.1833
+894 >> Modify lat lon to co:herran >> 7.480699|-72.500595
+895 >> Modify lat lon to co:ragonvalia >> 7.577952|-72.524605
+896 >> Modify lat lon to co:puerto asis >> 0.458635|-76.34114
+897 >> Modify lat lon to co:san miguel >> 0.306252|-76.85727
+898 >> Modify lat lon to co:santiago 23617 >> 1.053633|-77.038925
+899 >> Modify lat lon to co:buenavista 23621 >> 4.362949|-75.742455
+900 >> Modify lat lon to co:pijao >> 4.301943|-75.68121
+901 >> Modify lat lon to co:filandia >> 4.669141|-75.675606
+902 >> Modify lat lon to co:salento >> 4.611373|-75.53081
+903 >> Modify lat lon to co:circasia >> 4.610542|-75.66295
+904 >> Modify lat lon to co:la tebaida >> 4.436149|-75.81683
+905 >> Modify lat lon to co:montenegro >> 4.522207|-75.81779
+906 >> Modify lat lon to co:quimbaya >> 4.6103|-75.79169
+907 >> Modify lat lon to co:belen de umbria >> 5.201448|-75.86795
+908 >> Modify lat lon to co:la virginia >> 4.895382|-75.88906
+909 >> Modify lat lon to co:marsella >> 4.065799|-73.48108
+910 >> Modify lat lon to co:confines >> 4.099653|-75.60136
+911 >> Modify lat lon to co:gambita >> 5.94861|-73.3475
+912 >> Modify lat lon to co:socorro >> 6.462513|-73.243835
+913 >> Modify lat lon to co:cepita >> 6.733754|-72.94909
+914 >> Modify lat lon to co:san miguel 23669 >> 0.306252|-76.85727
+915 >> Modify lat lon to co:barichara >> 6.645126|-73.21573
+916 >> Modify lat lon to co:cabrera 23672 >> 3.921617|-74.44513
+917 >> Modify lat lon to co:curiti >> 6.619823|-73.01353
+918 >> Modify lat lon to co:paramo >> 6.416299|-73.17161
+919 >> Modify lat lon to co:san gil >> 6.550896|-73.118195
+920 >> Modify lat lon to co:valle de san jose >> 6.434687|-73.10984
+921 >> Modify lat lon to co:villanueva 23686 >> 6.654502|-73.15761
+922 >> Modify lat lon to co:puerto wilches >> 7.536627|-73.80505
+923 >> Modify lat lon to co:san vicente de chucuri >> 6.868161|-73.522446
+924 >> Modify lat lon to co:zapatoca >> 6.812657|-73.26232
+925 >> Modify lat lon to ec:cuenca >> -2.898429|-79.00612
+926 >> Modify lat lon to ec:gualaceo >> -2.907218|-78.76031
+927 >> Modify lat lon to ec:nabon >> -3.277553|-79.15023
+928 >> Modify lat lon to ec:paute >> -2.753321|-78.74818
+929 >> Modify lat lon to ec:santa isabel >> -3.14645|-79.42081
+930 >> Modify lat lon to ec:sigsig >> -3.124973|-78.884094
+931 >> Modify lat lon to ec:guaranda >> -1.415639|-79.047714
+932 >> Modify lat lon to ec:san miguel >> -1.797895|-79.10946
+933 >> Modify lat lon to ec:azogues >> -2.624635|-78.748276
+934 >> Modify lat lon to ec:canar >> -2.511173|-79.10249
+935 >> Modify lat lon to ec:la troncal >> -2.44756|-79.37628
+936 >> Modify lat lon to ec:el angel >> 0.685302|-78.0082
+937 >> Modify lat lon to ec:tulcan >> 0.908012|-78.15695
+938 >> Modify lat lon to ec:alausi >> -2.30043|-78.737495
+939 >> Modify lat lon to ec:chambo >> -1.731028|-78.596756
+940 >> Modify lat lon to ec:chunchi >> -2.345087|-78.900764
+941 >> Modify lat lon to ec:guamote >> -2.028432|-78.65128
+942 >> Modify lat lon to ec:guano >> -1.537453|-78.67187
+943 >> Modify lat lon to ec:pallatanga >> -2.00214|-78.935745
+944 >> Modify lat lon to ec:riobamba >> -1.725905|-78.65271
+945 >> Modify lat lon to ec:latacunga >> -0.782489|-78.58245
+946 >> Modify lat lon to ec:pujili >> -0.997268|-78.8809
+947 >> Modify lat lon to ec:saquisili >> -0.819817|-78.740585
+948 >> Modify lat lon to ec:arenillas >> -3.560618|-80.06058
+949 >> Modify lat lon to ec:el guabo >> -3.162261|-79.79005
+950 >> Modify lat lon to ec:huaquillas >> -3.48333|-80.2333
+951 >> Modify lat lon to ec:machala >> -3.249661|-79.95928
+952 >> Modify lat lon to ec:pinas >> -3.659646|-79.72931
+953 >> Modify lat lon to ec:santa rosa >> -0.652271|-90.40648
+954 >> Modify lat lon to ec:zaruma >> -3.540301|-79.50982
+955 >> Modify lat lon to ec:puerto ayora >> -0.707657|-90.31231
+956 >> Modify lat lon to ec:puerto baquerizo moreno >> -0.899221|-89.59971
+957 >> Modify lat lon to ec:puerto villamil >> -0.956067|-90.97242
+958 >> Modify lat lon to ec:balzar >> -1.366338|-79.896324
+959 >> Modify lat lon to ec:daule >> -1.86218|-79.97767
+960 >> Modify lat lon to ec:duran >> -2.1882|-79.80487
+961 >> Modify lat lon to ec:el empalme >> -1.049736|-79.60792
+962 >> Modify lat lon to ec:guayaquil >> -2.160198|-79.94082
+963 >> Modify lat lon to ec:milagro >> -2.138305|-79.59426
+964 >> Modify lat lon to ec:naranjal >> -2.681517|-79.61476
+965 >> Modify lat lon to ec:playas >> -2.63899|-80.38275
+966 >> Modify lat lon to ec:samborondon >> -2.107852|-79.86916
+967 >> Modify lat lon to ec:atuntaqui >> 0.344153|-78.221756
+968 >> Modify lat lon to ec:cotacachi >> 0.29998|-78.26428
+969 >> Modify lat lon to ec:ibarra >> 0.363453|-78.12413
+970 >> Modify lat lon to ec:otavalo >> 0.215181|-78.26677
+971 >> Modify lat lon to ec:pimampiro >> 0.298141|-77.93667
+972 >> Modify lat lon to ec:urcuqui >> 0.420588|-78.19429
+973 >> Modify lat lon to ec:alamor >> -4.016575|-80.02253
+974 >> Modify lat lon to ec:catamayo >> -3.909722|-79.41909
+975 >> Modify lat lon to ec:loja >> -3.998196|-79.20203
+976 >> Modify lat lon to ec:macara >> -4.328526|-79.92122
+977 >> Modify lat lon to ec:saraguro >> -3.534187|-79.31007
+978 >> Modify lat lon to ec:quevedo >> -1.042705|-79.46445
+979 >> Modify lat lon to ec:vinces >> -1.55|-79.7333
+980 >> Modify lat lon to ec:atahualpa >> -2.311959|-80.77257
+981 >> Modify lat lon to ec:jipijapa >> -1.33487|-80.54025
+982 >> Modify lat lon to ec:manta >> -0.95376|-80.71753
+983 >> Modify lat lon to ec:montecristi >> -1.054488|-80.65385
+984 >> Modify lat lon to ec:pedernales >> 0.151738|-79.94859
+985 >> Modify lat lon to ec:tosagua >> -0.782754|-80.237175
+986 >> Modify lat lon to ec:macas >> -2.355969|-78.02202
+987 >> Modify lat lon to ec:sucua >> -2.45866|-78.17171
+988 >> Modify lat lon to ec:archidona >> -0.917446|-77.79429
+989 >> Modify lat lon to ec:el chaco >> -0.346552|-77.794266
+990 >> Modify lat lon to ec:tena >> -1.042977|-77.83642
+991 >> Modify lat lon to ec:la joya de los sachas >> -0.309879|-76.84219
+992 >> Modify lat lon to ec:mera >> -1.411878|-78.076706
+993 >> Modify lat lon to ec:puyo >> -1.458511|-77.992584
+994 >> Modify lat lon to ec:aloag >> -0.470195|-78.58047
+995 >> Modify lat lon to ec:cayambe >> 0.002176|-78.0648
+996 >> Modify lat lon to ec:machachi >> -0.563936|-78.51166
+997 >> Modify lat lon to ec:quito >> -0.220299|-78.51171
+998 >> Modify lat lon to ec:san miguel de los bancos >> -0.027964|-78.963875
+999 >> Modify lat lon to ec:sangolqui >> -0.355506|-78.43591
+1000 >> Modify lat lon to ec:tabacundo >> 0.055847|-78.20401
+1001 >> Modify lat lon to ec:salinas >> -2.203656|-80.92278
+1002 >> Modify lat lon to ec:shushufindi >> -0.303587|-76.47093
+1003 >> Modify lat lon to ec:ambato >> -1.274578|-78.751144
+1004 >> Modify lat lon to ec:banos >> -2.922394|-79.06767
+1005 >> Modify lat lon to ec:cevallos >> -1.354633|-78.616066
+1006 >> Modify lat lon to ec:patate >> -1.278934|-78.493515
+1007 >> Modify lat lon to ec:pelileo >> -1.351453|-78.54119
+1008 >> Modify lat lon to ec:pillaro >> -1.112071|-78.44016
+1009 >> Modify lat lon to ec:yantzaza >> -3.82778|-78.7594
+1010 >> Modify lat lon to ec:zamora >> -4.157505|-79.00206
+1011 >> Modify lat lon to ec:puerto lopez >> -1.560037|-80.811165
+1012 >> Modify lat lon to es:santiago de compostela >> 42.87713|-8.54521
+1013 >> Modify lat lon to es:vigo >> 42.13676|-6.690038
+1014 >> Modify lat lon to es:gijon >> 43.54216|-5.66386
+1015 >> Modify lat lon to es:aviles >> 43.55563|-5.92217
+1016 >> Modify lat lon to es:llanes >> 43.421246|-4.754211
+1017 >> Modify lat lon to es:sitges >> 41.23655|1.80954
+1018 >> Modify lat lon to es:lloret de mar >> 41.69979|2.84741
+1019 >> Modify lat lon to es:rosas >> 42.26246|3.17648
+1020 >> Modify lat lon to es:tossa de mar >> 41.71998|2.93202
+1021 >> Modify lat lon to es:salou >> 41.07634|1.13176
+1022 >> Modify lat lon to es:cambrils >> 41.06643|1.06123
+1023 >> Modify lat lon to es:calvia >> 39.543903|2.508345
+1024 >> Modify lat lon to es:pollensa >> 39.877502|3.01589
+1025 >> Modify lat lon to es:alcudia >> 39.8532|3.12166
+1026 >> Modify lat lon to es:ciudadela >> 43.08579|-8.028826
+1027 >> Modify lat lon to es:sant antoni de portmany >> 38.98017|1.30325
+1028 >> Modify lat lon to es:santa eulalia del rio >> 38.98473|1.53373
+1029 >> Modify lat lon to es:ibiza >> 38.90884|1.43237
+1030 >> Modify lat lon to es:formentera >> 38.71101|1.469704
+1031 >> Modify lat lon to es:adeje >> 28.136366|-16.730856
+1032 >> Modify lat lon to es:puerto de la cruz >> 28.077206|-14.49784
+1033 >> Modify lat lon to es:maspalomas >> 27.753382|-15.586434
+1034 >> Modify lat lon to es:la oliva >> 28.665606|-13.915914
+1035 >> Modify lat lon to es:benidorm >> 38.536713|-0.12945
+1036 >> Modify lat lon to es:javea >> 38.767513|0.171648
+1037 >> Modify lat lon to es:denia >> 38.83996|0.10704
+1038 >> Modify lat lon to es:calpe >> 38.644753|0.0445
+1039 >> Modify lat lon to es:torrevieja >> 37.97733|-0.68045
+1040 >> Modify lat lon to es:moraira >> 38.689026|0.132259
+1041 >> Modify lat lon to es:altea >> 38.623142|-0.045181
+1042 >> Modify lat lon to es:guardamar del segura >> 38.080624|-0.665766
+1043 >> Modify lat lon to es:peniscola >> 40.35963|0.40318
+1044 >> Modify lat lon to es:oliva >> 38.897697|-0.102647
+1045 >> Modify lat lon to es:gandia >> 38.96601|-0.1852
+1046 >> Modify lat lon to es:marbella >> 36.50996|-4.88413
+1047 >> Modify lat lon to es:nerja >> 36.74746|-3.87637
+1048 >> Modify lat lon to es:benalmadena >> 36.5953|-4.57333
+1049 >> Modify lat lon to es:estepona >> 36.42548|-5.14489
+1050 >> Modify lat lon to es:fuengirola >> 36.539192|-4.62433
+1051 >> Modify lat lon to es:torremolinos >> 36.621887|-4.49993
+1052 >> Modify lat lon to es:mijas >> 36.59557|-4.63771
+1053 >> Modify lat lon to es:ronda >> 36.74268|-5.16536
+1054 >> Modify lat lon to es:sanlucar de barrameda >> 36.776546|-6.349798
+1055 >> Modify lat lon to es:conil de la frontera >> 36.276066|-6.087532
+1056 >> Modify lat lon to es:tarifa >> 37.58677|-2.418713
+1057 >> Modify lat lon to es:jerez de la frontera >> 36.682472|-6.13665
+1058 >> Modify lat lon to es:chiclana de la frontera >> 36.399654|-6.110114
+1059 >> Modify lat lon to es:chipiona >> 36.728893|-6.409672
+1060 >> Modify lat lon to es:el puerto de santa maria >> 36.59906|-6.22427
+1061 >> Modify lat lon to es:algeciras >> 36.12912|-5.44664
+1062 >> Modify lat lon to es:mojacar >> 37.13993|-1.85131
+1063 >> Modify lat lon to es:vera >> 37.22527|-1.856161
+1064 >> Modify lat lon to es:roquetas de mar >> 36.76386|-2.615263
+1065 >> Modify lat lon to es:almunecar >> 36.7337|-3.691178
+1066 >> Modify lat lon to es:motril >> 36.738537|-3.485211
+1067 >> Modify lat lon to es:ayamonte >> 37.270603|-7.383234
+1068 >> Modify lat lon to es:punta umbria >> 37.180813|-6.967303
+1069 >> Modify lat lon to es:isla cristina >> 37.222473|-7.286357
+1070 >> Modify lat lon to es:islantilla >> 37.21031|-7.217119
+1071 >> Modify lat lon to es:merida >> 38.9168|-6.34495
+1072 >> Modify lat lon to es:villacarrillo >> 38.086018|-3.039567
+1073 >> Modify lat lon to es:baeza >> 37.945347|-3.490764
+1074 >> Modify lat lon to es:ubeda >> 37.99272|-3.306885
+1075 >> Modify lat lon to es:cazorla >> 37.913292|-3.00256
+1076 >> Modify lat lon to es:haro >> 42.57668|-2.84669
+1077 >> Modify lat lon to pe:mancora >> -4.106057|-81.046135
+1078 >> Modify lat lon to pe:vichayito >> -4.142398|-81.09772
+1079 >> Modify lat lon to pe:zorritos  2 >> -3.685203|-80.648094
+1080 >> Modify lat lon to cl:antofagasta >> -23.651777|-70.396736
+1081 >> Modify lat lon to cl:taltal >> -25.368431|-70.137665
+1082 >> Modify lat lon to cl:mejillones >> -22.976957|-70.25418
+1083 >> Modify lat lon to cl:calama >> -22.541021|-68.82425
+1084 >> Modify lat lon to cl:tocopilla >> -22.019964|-70.028336
+1085 >> Modify lat lon to cl:caldera >> -27.141506|-70.68246
+1086 >> Modify lat lon to cl:copiapo >> -27.31988|-69.827805
+1087 >> Modify lat lon to cl:tierra amarilla >> -27.8636|-69.671776
+1088 >> Modify lat lon to cl:chanaral >> -26.373123|-70.33782
+1089 >> Modify lat lon to cl:el salvador >> -26.148949|-69.62051
+1090 >> Modify lat lon to cl:huasco >> -28.257727|-71.01688
+1091 >> Modify lat lon to cl:vallenar >> -28.594856|-70.60265
+1092 >> Modify lat lon to cl:arauco >> -37.245872|-73.31416
+1093 >> Modify lat lon to cl:curanilahue >> -37.4667|-73.35
+1094 >> Modify lat lon to cl:lebu >> -37.674213|-73.58898
+1095 >> Modify lat lon to cl:cabrero >> -37.06172|-72.381355
+1096 >> Modify lat lon to cl:los angeles >> -37.407177|-72.327255
+1097 >> Modify lat lon to cl:yumbel >> -37.0833|-72.5667
+1098 >> Modify lat lon to cl:concepcion >> -36.834324|-72.951614
+1099 >> Modify lat lon to cl:coronel >> -37.0167|-73.1333
+1100 >> Modify lat lon to cl:lota >> -37.092346|-73.15557
+1101 >> Modify lat lon to cl:san pedro de la paz >> -36.838005|-73.10965
+1102 >> Modify lat lon to cl:tome >> -36.579|-72.93086
+1103 >> Modify lat lon to cl:bulnes >> -36.7333|-72.3
+1104 >> Modify lat lon to cl:chillan >> -36.59208|-72.10689
+1105 >> Modify lat lon to cl:quillon >> -36.7333|-72.4667
+1106 >> Modify lat lon to cl:san carlos >> -36.385895|-72.01844
+1107 >> Modify lat lon to cl:andacollo >> -30.220839|-71.07701
+1108 >> Modify lat lon to cl:illapel >> -31.6308|-71.1653
+1109 >> Modify lat lon to cl:los vilos >> -31.974613|-71.34223
+1110 >> Modify lat lon to cl:combarbala >> -31.1756|-71.0006
+1111 >> Modify lat lon to cl:coquimbo >> -30.081457|-71.33624
+1112 >> Modify lat lon to cl:vicuna >> -29.846485|-70.60025
+1113 >> Modify lat lon to cl:ovalle >> -30.59863|-71.19879
+1114 >> Modify lat lon to cl:monte patria >> -30.779732|-70.9133
+1115 >> Modify lat lon to cl:codegua >> -34.057117|-70.54728
+1116 >> Modify lat lon to cl:las cabras >> -34.3|-71.3167
+1117 >> Modify lat lon to cl:machali >> -34.17611|-70.66048
+1118 >> Modify lat lon to cl:pichilemu >> -34.38393|-71.91078
+1119 >> Modify lat lon to cl:rancagua >> -34.125664|-70.81693
+1120 >> Modify lat lon to cl:rengo >> -34.4167|-70.8667
+1121 >> Modify lat lon to cl:nancagua >> -34.6667|-71.2167
+1122 >> Modify lat lon to cl:palmilla >> -34.527905|-71.35291
+1123 >> Modify lat lon to cl:san fernando >> -34.583862|-70.98906
+1124 >> Modify lat lon to cl:santa cruz >> -34.640343|-71.366
+1125 >> Modify lat lon to cl:pitrufquen >> -39.06782|-72.71983
+1126 >> Modify lat lon to cl:temuco >> -38.683083|-72.67313
+1127 >> Modify lat lon to cl:angol >> -37.767548|-72.79561
+1128 >> Modify lat lon to cl:collipulli >> -38.02208|-72.130844
+1129 >> Modify lat lon to cl:curacautin >> -38.427967|-71.77352
+1130 >> Modify lat lon to cl:puren >> -38.0167|-73.0833
+1131 >> Modify lat lon to cl:renaico >> -37.71733|-72.57547
+1132 >> Modify lat lon to cl:victoria >> -38.234474|-72.336815
+1133 >> Modify lat lon to cl:ancud >> -41.915462|-73.79246
+1134 >> Modify lat lon to cl:castro >> -42.475304|-73.75514
+1135 >> Modify lat lon to cl:frutillar >> -41.08392|-73.114624
+1136 >> Modify lat lon to cl:llanquihue >> -41.2308|-73.1533
+1137 >> Modify lat lon to cl:puerto montt >> -41.47248|-72.93568
+1138 >> Modify lat lon to cl:puerto varas >> -41.32069|-72.98645
+1139 >> Modify lat lon to cl:osorno >> -40.613823|-73.10409
+1140 >> Modify lat lon to cl:futrono >> -40.110916|-72.11524
+1141 >> Modify lat lon to cl:la union >> -40.201874|-73.22035
+1142 >> Modify lat lon to cl:los lagos >> -39.85818|-72.589134
+1143 >> Modify lat lon to cl:paillaco >> -40.074318|-72.84327
+1144 >> Modify lat lon to cl:panguipulli >> -39.67103|-72.101715
+1145 >> Modify lat lon to cl:valdivia >> -39.81117|-73.18916
+1146 >> Modify lat lon to cl:puerto natales >> -51.659286|-72.49074
+1147 >> Modify lat lon to cl:curico >> -35.19931|-70.89491
+1148 >> Modify lat lon to cl:molina >> -35.1167|-71.2833
+1149 >> Modify lat lon to cl:linares >> -35.958435|-71.3317
+1150 >> Modify lat lon to cl:parral >> -36.251842|-71.68808
+1151 >> Modify lat lon to cl:san javier >> -35.629147|-71.92832
+1152 >> Modify lat lon to cl:villa alegre >> -35.68612|-71.68409
+1153 >> Modify lat lon to cl:constitucion >> -35.363426|-72.276115
+1154 >> Modify lat lon to cl:talca >> -35.42776|-71.60246
+1155 >> Modify lat lon to cl:colina >> -33.13164|-70.61936
+1156 >> Modify lat lon to cl:tiltil >> -33.0833|-70.9333
+1157 >> Modify lat lon to cl:pirque >> -33.677593|-70.5276
+1158 >> Modify lat lon to cl:puente alto >> -33.610542|-70.581024
+1159 >> Modify lat lon to cl:san jose de maipo >> -33.704403|-70.096596
+1160 >> Modify lat lon to cl:buin >> -33.74785|-70.738846
+1161 >> Modify lat lon to cl:paine >> -33.86126|-70.76556
+1162 >> Modify lat lon to cl:san bernardo >> -33.62912|-70.72398
+1163 >> Modify lat lon to cl:melipilla >> -33.7|-71.2167
+1164 >> Modify lat lon to cl:conchali >> -33.37649|-70.62975
+1165 >> Modify lat lon to cl:el bosque >> -33.56274|-70.67612
+1166 >> Modify lat lon to cl:independencia >> -33.41457|-70.665
+1167 >> Modify lat lon to cl:la cisterna >> -33.530067|-70.663826
+1168 >> Modify lat lon to cl:la florida >> -36.82231|-72.71781
+1169 >> Modify lat lon to cl:la granja >> -33.535477|-70.62246
+1170 >> Modify lat lon to cl:la reina >> -33.446217|-70.52546
+1171 >> Modify lat lon to cl:las condes >> -33.40504|-70.5205
+1172 >> Modify lat lon to cl:lo prado >> -33.44681|-70.722916
+1173 >> Modify lat lon to cl:maipu >> -33.506744|-70.80934
+1174 >> Modify lat lon to cl:nunoa >> -33.457813|-70.598656
+1175 >> Modify lat lon to cl:providencia >> -33.431747|-70.60968
+1176 >> Modify lat lon to cl:quinta normal >> -33.427555|-70.70105
+1177 >> Modify lat lon to cl:recoleta >> -33.40576|-70.63926
+1178 >> Modify lat lon to cl:renca >> -33.401733|-70.727554
+1179 >> Modify lat lon to cl:san miguel >> -33.49901|-70.6515
+1180 >> Modify lat lon to cl:vitacura >> -33.38011|-70.571884
+1181 >> Modify lat lon to cl:el monte >> -33.67818|-70.99158
+1182 >> Modify lat lon to cl:isla de maipo >> -33.750782|-70.87791
+1183 >> Modify lat lon to cl:padre hurtado >> -33.5667|-70.8333
+1184 >> Modify lat lon to cl:penaflor >> -33.60452|-70.87732
+1185 >> Modify lat lon to cl:talangate >> -33.68193|-70.89536
+1186 >> Modify lat lon to cl:pozo almonte >> -20.223274|-69.773834
+1187 >> Modify lat lon to cl:hanga roa >> -27.147999|-109.427284
+1188 >> Modify lat lon to cl:calle larga >> -32.947906|-70.54737
+1189 >> Modify lat lon to cl:los andes >> -32.840405|-70.57883
+1190 >> Modify lat lon to cl:rinconada >> -32.877464|-70.706345
+1191 >> Modify lat lon to cl:san esteban >> -32.727436|-70.51311
+1192 >> Modify lat lon to cl:la ligua >> -32.346855|-71.28939
+1193 >> Modify lat lon to cl:limache >> -32.99327|-71.2761
+1194 >> Modify lat lon to cl:olmue >> -33.028996|-71.116
+1195 >> Modify lat lon to cl:quillota >> -32.908466|-71.24824
+1196 >> Modify lat lon to cl:algarrobo >> -33.330173|-71.60475
+1197 >> Modify lat lon to cl:cartagena >> -33.537712|-71.54753
+1198 >> Modify lat lon to cl:el quisco >> -33.40292|-71.661736
+1199 >> Modify lat lon to cl:el tabo >> -33.47766|-71.60245
+1200 >> Modify lat lon to cl:san antonio >> -33.667015|-71.48683
+1201 >> Modify lat lon to cl:santo domingo >> -33.800156|-71.687294
+1202 >> Modify lat lon to cl:santa maria >> -32.718685|-70.626015
+1203 >> Modify lat lon to cl:concon >> -32.93499|-71.53496
+1204 >> Modify lat lon to cl:quilpue >> -33.147194|-71.253334
+1205 >> Modify lat lon to cl:quintero >> -32.836884|-71.48155
+1206 >> Modify lat lon to cl:villa alemana >> -33.054123|-71.34994
+1207 >> Modify lat lon to cl:arica 0b1d435e 695d 40d5 853b d399b683b3f7 >> -18.614136|-70.21739
+1208 >> Modify lat lon to cl:chile chico >> -46.542767|-71.76453
+1209 >> Modify lat lon to cl:san pedro de atacama >> -22.911015|-68.193726
+1210 >> Modify lat lon to cl:coyhaique >> -45.571213|-72.06847
+1211 >> Modify lat lon to cl:puerto rio tranquilo >> -46.63953|-72.67236
+1212 >> Modify lat lon to bo:trinidad 25917 >> -14.854517|-64.8829
+1213 >> Modify lat lon to bo:san javier >> -16.269234|-62.507595
+1214 >> Modify lat lon to bo:riberalta >> -11.032274|-66.03182
+1215 >> Modify lat lon to bo:guayaramerin >> -10.851137|-65.39087
+1216 >> Modify lat lon to bo:rurrenabaque >> -14.432679|-67.51094
+1217 >> Modify lat lon to bo:santa ana del yacuma >> -13.783221|-65.528984
+1218 >> Modify lat lon to bo:san ignacio de moxos >> -14.991289|-65.65279
+1219 >> Modify lat lon to bo:sucre >> -19.048325|-65.25827
+1220 >> Modify lat lon to bo:yotala >> -19.152|-65.27001
+1221 >> Modify lat lon to bo:cochabamba >> -17.388485|-66.15469
+1222 >> Modify lat lon to bo:villa tunari >> -16.987167|-65.432724
+1223 >> Modify lat lon to bo:tiquipaya >> -17.338095|-66.216736
+1224 >> Modify lat lon to bo:el alto 26015 >> -16.54202|-68.204636
+1225 >> Modify lat lon to bo:la paz 26016 >> -16.502998|-68.130684
+1226 >> Modify lat lon to bo:achacachi >> -16.031052|-68.700455
+1227 >> Modify lat lon to bo:sorata >> -15.792257|-68.601166
+1228 >> Modify lat lon to bo:apolo >> -14.643369|-68.23684
+1229 >> Modify lat lon to bo:coroico >> -16.209442|-67.73281
+1230 >> Modify lat lon to bo:chulumani >> -16.408646|-67.52891
+1231 >> Modify lat lon to bo:palca >> -16.547676|-68.00566
+1232 >> Modify lat lon to bo:mecapaca >> -16.650475|-68.029755
+1233 >> Modify lat lon to bo:copacabana >> -16.166046|-69.08633
+1234 >> Modify lat lon to bo:san buenaventura >> -14.428944|-67.55001
+1235 >> Modify lat lon to bo:yanacachi >> -16.382315|-67.764015
+1236 >> Modify lat lon to bo:huatajata >> -16.201302|-68.692955
+1237 >> Modify lat lon to bo:sabaya >> -19.01667|-68.38333
+1238 >> Modify lat lon to bo:oruro >> -17.967299|-67.095856
+1239 >> Modify lat lon to bo:todos santos >> -15.8833|-63.0667
+1240 >> Modify lat lon to bo:cobija >> -11.036361|-68.78563
+1241 >> Modify lat lon to bo:uyuni >> -20.404022|-66.858536
+1242 >> Modify lat lon to bo:toro toro >> -18.136015|-65.76044
+1243 >> Modify lat lon to bo:colcha k >> -20.941269|-67.35588
+1244 >> Modify lat lon to bo:san pedro de quemes >> -20.74848|-68.05018
+1245 >> Modify lat lon to bo:tupiza >> -21.450335|-65.71739
+1246 >> Modify lat lon to bo:potosi >> -19.537031|-65.7629
+1247 >> Modify lat lon to bo:la guardia >> -17.901564|-63.330498
+1248 >> Modify lat lon to bo:san jose de chiquitos >> -17.830942|-60.760803
+1249 >> Modify lat lon to bo:camiri >> -20.032408|-63.526505
+1250 >> Modify lat lon to bo:samaipata >> -18.17989|-63.866795
+1251 >> Modify lat lon to bo:san ignacio de velasco >> -16.381474|-60.936893
+1252 >> Modify lat lon to bo:concepcion 26231 >> -16.135372|-62.007442
+1253 >> Modify lat lon to bo:portachuelo >> -17.352533|-63.396473
+1254 >> Modify lat lon to bo:vallegrande >> -18.485516|-64.097176
+1255 >> Modify lat lon to bo:bermejo >> -22.731789|-64.339355
+1256 >> Modify lat lon to bo:tarija >> -21.53453|-64.732475
+1257 >> Modify lat lon to cr:alajuela >> 10.016696|-84.224434
+1258 >> Modify lat lon to cr:san ramon >> 10.119021|-84.4599
+1259 >> Modify lat lon to cr:upala >> 10.884242|-85.05814
+1260 >> Modify lat lon to cr:naranjo >> 10.103591|-84.38046
+1261 >> Modify lat lon to cr:palmares >> 10.064229|-84.434364
+1262 >> Modify lat lon to cr:atenas >> 9.984212|-84.38639
+1263 >> Modify lat lon to cr:los chiles >> 10.962063|-84.604324
+1264 >> Modify lat lon to cr:orotina >> 9.914056|-84.52421
+1265 >> Modify lat lon to cr:san mateo >> 9.966877|-84.53137
+1266 >> Modify lat lon to cr:cartago >> 9.85935|-83.92349
+1267 >> Modify lat lon to cr:turrialba >> 9.90431|-83.68332
+1268 >> Modify lat lon to cr:paraiso >> 10.359992|-85.86126
+1269 >> Modify lat lon to cr:liberia >> 10.585932|-85.45078
+1270 >> Modify lat lon to cr:santa cruz 24145 >> 10.23916|-85.59929
+1271 >> Modify lat lon to cr:nicoya >> 10.118469|-85.50483
+1272 >> Modify lat lon to cr:canas >> 10.450101|-85.09029
+1273 >> Modify lat lon to cr:tilaran >> 10.457504|-84.93353
+1274 >> Modify lat lon to cr:bagaces >> 10.464512|-85.28283
+1275 >> Modify lat lon to cr:la cruz >> 11.069106|-85.62227
+1276 >> Modify lat lon to cr:abangares >> 10.155619|-85.04296
+1277 >> Modify lat lon to cr:heredia >> 9.9985|-84.11728
+1278 >> Modify lat lon to cr:sarapiqui >> 10.47058|-84.07386
+1279 >> Modify lat lon to cr:san rafael 24158 >> 9.98333|-84.6167
+1280 >> Modify lat lon to cr:santo domingo >> 10.11309|-84.14817
+1281 >> Modify lat lon to cr:san isidro 24164 >> 9.975717|-84.00741
+1282 >> Modify lat lon to cr:limon >> 9.992055|-83.027725
+1283 >> Modify lat lon to cr:siquirres >> 10.13797|-83.41793
+1284 >> Modify lat lon to cr:guacimo >> 10.173866|-83.702446
+1285 >> Modify lat lon to cr:puntarenas >> 9.968638|-84.80772
+1286 >> Modify lat lon to cr:buenos aires 24175 >> 9.205627|-83.277405
+1287 >> Modify lat lon to cr:golfito >> 8.640285|-83.16741
+1288 >> Modify lat lon to cr:quepos >> 9.43089|-84.16396
+1289 >> Modify lat lon to cr:parrita >> 9.535018|-84.294136
+1290 >> Modify lat lon to cr:san jose >> 9.93286|-84.07956
+1291 >> Modify lat lon to cr:desamparados >> 9.899227|-84.06278
+1292 >> Modify lat lon to cr:alajuelita >> 9.888376|-84.1116
+1293 >> Modify lat lon to cr:curridabat >> 9.911158|-84.02837
+1294 >> Modify lat lon to cr:aserri >> 9.854964|-84.10853
+1295 >> Modify lat lon to cr:escazu >> 9.920195|-84.139015
+1296 >> Modify lat lon to cr:santa ana >> 9.938707|-84.20031
+1297 >> Modify lat lon to cr:jaco >> 9.627272|-84.60138
+1298 >> Modify lat lon to cr:monteverde >> 10.306625|-84.81133
+1299 >> Modify lat lon to cu:pinar del rio >> 22.39749|-83.67931
+1300 >> Modify lat lon to cu:mantua >> 22.365847|-84.27252
+1301 >> Modify lat lon to cu:san juan y martinez >> 22.294146|-83.87178
+1302 >> Modify lat lon to cu:sandino >> 22.083832|-84.18863
+1303 >> Modify lat lon to cu:vinales >> 22.616243|-83.70909
+1304 >> Modify lat lon to cu:artemisa >> 22.781416|-82.81483
+1305 >> Modify lat lon to cu:san antonio de los banos >> 22.907396|-82.48937
+1306 >> Modify lat lon to cu:bauta >> 22.9769|-82.54395
+1307 >> Modify lat lon to cu:caimito 25384 >> 22.930712|-82.62284
+1308 >> Modify lat lon to cu:la habana >> 23.0774|-82.3092
+1309 >> Modify lat lon to cu:playa >> 23.112366|-82.43901
+1310 >> Modify lat lon to cu:san jose de las lajas >> 22.99315|-82.148094
+1311 >> Modify lat lon to cu:bejucal >> 22.912363|-82.344315
+1312 >> Modify lat lon to cu:jaruco >> 23.042612|-82.00666
+1313 >> Modify lat lon to cu:melena del sur >> 22.782015|-82.157364
+1314 >> Modify lat lon to cu:santa cruz del norte >> 23.150007|-81.97629
+1315 >> Modify lat lon to cu:matanzas >> 23.058264|-81.58099
+1316 >> Modify lat lon to cu:cardenas >> 23.036251|-81.21307
+1317 >> Modify lat lon to cu:calimete >> 22.430662|-80.91467
+1318 >> Modify lat lon to cu:jaguey grande >> 22.589066|-81.12153
+1319 >> Modify lat lon to cu:cienfuegos >> 22.134521|-80.42456
+1320 >> Modify lat lon to cu:cumanayagua >> 22.03488|-80.19568
+1321 >> Modify lat lon to cu:palmira 25439 >> 22.287497|-80.38037
+1322 >> Modify lat lon to cu:santa clara 25442 >> 22.426838|-79.92332
+1323 >> Modify lat lon to cu:sagua la grande >> 22.813805|-80.05739
+1324 >> Modify lat lon to cu:caibarien >> 22.53159|-79.520164
+1325 >> Modify lat lon to cu:corralillo >> 22.9458|-80.56577
+1326 >> Modify lat lon to cu:sancti spiritus >> 21.83307|-79.49638
+1327 >> Modify lat lon to cu:trinidad >> 21.8023|-79.99778
+1328 >> Modify lat lon to cu:fomento >> 22.067957|-79.71008
+1329 >> Modify lat lon to cu:jatibonico >> 21.940834|-79.16642
+1330 >> Modify lat lon to cu:moron 25465 >> 22.192257|-78.5867
+1331 >> Modify lat lon to cu:ciego de avila >> 21.861744|-78.7597
+1332 >> Modify lat lon to cu:camaguey >> 21.425703|-77.92532
+1333 >> Modify lat lon to cu:ciego de avila 25477 >> 21.861744|-78.7597
+1334 >> Modify lat lon to cu:nuevitas >> 21.53621|-77.30792
+1335 >> Modify lat lon to cu:guaimaro >> 21.161976|-77.34547
+1336 >> Modify lat lon to cu:jimaguayu >> 21.226372|-77.84858
+1337 >> Modify lat lon to cu:las tunas >> 20.961185|-76.9492
+1338 >> Modify lat lon to cu:puerto padre >> 21.233107|-76.66346
+1339 >> Modify lat lon to cu:colombia >> 20.979042|-77.425674
+1340 >> Modify lat lon to cu:bayamo >> 20.393532|-76.62797
+1341 >> Modify lat lon to cu:manzanillo >> 20.303003|-77.09467
+1342 >> Modify lat lon to cu:niquero >> 20.037516|-77.54093
+1343 >> Modify lat lon to cu:bartolome maso >> 20.103142|-76.927895
+1344 >> Modify lat lon to cu:buey arriba >> 20.114538|-76.716286
+1345 >> Modify lat lon to cu:pilon 25510 >> 19.904331|-77.34332
+1346 >> Modify lat lon to cu:yara >> 20.333443|-76.95895
+1347 >> Modify lat lon to cu:holguin >> 20.871063|-76.276276
+1348 >> Modify lat lon to cu:moa >> 20.640026|-74.97565
+1349 >> Modify lat lon to cu:banes >> 20.969568|-75.70957
+1350 >> Modify lat lon to cu:mayari >> 20.661642|-75.67495
+1351 >> Modify lat lon to cu:antilla >> 20.846684|-75.67007
+1352 >> Modify lat lon to cu:gibara >> 21.107277|-76.10603
+1353 >> Modify lat lon to cu:rafael freyre >> 21.010618|-75.988014
+1354 >> Modify lat lon to cu:santiago de cuba >> 20.011501|-75.709625
+1355 >> Modify lat lon to cu:palma soriano >> 20.21542|-75.99164
+1356 >> Modify lat lon to cu:guama >> 19.975033|-76.49353
+1357 >> Modify lat lon to cu:guantanamo >> 20.104542|-75.16238
+1358 >> Modify lat lon to cu:baracoa >> 20.365126|-74.51994
+1359 >> Modify lat lon to cu:caimanera >> 19.95728|-75.14417
+1360 >> Modify lat lon to cu:nueva gerona >> 21.860432|-82.786354
+1361 >> Modify lat lon to do:las salinas >> 18.213047|-70.547005
+1362 >> Modify lat lon to do:paraiso 25205 >> 18.02653|-71.20899
+1363 >> Modify lat lon to do:san francisco de macoris >> 19.3|-70.25
+1364 >> Modify lat lon to do:arenoso >> 19.191008|-69.76817
+1365 >> Modify lat lon to do:las guaranas >> 19.200983|-70.22393
+1366 >> Modify lat lon to do:villa riva >> 19.150478|-69.88369
+1367 >> Modify lat lon to do:gaspar hernandez >> 19.596178|-70.268814
+1368 >> Modify lat lon to do:sabana de la mar >> 19.010374|-69.41188
+1369 >> Modify lat lon to do:la descubierta >> 18.60796|-71.75162
+1370 >> Modify lat lon to do:higuey >> 18.68197|-68.68916
+1371 >> Modify lat lon to do:la romana >> 18.454342|-68.937065
+1372 >> Modify lat lon to do:jarabacoa >> 19.086012|-70.720276
+1373 >> Modify lat lon to do:constanza >> 18.876925|-70.67525
+1374 >> Modify lat lon to do:nagua >> 19.37635|-69.93635
+1375 >> Modify lat lon to do:cabrera >> 19.580109|-69.96021
+1376 >> Modify lat lon to do:el factor >> 19.292654|-69.91559
+1377 >> Modify lat lon to do:rio san juan >> 19.644045|-70.07802
+1378 >> Modify lat lon to do:bonao >> 18.939302|-70.45712
+1379 >> Modify lat lon to do:maimon >> 18.908434|-70.277794
+1380 >> Modify lat lon to do:pedernales >> 18.061556|-71.60084
+1381 >> Modify lat lon to do:bani >> 18.337723|-70.38157
+1382 >> Modify lat lon to do:luperon >> 19.856798|-70.974434
+1383 >> Modify lat lon to do:sosua >> 19.751194|-70.52055
+1384 >> Modify lat lon to do:las terrenas >> 19.285824|-69.55469
+1385 >> Modify lat lon to do:san cristobal >> 18.433607|-70.12566
+1386 >> Modify lat lon to do:los cacaos >> 18.593136|-70.32508
+1387 >> Modify lat lon to do:villa altagracia >> 18.66667|-70.16667
+1388 >> Modify lat lon to do:san jose de ocoa >> 18.57038|-70.49805
+1389 >> Modify lat lon to do:san juan de la maguana >> 18.892914|-71.24108
+1390 >> Modify lat lon to do:san pedro de macoris >> 18.45486|-69.30674
+1391 >> Modify lat lon to do:la mata >> 19.101053|-70.16929
+1392 >> Modify lat lon to do:santiago de los caballeros >> 19.480635|-70.73146
+1393 >> Modify lat lon to do:santo domingo este >> 18.51236|-69.79419
+1394 >> Modify lat lon to do:santo domingo norte >> 18.609833|-69.912895
+1395 >> Modify lat lon to do:santo domingo oeste >> 18.474382|-70.0135
+1396 >> Modify lat lon to do:boca chica 25357 >> 18.451765|-69.608345
+1397 >> Modify lat lon to do:punta cana >> 18.59386|-68.38268
+1398 >> Modify lat lon to do:puerto plata >> 19.79659|-70.69324
+1399 >> Modify lat lon to gt:coban >> 15.462929|-90.38392
+1400 >> Modify lat lon to gt:san juan chamelco >> 15.417645|-90.33443
+1401 >> Modify lat lon to gt:lanquin >> 15.576199|-89.979965
+1402 >> Modify lat lon to gt:chisec >> 15.812986|-90.290924
+1403 >> Modify lat lon to gt:santa cruz verapaz >> 15.378348|-90.41678
+1404 >> Modify lat lon to gt:purulha >> 15.194269|-90.209984
+1405 >> Modify lat lon to gt:rabinal >> 15.086696|-90.50239
+1406 >> Modify lat lon to gt:salama >> 15.105212|-90.31603
+1407 >> Modify lat lon to gt:san jeronimo >> 15.062466|-90.25086
+1408 >> Modify lat lon to gt:chimaltenango >> 14.67015|-90.81077
+1409 >> Modify lat lon to gt:tecpan guatemala >> 14.759477|-90.98873
+1410 >> Modify lat lon to gt:acatenango >> 14.5519|-90.9422
+1411 >> Modify lat lon to gt:chiquimula >> 14.787237|-89.54259
+1412 >> Modify lat lon to gt:esquipulas >> 14.577425|-89.34294
+1413 >> Modify lat lon to gt:ipala >> 14.612098|-89.63342
+1414 >> Modify lat lon to gt:san cristobal acasaguastlan >> 15.004504|-89.87256
+1415 >> Modify lat lon to gt:iztapa >> 13.93797|-90.683716
+1416 >> Modify lat lon to gt:la gomera >> 14.08333|-91.05
+1417 >> Modify lat lon to gt:masagua >> 14.2031|-90.8481
+1418 >> Modify lat lon to gt:santa lucia cotzumalguapa >> 14.304068|-91.057686
+1419 >> Modify lat lon to gt:sipacate >> 13.93491|-91.13949
+1420 >> Modify lat lon to gt:tiquisate >> 14.285137|-91.36381
+1421 >> Modify lat lon to gt:mixco >> 14.640654|-90.60076
+1422 >> Modify lat lon to gt:san jose pinula >> 14.542641|-90.407646
+1423 >> Modify lat lon to gt:fraijanes >> 14.471419|-90.44186
+1424 >> Modify lat lon to gt:amatitlan >> 14.475081|-90.62234
+1425 >> Modify lat lon to gt:villa canales >> 14.470466|-90.51169
+1426 >> Modify lat lon to gt:puerto barrios >> 15.724726|-88.601425
+1427 >> Modify lat lon to gt:livingston >> 15.753923|-89.03859
+1428 >> Modify lat lon to gt:el estor >> 15.537274|-89.33317
+1429 >> Modify lat lon to gt:morales >> 15.471175|-88.8431
+1430 >> Modify lat lon to gt:moyuta >> 14.039147|-90.08169
+1431 >> Modify lat lon to gt:dolores >> 15.0833|-90.3333
+1432 >> Modify lat lon to gt:flores 24982 >> 16.93003|-89.89165
+1433 >> Modify lat lon to gt:melchor de mencos >> 17.062672|-89.15731
+1434 >> Modify lat lon to gt:poptun >> 16.338661|-89.52263
+1435 >> Modify lat lon to gt:san andres 24986 >> 16.970835|-89.92324
+1436 >> Modify lat lon to gt:san benito >> 16.906824|-89.923584
+1437 >> Modify lat lon to gt:las cruces 24993 >> 16.661875|-90.29028
+1438 >> Modify lat lon to gt:el chal >> 16.647915|-89.653435
+1439 >> Modify lat lon to gt:olintepeque >> 14.8833|-91.5167
+1440 >> Modify lat lon to gt:quetzaltenango >> 14.834272|-91.51838
+1441 >> Modify lat lon to gt:san martin sacatepequez >> 14.809353|-91.65246
+1442 >> Modify lat lon to gt:chajul >> 15.4853|-91.0342
+1443 >> Modify lat lon to gt:chichicastenango >> 14.9414|-91.107635
+1444 >> Modify lat lon to gt:nebaj >> 15.4058|-91.1461
+1445 >> Modify lat lon to gt:sacapulas >> 15.2867|-91.0872
+1446 >> Modify lat lon to gt:santa cruz del quiche >> 15.031281|-91.14902
+1447 >> Modify lat lon to gt:el asintal >> 14.620647|-91.73009
+1448 >> Modify lat lon to gt:retalhuleu >> 14.529981|-91.68435
+1449 >> Modify lat lon to gt:santa cruz mulua >> 14.583602|-91.623344
+1450 >> Modify lat lon to gt:alotenango >> 14.453504|-90.81294
+1451 >> Modify lat lon to gt:antigua guatemala >> 14.556826|-90.7337
+1452 >> Modify lat lon to gt:ciudad vieja >> 14.5264|-90.7597
+1453 >> Modify lat lon to gt:santa lucia milpas altas >> 14.57146|-90.66546
+1454 >> Modify lat lon to gt:catarina >> 14.839716|-92.076164
+1455 >> Modify lat lon to gt:tacana >> 15.236335|-92.06897
+1456 >> Modify lat lon to gt:barberena >> 14.301754|-90.35309
+1457 >> Modify lat lon to gt:monterrico >> 13.910703|-90.55724
+1458 >> Modify lat lon to gt:santa rosa de lima >> 14.389089|-90.29809
+1459 >> Modify lat lon to gt:taxisco >> 14.069026|-90.463585
+1460 >> Modify lat lon to gt:solola >> 14.772711|-91.17185
+1461 >> Modify lat lon to gt:concepcion 25118 >> 14.194099|-90.36891
+1462 >> Modify lat lon to gt:panajachel >> 14.737735|-91.15695
+1463 >> Modify lat lon to gt:san antonio palopo >> 14.676679|-91.112564
+1464 >> Modify lat lon to gt:san juan la laguna >> 14.694263|-91.287865
+1465 >> Modify lat lon to gt:san lucas toliman >> 14.637105|-91.145195
+1466 >> Modify lat lon to gt:san marcos la laguna >> 14.726427|-91.25853
+1467 >> Modify lat lon to gt:san pablo la laguna >> 14.72139|-91.27342
+1468 >> Modify lat lon to gt:san pedro la laguna >> 14.690421|-91.26983
+1469 >> Modify lat lon to gt:santa catarina palopo >> 14.720587|-91.13368
+1470 >> Modify lat lon to gt:santa cruz la laguna >> 14.740238|-91.209694
+1471 >> Modify lat lon to gt:santiago atitlan >> 14.642252|-91.22791
+1472 >> Modify lat lon to gt:zunilito >> 14.624873|-91.50497
+1473 >> Modify lat lon to gt:estanzuela >> 15.0|-89.56667
+1474 >> Modify lat lon to gt:rio hondo 25173 >> 15.098215|-89.59815
+1475 >> Modify lat lon to gt:teculutan >> 14.988364|-89.716866
+1476 >> Modify lat lon to py:ciudad del este >> -25.506836|-54.63889
+1477 >> Modify lat lon to py:presidente franco >> -25.600863|-54.634876
+1478 >> Modify lat lon to py:hernandarias >> -25.315763|-54.726864
+1479 >> Modify lat lon to py:doctor juan leon mallorquin >> -25.471935|-55.254356
+1480 >> Modify lat lon to py:los cedrales >> -25.677645|-54.745403
+1481 >> Modify lat lon to py:naranjal >> -25.973127|-55.18764
+1482 >> Modify lat lon to py:pedro juan caballero >> -22.561237|-55.739777
+1483 >> Modify lat lon to py:filadelfia >> -22.213842|-60.086098
+1484 >> Modify lat lon to py:salto del guaira >> -24.078718|-54.371357
+1485 >> Modify lat lon to py:luque >> -25.251978|-57.45063
+1486 >> Modify lat lon to py:san lorenzo 25734 >> -25.352545|-57.50957
+1487 >> Modify lat lon to py:lambare >> -25.353916|-57.615894
+1488 >> Modify lat lon to py:fernando de la mora >> -25.328165|-57.551117
+1489 >> Modify lat lon to py:limpio >> -25.157555|-57.464554
+1490 >> Modify lat lon to py:nemby >> -25.400284|-57.53688
+1491 >> Modify lat lon to py:itaugua >> -25.402805|-57.361015
+1492 >> Modify lat lon to py:mariano roque alonso >> -25.194511|-57.53007
+1493 >> Modify lat lon to py:aregua >> -25.30618|-57.40436
+1494 >> Modify lat lon to py:villeta >> -25.523558|-57.547123
+1495 >> Modify lat lon to py:guarambare >> -25.487816|-57.451122
+1496 >> Modify lat lon to py:ypacarai >> -25.399769|-57.285374
+1497 >> Modify lat lon to py:concepcion 25753 >> -23.381245|-57.40526
+1498 >> Modify lat lon to py:caacupe >> -25.385216|-57.145817
+1499 >> Modify lat lon to py:piribebuy >> -25.469711|-57.04727
+1500 >> Modify lat lon to py:arroyos y esteros >> -25.081621|-57.113503
+1501 >> Modify lat lon to py:atyra >> -25.278273|-57.17252
+1502 >> Modify lat lon to py:altos >> -25.257265|-57.24741
+1503 >> Modify lat lon to py:caraguatay >> -25.23575|-56.825073
+1504 >> Modify lat lon to py:san bernardino 25775 >> -25.328539|-57.27533
+1505 >> Modify lat lon to py:itacurubi de la cordillera >> -25.45|-56.85
+1506 >> Modify lat lon to py:nueva colombia >> -25.179243|-57.309704
+1507 >> Modify lat lon to py:villarrica >> -25.781918|-56.450886
+1508 >> Modify lat lon to py:independencia >> -25.699024|-56.277393
+1509 >> Modify lat lon to py:encarnacion >> -27.262743|-55.8942
+1510 >> Modify lat lon to py:obligado >> -27.062685|-55.634705
+1511 >> Modify lat lon to py:bella vista 25821 >> -26.9733|-55.45811
+1512 >> Modify lat lon to py:san cosme y damian >> -27.28143|-56.34446
+1513 >> Modify lat lon to py:trinidad 25828 >> -27.143955|-55.73178
+1514 >> Modify lat lon to py:jesus >> -27.072693|-55.807205
+1515 >> Modify lat lon to py:villa florida >> -26.3833|-57.15
+1516 >> Modify lat lon to py:yaguaron >> -25.545189|-57.29389
+1517 >> Modify lat lon to py:ybycui >> -26.027002|-57.017097
+1518 >> Modify lat lon to py:paraguari >> -25.592377|-57.09174
+1519 >> Modify lat lon to py:asuncion >> -25.279572|-57.645187
+1520 >> Modify lat lon to uy:artigas >> -30.407206|-56.47695
+1521 >> Modify lat lon to uy:ciudad de la costa >> -34.827152|-55.952175
+1522 >> Modify lat lon to uy:las piedras >> -30.246132|-57.583584
+1523 >> Modify lat lon to uy:barros blancos >> -34.759052|-56.001682
+1524 >> Modify lat lon to uy:pando >> -34.70963|-55.96835
+1525 >> Modify lat lon to uy:la paz >> -34.74912|-56.229443
+1526 >> Modify lat lon to uy:canelones >> -34.5273|-56.286476
+1527 >> Modify lat lon to uy:santa lucia 25561 >> -34.45678|-56.388214
+1528 >> Modify lat lon to uy:progreso 25562 >> -34.662563|-56.22334
+1529 >> Modify lat lon to uy:salinas >> -34.773796|-55.840572
+1530 >> Modify lat lon to uy:parque del plata >> -34.757538|-55.723186
+1531 >> Modify lat lon to uy:atlantida >> -34.697746|-55.77101
+1532 >> Modify lat lon to uy:san jacinto 25570 >> -34.535545|-55.860924
+1533 >> Modify lat lon to uy:toledo >> -34.739716|-56.087673
+1534 >> Modify lat lon to uy:melo >> -32.369408|-54.164284
+1535 >> Modify lat lon to uy:colonia del sacramento >> -34.469906|-57.844765
+1536 >> Modify lat lon to uy:carmelo >> -33.972305|-58.272446
+1537 >> Modify lat lon to uy:juan lacaze >> -34.424557|-57.433453
+1538 >> Modify lat lon to uy:nueva helvecia >> -34.292053|-57.23583
+1539 >> Modify lat lon to uy:rosario 25584 >> -34.31971|-57.3597
+1540 >> Modify lat lon to uy:nueva palmira >> -33.87061|-58.404266
+1541 >> Modify lat lon to uy:tarariras >> -34.268368|-57.6104
+1542 >> Modify lat lon to uy:colonia valdense >> -34.330673|-57.22713
+1543 >> Modify lat lon to uy:durazno >> -33.388218|-56.529064
+1544 >> Modify lat lon to uy:trinidad 25594 >> -33.496906|-56.940838
+1545 >> Modify lat lon to uy:florida 25598 >> -34.098682|-56.22126
+1546 >> Modify lat lon to uy:minas 25600 >> -34.117046|-55.212543
+1547 >> Modify lat lon to uy:jose pedro varela >> -33.457935|-54.53875
+1548 >> Modify lat lon to uy:maldonado >> -34.819622|-54.9802
+1549 >> Modify lat lon to uy:san carlos 25604 >> -34.791336|-54.92055
+1550 >> Modify lat lon to uy:punta del este >> -34.963028|-54.943764
+1551 >> Modify lat lon to uy:piriapolis >> -34.837456|-55.276184
+1552 >> Modify lat lon to uy:aigua >> -34.204796|-54.758854
+1553 >> Modify lat lon to uy:montevideo >> -34.9065|-56.19976
+1554 >> Modify lat lon to uy:paysandu >> -32.389027|-57.994312
+1555 >> Modify lat lon to uy:guichon >> -32.35769|-57.22216
+1556 >> Modify lat lon to uy:fray bentos >> -33.12494|-58.299175
+1557 >> Modify lat lon to uy:rivera >> -31.071568|-55.656685
+1558 >> Modify lat lon to uy:chuy >> -33.70544|-53.540424
+1559 >> Modify lat lon to uy:lascano >> -33.6763|-54.20833
+1560 >> Modify lat lon to uy:castillos >> -34.194653|-53.855072
+1561 >> Modify lat lon to uy:la paloma >> -34.66816|-54.18573
+1562 >> Modify lat lon to uy:salto >> -31.378193|-57.948532
+1563 >> Modify lat lon to uy:san jose de mayo >> -34.341106|-56.719448
+1564 >> Modify lat lon to uy:ciudad del plata >> -34.752502|-56.417282
+1565 >> Modify lat lon to uy:mercedes 25633 >> -33.230186|-57.985035
+1566 >> Modify lat lon to uy:dolores 25634 >> -33.533375|-58.213383
+1567 >> Modify lat lon to uy:tacuarembo >> -31.720032|-55.98834
+1568 >> Modify lat lon to uy:san gregorio de polanco >> -32.609467|-55.839794
+1569 >> Modify lat lon to uy:treinta y tres >> -33.09019|-54.372013

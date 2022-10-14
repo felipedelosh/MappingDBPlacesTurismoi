@@ -1,7 +1,13 @@
 Lading information.... Turismoi:5087
 Lading information.... TravelCompositor:11663
 Lading LAT N LON info via.... Netactica:155388
-Cargando macheos manuales: 28
+Cargando macheos manuales: 38
+Adding GEO data via Netactica
+Total reg MACTH: 1788
+Toral reg NOT MACTH: 3299
+Total reg Modify: 1570
+Total reg not Modify: 3517
+
 Macht DATA via TravelCompositor via Name....
 Total Macth:721
 No Macth:10942
