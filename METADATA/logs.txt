@@ -2,7 +2,3 @@ Lading information.... Turismoi:5087
 Lading information.... TravelCompositor:11663
 Lading LAT N LON info via.... Netactica:155388
 Cargando macheos manuales: 38
-Macht DATA via TravelCompositor via Name....
-Total Macth:729
-No Macth:10934
-

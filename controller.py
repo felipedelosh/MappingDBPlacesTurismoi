@@ -60,8 +60,8 @@ class Controller:
             count_not_netactica_mach = 0
             count_modify_regs = 0
             count_not_modify_regs = 0
-
-            for i in self.turismoiData.data:
+            order_turismoi_keys = sorted(self.turismoiData.data.keys())
+            for i in order_turismoi_keys:
                 
                 data = i.split(":")
                 iso_code = data[0]
