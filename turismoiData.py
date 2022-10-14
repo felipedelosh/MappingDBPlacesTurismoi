@@ -297,9 +297,16 @@ class TurismoiDATA:
         return found
 
     def _eraseLowerAllNumbersOfString(self, txt):
-        for i in ['0','1','2','3','4','5','6','7','8','9','-','á','é','í','ó','ú','ñ','n','ä','ë','ï','ö','ü',',','_']:
+        txt = txt.lower()
+        # Delete stranger characters
+        for i in ['0','1','2','3','4','5','6','7','8','9','-',',','_']:
             txt = txt.replace(i, '')
-        return txt.strip().lower()
+        # replace 
+        dataReplace = [('á','a'),('é','e'),('í','i'),('ó','o'),('ú','u'),('ä','a'),('ë','e'),('ï','i'),('ö','o'),('ü','u'),('ñ','n')]
+        for i in dataReplace:
+            txt = txt.replace(i[0], i[1])
+
+        return txt.strip()
 
     def _verifySimilarLatLon(self, geoA, geoB):
         """
